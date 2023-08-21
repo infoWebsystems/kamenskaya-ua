@@ -1,0 +1,87 @@
+{
+  "type": "footer",
+  "name": "t:groups.footer_group.name",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-0": {
+          "type": "text",
+          "settings": {
+            "desktop_width": 30,
+            "desktop_padding": 0,
+            "collapse_on_mobile": false,
+            "title": "",
+            "show_title_on_desktop": true,
+            "text": "<p>Made by an artist for an artist<\/p>",
+            "image": "shopify:\/\/shop_images\/Kamenskaya_logo2.svg",
+            "image_max_width": 200,
+            "image_placement": "above_text",
+            "show_social_icons": true,
+            "enable_follow_on_shop": false
+          }
+        },
+        "footer-1": {
+          "type": "spacer",
+          "settings": {
+            "desktop_width": 10
+          }
+        },
+        "footer-2": {
+          "type": "links",
+          "settings": {
+            "desktop_width": 15,
+            "desktop_padding": 4,
+            "collapse_on_mobile": true,
+            "title": "Shop",
+            "show_title_on_desktop": true,
+            "link_list": "footer"
+          }
+        },
+        "footer-3": {
+          "type": "links",
+          "settings": {
+            "desktop_width": 15,
+            "desktop_padding": 4,
+            "collapse_on_mobile": true,
+            "title": "Company",
+            "show_title_on_desktop": true,
+            "link_list": "second-footer-menu"
+          }
+        },
+        "footer-4": {
+          "type": "newsletter",
+          "settings": {
+            "desktop_width": 30,
+            "desktop_padding": 0,
+            "collapse_on_mobile": false,
+            "title": "Newsletter",
+            "show_title_on_desktop": true,
+            "text": "<p>Subscribe to receive the latest news, exclusive offers and 10% off your first order.<\/p>",
+            "show_social_icons": false,
+            "enable_follow_on_shop": true
+          }
+        }
+      },
+      "block_order": [
+        "footer-0",
+        "footer-1",
+        "footer-2",
+        "footer-3",
+        "footer-4"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "enable_locale_selector": true,
+        "enable_country_selector": true,
+        "show_payment_icons": true,
+        "additional_copyright_text": ""
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

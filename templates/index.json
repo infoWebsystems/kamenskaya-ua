@@ -1,0 +1,1763 @@
+{
+  "sections": {
+    "0160c8e2-10e7-46a9-9903-95e48a4df163": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7420.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "Alcohol Ink Sets and Kits",
+            "heading_font_class": "fs-heading-display-1",
+            "subheading": "Matched color combinations from brand creator Polina Kamenskaya",
+            "subheading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "shopify:\/\/collections\/sets",
+            "link_text_2": "Shop now",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
+        },
+        "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7079.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "Delaminating Alcohol Inks",
+            "heading_font_class": "fs-heading-display-1",
+            "subheading": "Incredible texture - paintings create themselves!",
+            "subheading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "shopify:\/\/collections\/delaminating-inks",
+            "link_text_2": "Shop now",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
+        },
+        "1b50cc8d-0aca-4ec4-a391-e0e0c9e2e356": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7080.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "Acrylic Inks",
+            "heading_font_class": "fs-heading-display-1",
+            "subheading": "Concentrated and multifunctional. An exceptional choice for mixed media artists!",
+            "subheading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "shopify:\/\/collections\/acrylic-inks",
+            "link_text_2": "Shop now",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
+        },
+        "9b45187d-d8a4-4d23-957e-8554aeaf163f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4608.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "Texture Pastes",
+            "heading_font_class": "fs-heading-display-1",
+            "subheading": "Smooth, coarse, colored or for coloring. Make your choice!",
+            "subheading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "shopify:\/\/collections\/texture",
+            "link_text_1": "Shop now",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-0",
+        "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-1",
+        "1b50cc8d-0aca-4ec4-a391-e0e0c9e2e356",
+        "9b45187d-d8a4-4d23-957e-8554aeaf163f"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "enable_autoplay": true,
+        "duration_autoplay": 6,
+        "navigation_alignment": "center",
+        "navigation_color_foreground": "#ffffff",
+        "navigation_color_background": "",
+        "navigation_background_opacity": 100,
+        "enable_animation": true,
+        "section_padding": "none"
+      }
+    },
+    "1655855477ee9538e0": {
+      "type": "countdown-bar",
+      "disabled": true,
+      "settings": {
+        "min_height": 60,
+        "min_height_mobile": 60,
+        "year": 2023,
+        "month": "january",
+        "day": "1",
+        "hour": "0",
+        "minute": "0",
+        "time_zone_selection": "shop",
+        "hide_timer_on_complete": false,
+        "timer_complete_message": "",
+        "heading": "Countdown bar",
+        "text": "<p>Use this timer to create urgency and boost sales.<\/p>",
+        "link": "shopify:\/\/collections",
+        "link_text": "Button",
+        "button_style": "btn--secondary",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "background_color": "#c51c26",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "full_width": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "16549177944ec2347e": {
+      "type": "rich-text",
+      "blocks": {
+        "1654917794cdc0bc3c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "MADE BY ARTIST FOR AN ARTIST",
+            "heading_font_class": "fs-heading-3-base"
+          }
+        },
+        "1654917794cdc0bc3c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>MADE BY ARTIST FOR AN ARTIST<\/p>",
+            "text_font_class": "fs-body-200"
+          }
+        }
+      },
+      "block_order": [
+        "1654917794cdc0bc3c-0",
+        "1654917794cdc0bc3c-1"
+      ],
+      "settings": {
+        "alignment": "center_center",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 650
+      }
+    },
+    "1654878022d8e24a9a": {
+      "type": "grid",
+      "blocks": {
+        "165487802257d72399-2": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 500,
+            "mobile_height": 360,
+            "image": "shopify:\/\/shop_images\/IMG_6642.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "flex-start_flex-end",
+            "accent": "",
+            "title": "Acrylic",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>concentrated color and liquid texture<\/p>",
+            "subheading_font_class": "fs-heading-6-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "shopify:\/\/collections\/acrylic",
+            "link_text": "Shop now",
+            "button_style": "btn--callout",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1) 52%, rgba(0, 0, 0, 1) 100%)",
+            "overlay_opacity": 50
+          }
+        },
+        "165487802257d72399-0": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 600,
+            "mobile_height": 360,
+            "image": "shopify:\/\/shop_images\/IMG_6641.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Modeling.png",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "flex-start_flex-end",
+            "accent": "",
+            "title": "Modeling",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>for volumetric and bas-relief paintings<\/p>",
+            "subheading_font_class": "fs-heading-6-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "shopify:\/\/collections\/modeling",
+            "link_text": "Shop now",
+            "button_style": "btn--callout",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1) 43%, rgba(0, 0, 0, 1) 100%)",
+            "overlay_opacity": 50
+          }
+        },
+        "165487802257d72399-1": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 500,
+            "mobile_height": 360,
+            "image": "shopify:\/\/shop_images\/IMG_6640.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "flex-start_flex-end",
+            "accent": "",
+            "title": "Alcohol Inks",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>for light and airy paintings<\/p>",
+            "subheading_font_class": "fs-heading-6-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "shopify:\/\/collections\/alcohol-inks",
+            "link_text": "Shop now",
+            "button_style": "btn--callout",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1) 52%, rgba(0, 0, 0, 1) 100%)",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "165487802257d72399-2",
+        "165487802257d72399-0",
+        "165487802257d72399-1"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "content_alignment": "left",
+        "enable_animation": true,
+        "full_width": false,
+        "spacing": 24,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "d9fa6090-9387-4c14-a533-594633ad9155": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19727828091163__d9fa6090-9387-4c14-a533-594633ad9155-168899779145218414-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text",
+            "heading_font_class": "fs-heading-2-base"
+          }
+        },
+        "template--19727828091163__d9fa6090-9387-4c14-a533-594633ad9155-168899779145218414-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We offer professional art supplies for the most innovative painting techniques to release your creative potential. Touch art with KAMENSKAYA!<\/p>",
+            "text_font_class": "fs-body-200"
+          }
+        }
+      },
+      "block_order": [
+        "template--19727828091163__d9fa6090-9387-4c14-a533-594633ad9155-168899779145218414-0",
+        "template--19727828091163__d9fa6090-9387-4c14-a533-594633ad9155-168899779145218414-1"
+      ],
+      "settings": {
+        "alignment": "center_center",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    },
+    "1655855558c1ac2348": {
+      "type": "featured-collection-slider",
+      "blocks": {
+        "16558555587b915de6-0": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "",
+            "collection_name": "First collection"
+          }
+        },
+        "16558555587b915de6-1": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "",
+            "collection_name": "Second collection"
+          }
+        }
+      },
+      "block_order": [
+        "16558555587b915de6-0",
+        "16558555587b915de6-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Featured collection",
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "maximum_products": 8,
+        "columns": "4",
+        "mobile_columns": "2",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "a949066c-fab3-4ff1-bf88-d4df0f7a4f62": {
+      "type": "image-hero-split",
+      "blocks": {
+        "template--19727828091163__a949066c-fab3-4ff1-bf88-d4df0f7a4f62-1688977582d5db8e4a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Acrylic.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "title": "Image hero split",
+            "text": "<p>Use this sections to promote a particular feature with editorial photography.<\/p>",
+            "link": "",
+            "link_text": "Read more",
+            "button_style": "btn--primary"
+          }
+        },
+        "template--19727828091163__a949066c-fab3-4ff1-bf88-d4df0f7a4f62-1688977582d5db8e4a-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Alcohol_Inks.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "title": "Image hero split",
+            "text": "<p>Use this sections to promote a particular feature with editorial photography.<\/p>",
+            "link": "",
+            "link_text": "Read more",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--19727828091163__a949066c-fab3-4ff1-bf88-d4df0f7a4f62-1688977582d5db8e4a-0",
+        "template--19727828091163__a949066c-fab3-4ff1-bf88-d4df0f7a4f62-1688977582d5db8e4a-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "text_position": "center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 30,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "16558561315f6147d3": {
+      "type": "sales-banner",
+      "disabled": true,
+      "settings": {
+        "min_height": 300,
+        "min_height_mobile": 500,
+        "sale_type": "up to",
+        "sale_amount": "60",
+        "sale_unit": "percent_off",
+        "terms_and_conditions": "* Optional legal note",
+        "terms_vertical_offset": 0,
+        "sale_font_size": 150,
+        "sale_font_size_mobile": 150,
+        "currency_symbol_position": "before",
+        "heading": "Announce your sale",
+        "heading_font_class": "fs-heading-3-base",
+        "text": "<p>Highlight sale campaigns, discounts, and promotions.<\/p>",
+        "link": "shopify:\/\/collections",
+        "link_text": "Button",
+        "button_style": "btn--secondary",
+        "link_2": "shopify:\/\/collections",
+        "link_text_2": "Button",
+        "button_style_2": "btn--secondary",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "background_color": "#c51c26",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "layout": "two-columns",
+        "enable_animation": true,
+        "show_frame": true,
+        "full_width": false,
+        "section_padding": "section--vertical-padding-top-only"
+      }
+    },
+    "bd1b0d05-5e8a-4131-8ba5-990b15b8a742": {
+      "type": "grid",
+      "blocks": {
+        "template--19727828091163__bd1b0d05-5e8a-4131-8ba5-990b15b8a742-1688991285b50bad66-0": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 700,
+            "mobile_height": 600,
+            "image": "shopify:\/\/shop_images\/IMG_1956.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_flex-start",
+            "accent": "",
+            "title": "Delaminating inks",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Unique self-splitting inks with crackle effect<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "shopify:\/\/collections\/delaminating-inks",
+            "link_text": "Shop Now",
+            "button_style": "btn--callout",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        },
+        "template--19727828091163__bd1b0d05-5e8a-4131-8ba5-990b15b8a742-1688991285b50bad66-1": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 700,
+            "mobile_height": 600,
+            "image": "shopify:\/\/shop_images\/IMG_7248.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_flex-start",
+            "accent": "",
+            "title": "Metallic inks",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Shimmering inks for golden facets and light cobwebs<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "shopify:\/\/collections\/metallic-inks",
+            "link_text": "Shop Now",
+            "button_style": "btn--callout",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--19727828091163__bd1b0d05-5e8a-4131-8ba5-990b15b8a742-1688991285b50bad66-0",
+        "template--19727828091163__bd1b0d05-5e8a-4131-8ba5-990b15b8a742-1688991285b50bad66-1"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "content_alignment": "left",
+        "enable_animation": true,
+        "full_width": false,
+        "spacing": 24,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "16548772614c49ba39": {
+      "type": "featured-collection-slider",
+      "blocks": {
+        "767ac6c0-8826-4284-bd74-6eb8a441d7bc": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "sets",
+            "collection_name": "Collection"
+          }
+        }
+      },
+      "block_order": [
+        "767ac6c0-8826-4284-bd74-6eb8a441d7bc"
+      ],
+      "custom_css": [
+        ".product-item__product-vendor {display: none;}"
+      ],
+      "settings": {
+        "heading": "Latest Arrivals",
+        "subheading": "",
+        "link": "shopify:\/\/collections\/new",
+        "link_text": "View all new",
+        "maximum_products": 8,
+        "columns": "4",
+        "mobile_columns": "2",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "b64fa078-1aa4-4ab2-912e-946bf4e5f262": {
+      "type": "collection-list-grid",
+      "settings": {
+        "heading": "Popular sets",
+        "subheading": "",
+        "link": "shopify:\/\/collections\/sets",
+        "link_text": "View all sets",
+        "columns": "4",
+        "mobile_columns": "2",
+        "collection_list": [
+          "nude-inks",
+          "nacre-chameleons",
+          "gilding",
+          "inks-for-petri-art"
+        ],
+        "collection_listing_aspect_ratio": "square",
+        "label_style": "overlay",
+        "overlay_title_background_style": "gradient",
+        "overlay_text_color": "#ffffff",
+        "overlay_title_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "1655747757d7226f15": {
+      "type": "grid",
+      "blocks": {
+        "e866e078-81cd-4f2b-8678-817de7dc830a": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 500,
+            "mobile_height": 500,
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Grid item",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        },
+        "c832af30-0b0e-4968-9284-ab8633c9a7c3": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 500,
+            "mobile_height": 500,
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Grid item",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        },
+        "c51c0355-4ad0-4933-b13d-f827c724bcf5": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 500,
+            "mobile_height": 500,
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Grid item",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        },
+        "c49fee52-014f-4275-968c-dc288d31fd2b": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 500,
+            "mobile_height": 500,
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Grid item",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        },
+        "765a5e2e-93df-44f3-aa92-3c26e95174c2": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 500,
+            "mobile_height": 500,
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Grid item",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        },
+        "48a4e426-4325-412e-a437-c11aa5b4edf2": {
+          "type": "item",
+          "settings": {
+            "width": "100",
+            "height": 500,
+            "mobile_height": 500,
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Grid item",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "e866e078-81cd-4f2b-8678-817de7dc830a",
+        "c832af30-0b0e-4968-9284-ab8633c9a7c3",
+        "c51c0355-4ad0-4933-b13d-f827c724bcf5",
+        "c49fee52-014f-4275-968c-dc288d31fd2b",
+        "765a5e2e-93df-44f3-aa92-3c26e95174c2",
+        "48a4e426-4325-412e-a437-c11aa5b4edf2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "content_alignment": "left",
+        "enable_animation": true,
+        "full_width": false,
+        "spacing": 24,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "16548834739d532589": {
+      "type": "shoppable-feature",
+      "blocks": {
+        "16548834735b1dc2a7-0": {
+          "type": "hotspot",
+          "settings": {
+            "product_item": "a-01-white",
+            "horizontal_position": 37,
+            "vertical_position": 69
+          }
+        },
+        "16548834735b1dc2a7-1": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product_item": "a-01-white",
+            "horizontal_position": 43,
+            "vertical_position": 37
+          }
+        },
+        "16548834735b1dc2a7-2": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product_item": "a-01-white",
+            "horizontal_position": 63,
+            "vertical_position": 18
+          }
+        }
+      },
+      "block_order": [
+        "16548834735b1dc2a7-0",
+        "16548834735b1dc2a7-1",
+        "16548834735b1dc2a7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Ballerinas_2.jpg",
+        "image_position": "left",
+        "image_size": 50,
+        "aspect_ratio": "portrait_alt",
+        "heading": "Start your ink art journey with Ink Art Coloring Set",
+        "subheading": "<p>11 boxes with all materials and video tutorial to create a triptych in a selected theme<\/p>",
+        "link": "",
+        "link_text": "Shop now",
+        "button_style": "btn--callout",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_position_desktop": "inside"
+      }
+    },
+    "28c85852-d19b-4dd5-a741-cb60753c3ac1": {
+      "type": "featured-product",
+      "blocks": {
+        "template--19727828091163__28c85852-d19b-4dd5-a741-cb60753c3ac1-1688979807010ccdf0-0": {
+          "type": "product_header",
+          "settings": {
+            "show_divider": true,
+            "show_vendor": true,
+            "show_sku": true,
+            "show_discount": true,
+            "discount_format": "percent_off",
+            "show_product_rating": false,
+            "show_sale_badge": true,
+            "show_custom_badges": true
+          }
+        },
+        "template--19727828091163__28c85852-d19b-4dd5-a741-cb60753c3ac1-1688979807010ccdf0-1": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_popup_option": "Size",
+            "variant_popup_icon": "none",
+            "variant_popup_text": "Size guide",
+            "variant_popup_page": "",
+            "swatch_size": "medium",
+            "chip_layout": "3col"
+          }
+        },
+        "template--19727828091163__28c85852-d19b-4dd5-a741-cb60753c3ac1-1688979807010ccdf0-2": {
+          "type": "quantity_selector",
+          "settings": {
+            "show_labels": true
+          }
+        },
+        "template--19727828091163__28c85852-d19b-4dd5-a741-cb60753c3ac1-1688979807010ccdf0-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--19727828091163__28c85852-d19b-4dd5-a741-cb60753c3ac1-1688979807010ccdf0-4": {
+          "type": "description",
+          "settings": {
+            "title": "Description",
+            "text_font_class": "fs-body-100",
+            "column_placement": "right",
+            "display_as_collapsible_row": false,
+            "expand_by_default": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19727828091163__28c85852-d19b-4dd5-a741-cb60753c3ac1-1688979807010ccdf0-0",
+        "template--19727828091163__28c85852-d19b-4dd5-a741-cb60753c3ac1-1688979807010ccdf0-1",
+        "template--19727828091163__28c85852-d19b-4dd5-a741-cb60753c3ac1-1688979807010ccdf0-2",
+        "template--19727828091163__28c85852-d19b-4dd5-a741-cb60753c3ac1-1688979807010ccdf0-3",
+        "template--19727828091163__28c85852-d19b-4dd5-a741-cb60753c3ac1-1688979807010ccdf0-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "featured_product": "a-01-white",
+        "gallery_size": "medium",
+        "enable_video_looping": true,
+        "enable_product_lightbox": true,
+        "image_aspect_ratio": "portrait",
+        "enable_gift_card_recipient": true,
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "569552fb-ffbb-4586-a54e-3b24c6b2c851": {
+      "type": "collection-list-slider",
+      "disabled": true,
+      "settings": {
+        "heading": "Best sellers",
+        "subheading": "<p>Shop our favourites, chosen by you.<\/p>",
+        "link": "shopify:\/\/collections",
+        "link_text": "View all bestsellers",
+        "columns": "4",
+        "mobile_columns": "2",
+        "collection_list": [
+          "nacre-chameleons",
+          "gilding",
+          "delaminating-inks",
+          "sets"
+        ],
+        "collection_listing_aspect_ratio": "square",
+        "label_style": "overlay",
+        "overlay_title_background_style": "gradient",
+        "overlay_text_color": "#ffffff",
+        "overlay_title_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "50e1d768-f46a-44cf-90e3-9e4478a8defd": {
+      "type": "multi-column",
+      "blocks": {
+        "90b8b110-0cea-4d9d-8f83-faf30fb38e43": {
+          "type": "image_column",
+          "settings": {
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "A-01 \"White\"",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.<\/p>",
+            "text_font_class": "fs-body-75",
+            "text_max_width": 100,
+            "link": "shopify:\/\/products\/a-01-white",
+            "link_text": "Shop now",
+            "button_style": "btn--primary"
+          }
+        },
+        "4e8340d2-8ad8-44b6-9ba5-dcd63e861f6a": {
+          "type": "image_column",
+          "settings": {
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "A-02 \"Yellow\"",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.<\/p>",
+            "text_font_class": "fs-body-75",
+            "text_max_width": 100,
+            "link": "shopify:\/\/products\/a-02-yellow",
+            "link_text": "Shop now",
+            "button_style": "btn--primary"
+          }
+        },
+        "c73c6f7c-0b31-4345-9542-59434a886b4f": {
+          "type": "image_column",
+          "settings": {
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "shopify:\/\/products\/a-04-light-blue",
+            "small_caption": "",
+            "accent": "",
+            "heading": "A-04 \"Light blue\"",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.<\/p>",
+            "text_font_class": "fs-body-75",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "Shop now",
+            "button_style": "btn--primary"
+          }
+        },
+        "d98f55d2-ddeb-49bd-8b11-45d4b2c019e5": {
+          "type": "image_column",
+          "settings": {
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "A-06 \"Brown chestnut\"",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.<\/p>",
+            "text_font_class": "fs-body-75",
+            "text_max_width": 100,
+            "link": "shopify:\/\/products\/a-06-brown-chestnut",
+            "link_text": "Shop now",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "90b8b110-0cea-4d9d-8f83-faf30fb38e43",
+        "4e8340d2-8ad8-44b6-9ba5-dcd63e861f6a",
+        "c73c6f7c-0b31-4345-9542-59434a886b4f",
+        "d98f55d2-ddeb-49bd-8b11-45d4b2c019e5"
+      ],
+      "settings": {
+        "title": "Best sellers",
+        "subheading": "<p>Shop our favourites, chosen by you.<\/p>",
+        "subheading_link": "shopify:\/\/collections\/best-sellers",
+        "subheading_link_text": "Shop all best sellers",
+        "heading_font_class": "fs-heading-3-base",
+        "heading_alignment": "left",
+        "content_vertical_alignment": "top",
+        "content_background_padding": "medium",
+        "columns": "4",
+        "column_spacing": 28,
+        "row_spacing": 28,
+        "column_alignment": "left",
+        "columns_mobile": "2",
+        "column_spacing_mobile": 20,
+        "row_spacing_mobile": 20,
+        "column_alignment_mobile": "left",
+        "background_behind_columns": false,
+        "background_color": "",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "1654913893935a57bd": {
+      "type": "image-with-text-split",
+      "blocks": {
+        "1654913893d03d0b33-0": {
+          "type": "accent",
+          "settings": {
+            "accent": "UNIQUE"
+          }
+        },
+        "1654913893d03d0b33-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Create unique and stylish decor items",
+            "heading_font_class": "fs-heading-1-base"
+          }
+        },
+        "1654913893d03d0b33-2": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Great gift for yourself and your loved one",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "63e2f450-ccdf-4ba0-8c95-8e7b01b5c7f5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photo_2023-05-05_22.51.27.jpg",
+            "image_size": 250,
+            "image_size_mobile": 200
+          }
+        },
+        "7f329234-f652-4947-8f09-cad43d072028": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/products\/casting-compound",
+            "link_text": "shop now",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "1654913893d03d0b33-0",
+        "1654913893d03d0b33-1",
+        "1654913893d03d0b33-2",
+        "63e2f450-ccdf-4ba0-8c95-8e7b01b5c7f5",
+        "7f329234-f652-4947-8f09-cad43d072028"
+      ],
+      "settings": {
+        "image_position": "right",
+        "image_mobile_position": "above-content",
+        "image_padding": "none",
+        "image": "shopify:\/\/shop_images\/casting_kit_girls_result-min.jpg",
+        "aspect_ratio": "natural",
+        "focal_point": "image_presentation",
+        "content_alignment": "center",
+        "background_color": "#111111",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "165489980473ecbf41": {
+      "type": "image-with-text",
+      "blocks": {
+        "1654899804e4fc48ec-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Create unique and stylish decor items",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "1654899804e4fc48ec-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Use these sections to promote a particular feature with editorial photography",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "1654899804e4fc48ec-2": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "Read more",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "1654899804e4fc48ec-0",
+        "1654899804e4fc48ec-1",
+        "1654899804e4fc48ec-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_position": "left",
+        "text_alignment": "center",
+        "aspect_ratio": "natural",
+        "focal_point": "image_presentation",
+        "image_caption": "",
+        "show_small_image": true,
+        "image_small_aspect_ratio": "natural",
+        "image_small_focal_point": "center",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "1654880426b1f83355": {
+      "type": "image-with-text",
+      "blocks": {
+        "16548804264c48a1d9-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Image with text",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "16548804264c48a1d9-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Use these sections to promote a particular feature with editorial photography",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "16548804264c48a1d9-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "link_text": "Read more",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "16548804264c48a1d9-0",
+        "16548804264c48a1d9-1",
+        "16548804264c48a1d9-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_position": "right",
+        "text_alignment": "center",
+        "aspect_ratio": "natural",
+        "focal_point": "image_presentation",
+        "image_caption": "",
+        "show_small_image": true,
+        "image_small_aspect_ratio": "natural",
+        "image_small_focal_point": "center",
+        "background_color": "",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "16558561940a4fe50f": {
+      "type": "testimonials",
+      "blocks": {
+        "1655856194e7b43695-0": {
+          "type": "testimonial",
+          "settings": {
+            "product": "a-02-yellow",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "I am an alcohol ink artist based in the US and have used tons of different ink brands, Kamenskaya inks are extremely high quality and I love working with them! The Basic A Line inks are very saturated and lovely to work with. They give a stunning intense color and beautiful detail to your painting. My favorite inks from Kamenskaya however are the Nude inks! I am obsessed with these opaque inks! I use the nude inks in almost every single painting I make since the first time trying them. They’re a fantastic addition to my style of painting, adding a different texture and interesting details to my art that cannot be achieved with other products! If you are an alcohol ink artist, you NEED this brand! ",
+            "author": "Jessica, USA (Instagram - @artvibesbyjess)"
+          }
+        },
+        "1655856194e7b43695-1": {
+          "type": "testimonial",
+          "settings": {
+            "product": "a-04-light-blue",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 4.5,
+            "quote": "I've been using Kamenskaya alcohol inks for a long time now and I can confidently say that they are 100% high quality inks for artists. Unlike other inks, the effects created with Kamenskaya inks are more soft and satiny. They have a wonderful selection of inks and my favorites are irridescent inks, delaminating inks and the nude inks. They are so unique and the effects created are unprecedented. My favorite metallic is the bronze ink. The pigments in the ink float and shine very beautifully. The customer support is also wonderful and they are always willing to answer questions and help out with the order.",
+            "author": "Anuja, India (Instagram - @anujaaggarwal)"
+          }
+        },
+        "1655856194e7b43695-2": {
+          "type": "testimonial",
+          "settings": {
+            "product": "a-06-brown-chestnut",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "I've been using the brand's materials for years. Most often I work with alcohol inks, they have a cool large palette of colors that are perfectly combined with each other. The gold of the Kamenskaya brand is the best not only in the Ukrainian market, but also in the world, tested by me and my students from all over the worldI always recommend it to my students and subscribers because it is love!",
+            "author": "Olga, Ukraine (Instagram - @tushe.art)"
+          }
+        },
+        "e8806590-4221-4f85-97fe-1a1bc10326ef": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "I am a multi media artist, who fall in love with alcohol inks on top of all the others and I really love the depth of color in Kamenskaya Inks, but maybe what was really lovely is their gold and silver alcohol inks.  I have finally found a silver that I love and will definitely order some more. I also had a chance to try their delaminating inks and I love the effects they create, can’t wait to experiment with them some more",
+            "author": "Kinga, USA (Instagram - @art.aurelian)"
+          }
+        },
+        "d79226d4-8ea4-4528-ad44-6dc3c4c901fc": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "The Kamenskaya liquid gilding paints do exactly what it says on the bottle: it creates a perfect replication of gold leaf gilding on any surface. I have used it with equal success on synthetic paper and on raw ceramic clay. The result is incredible! The Kamenskaya liquid gilding paints provide excellent coverage and leave a beautiful opaque, shiny metallic surface. The Kamenskaya liquid gilding paints are a joy to work with and a joy to see when applied on a surface.",
+            "author": "Johann, Switzerland (Instagram - @oldsoandsew)"
+          }
+        },
+        "106e79fa-9dea-4f10-95e2-31d9d62b59eb": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "What are Kamenskaya products for me? First of all, it is the high quality of the products. High-concentration inks, convenient packaging and a color palette that really looks stylish. The colors are easily mixed with each other and there is always the possibility of creating the desired shade. I have never seen analogs of delaminating inks, chameleons, liquid gilding, nude inks - I have never seen such good quality. And thirdly, it's a pleasure to use a product for creativity made by the artist, because then really practical things for use are taken into account, which significantly affects the work. The alcohol ink technique itself is so multifaceted and gives anyone the opportunity to express themselves, and for me personally, it is an opportunity to enjoy the process and create a unique work every time. ",
+            "author": "Inga, Ukraine (Instagram - @ingakovalenko1103)"
+          }
+        },
+        "5c22cbea-73a9-408b-8133-e7d3e5804f54": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "Thank you for creating such an amazing products! My all the time favorite inks are only from your store. And I have tried most of your products (like textured pastes, modeling gels or texture fibre) - each of them is really the best in the market. Thank you! ",
+            "author": "Linda, Latvia (Instagram - @lindavika_art)"
+          }
+        },
+        "8f8a0abd-14fb-4df5-a293-c1c3b0f2284f": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "I have tried several popular alcohol ink brands when I finally started to paint and after taking several online courses I’ve discovered Kamenskaya inks and also Kamenskaya products , as well as online course for beginnners. I was very impressed by the fact that these inks are very concentrated and after recommended dilution they do not lose their color depth and qualities as I’ve seen other inks do. So basically you are buying 3 times the product you paid for if you’re comparing the quality to other well known good quality brands for the same price. Eventually I tried all different inks and products that Kamenskaya store offers and I cannot share enough the amazing quality products that Polina and her team creates. I occasionally use other brands for different projects but my gold standard is Kamenskaya brand. Everything starting from packaging, shipping, presentation, down to the tiniest detail of this brand is top notch quality. I have created beautiful art pieces using Kamenskaya inks, from alcohol ink paintings on synthetic paper, canvases and ceramics to resin products like coasters, clocks and jewelry and Christmas ball ornaments painted with inks - these inks in combination with the Kamenskaya blending solution and super concentrate do not fade or lose their vibrancy as I’ve seen happen with other brands. I am so happy I found this brand and I highly recommend it to everyone who uses this medium.",
+            "author": "Antoniya, USA (Instagram - @inked_by_the_sea)"
+          }
+        },
+        "6491e618-e48e-4da9-a9c9-1ba6f70a6ce9": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "The materials are made with love by a team of professionals. Well-pigmented, long-lasting. Time-tested. The price is fully consistent with the quality. Some items are new to the Ukrainian market and are unique in their kind. I am a regular customer.",
+            "author": "Dasha, Ukraine (Instagram - @zhurbitska.art.studio)"
+          }
+        },
+        "36509831-c44b-4272-92e0-3f5514c21ee8": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "I've been using @kamenskaya_ink for a long time and with pleasure.  Both regular ones and textured ones. Nice range of colors, excellent quality and unwavering support from the team. Try it and you won't regret your choice!  ",
+            "author": "Lana, Belgium (Instagram - @lana_art_belgium|)"
+          }
+        },
+        "46d693fa-f529-4b97-816d-02025091e1d9": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "As a creative person who is constantly trying new things and experimenting with techniques and materials, I just love Kamenskaya products! It's love at first try! The quality of materials and assortment is simply amazing! I found everything from alcohol inks, texture paste to acrylic inks and mediums. When an artist creates a product by putting their soul, knowledge and skills into it, you can feel it right away. Therefore, I advise all creative people to try this brand and fall in love!",
+            "author": "Olena, Ukraine (Instagram - @mazurok_art)"
+          }
+        },
+        "360442bd-5ba0-4b04-9ec7-7ad0d7d26456": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "@kamenskaya_ink are my favorite inks! I tried different brands, but it is @kamenskaya_ink that have saturated color (you need very little of them to get beautiful shades). Gold is gorgeous!With synthetic paper it is easy to work with - it perfectly tolerates transportation, do not leave creases, bends.@kamenskaya_ink has a wide range of products. I have worked with many products and all of them are great! Delaminating ink is a separate love!",
+            "author": "Iryna, Estonia (Instagram - @art_studiointerior)"
+          }
+        },
+        "81267714-098b-441f-9ff4-92503d4ba0da": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "The package just arrived!!! That was soooo fast! I love them so far!!! The colors are so beautiful. I ordered more of the sea wave already. They seem very high quality! You’re the best!! Thank you!! ",
+            "author": "Jamie, USA (Instagram - @jamieorrart)"
+          }
+        }
+      },
+      "block_order": [
+        "1655856194e7b43695-0",
+        "1655856194e7b43695-1",
+        "1655856194e7b43695-2",
+        "e8806590-4221-4f85-97fe-1a1bc10326ef",
+        "d79226d4-8ea4-4528-ad44-6dc3c4c901fc",
+        "106e79fa-9dea-4f10-95e2-31d9d62b59eb",
+        "5c22cbea-73a9-408b-8133-e7d3e5804f54",
+        "8f8a0abd-14fb-4df5-a293-c1c3b0f2284f",
+        "6491e618-e48e-4da9-a9c9-1ba6f70a6ce9",
+        "36509831-c44b-4272-92e0-3f5514c21ee8",
+        "46d693fa-f529-4b97-816d-02025091e1d9",
+        "360442bd-5ba0-4b04-9ec7-7ad0d7d26456",
+        "81267714-098b-441f-9ff4-92503d4ba0da"
+      ],
+      "custom_css": [
+        ".testimonials__item-quote {font-size: 26px;}"
+      ],
+      "settings": {
+        "image_size": "small",
+        "quote_font": "heading",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "1654916105fd939f8f": {
+      "type": "video-hero",
+      "blocks": {
+        "1654916105bea353be-0": {
+          "type": "accent",
+          "settings": {
+            "accent": "Video"
+          }
+        },
+        "1654916105bea353be-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Alcohol Inks Magic Factory",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "535519ef-68f5-42dd-8ad6-15ab68afaa95": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Products made with love for artists all over the world",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "39a1cced-a841-48eb-bf01-2041e2134155": {
+          "type": "play-button",
+          "settings": {
+            "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/864c3533b17f40c5b664c59f1fd07b0c.mp4",
+            "aspect_ratio": "natural",
+            "text": "Watch now",
+            "icon_style": "light"
+          }
+        }
+      },
+      "block_order": [
+        "1654916105bea353be-0",
+        "1654916105bea353be-1",
+        "535519ef-68f5-42dd-8ad6-15ab68afaa95",
+        "39a1cced-a841-48eb-bf01-2041e2134155"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 65,
+        "mobile_height": 50,
+        "video_url": "",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-08-15_at_18.33.14.png",
+        "media_link": "",
+        "focal_point": "image_presentation",
+        "text_position": "center_flex-end",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.24) 38%, rgba(0, 0, 0, 1) 100%)",
+        "overlay_opacity": 70,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "16548801325228c324": {
+      "type": "blog-posts",
+      "settings": {
+        "heading": "From the Blog",
+        "subheading": "",
+        "button_link": "",
+        "link_text": "View all posts",
+        "display_type": "all",
+        "blog": "news",
+        "max_articles": 2,
+        "show_tags": true,
+        "show_author": false,
+        "show_date": true,
+        "show_excerpt": true,
+        "show_featured_image": true,
+        "aspect_ratio": "landscape",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "1655748277aeb95c8a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1655748276a16c587f-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Image with text",
+            "heading_font_class": "fs-heading-1-base"
+          }
+        },
+        "a20757dc-e69a-44d7-a715-2a5d06580517": {
+          "type": "border",
+          "settings": {
+          }
+        },
+        "1655748276a16c587f-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Use these sections to promote a particular feature with editorial photography",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "2c5ae3e6-0766-4bad-aff5-a724000e1ddd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text_font_class": "fs-body-75"
+          }
+        },
+        "6bfc7d96-f5a5-41c5-b66f-6b8eb23d8a52": {
+          "type": "border",
+          "settings": {
+          }
+        },
+        "737ce2a8-7a79-4050-901a-b48412cad79e": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Use these sections to promote a particular feature with editorial photography",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "78b87e77-53f6-4b58-828a-36ba7eeaa4f1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text_font_class": "fs-body-75"
+          }
+        },
+        "1655748276a16c587f-2": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "Read more",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "1655748276a16c587f-0",
+        "a20757dc-e69a-44d7-a715-2a5d06580517",
+        "1655748276a16c587f-1",
+        "2c5ae3e6-0766-4bad-aff5-a724000e1ddd",
+        "6bfc7d96-f5a5-41c5-b66f-6b8eb23d8a52",
+        "737ce2a8-7a79-4050-901a-b48412cad79e",
+        "78b87e77-53f6-4b58-828a-36ba7eeaa4f1",
+        "1655748276a16c587f-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_position": "left",
+        "text_alignment": "left",
+        "aspect_ratio": "square",
+        "focal_point": "image_presentation",
+        "image_caption": "",
+        "show_small_image": false,
+        "image_small_aspect_ratio": "square",
+        "image_small_focal_point": "center",
+        "background_color": "",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "165489278903cc3881": {
+      "type": "image-with-text-split",
+      "blocks": {
+        "cec1e4e1-4b28-4709-8d1a-c986ad40425b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_p.webp",
+            "image_size": 160,
+            "image_size_mobile": 110
+          }
+        },
+        "da0d8502-d1a9-42c4-946f-f3143ddb712c": {
+          "type": "heading",
+          "settings": {
+            "title": "Image with text split",
+            "heading_font_class": "fs-heading-1-base"
+          }
+        },
+        "16548927896be1844d-2": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Use these sections to promote a particular feature with editorial photography.",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "82fd259e-87e0-4232-9b45-72472ceab4dc": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "Read more",
+            "button_style": "btn--callout"
+          }
+        },
+        "7792bb9a-dddb-46ca-9045-e26f6f6948b5": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "Read more",
+            "button_style": "btn--callout"
+          }
+        }
+      },
+      "block_order": [
+        "cec1e4e1-4b28-4709-8d1a-c986ad40425b",
+        "da0d8502-d1a9-42c4-946f-f3143ddb712c",
+        "16548927896be1844d-2",
+        "82fd259e-87e0-4232-9b45-72472ceab4dc",
+        "7792bb9a-dddb-46ca-9045-e26f6f6948b5"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_position": "right",
+        "image_mobile_position": "above-content",
+        "image_padding": "none",
+        "image": "shopify:\/\/shop_images\/6.jpg",
+        "aspect_ratio": "landscape",
+        "focal_point": "image_presentation",
+        "content_alignment": "center",
+        "background_color": "#562a26",
+        "text_color": "#d1d8c0",
+        "button_background_color": "#d1d8c0",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-top-only"
+      }
+    },
+    "d71df2af-ba99-428a-9772-57ebe99ef94d": {
+      "type": "newsletter-compact",
+      "blocks": {
+        "template--15305459073231__d71df2af-ba99-428a-9772-57ebe99ef94d-1668035253c173f759-0": {
+          "type": "text_content",
+          "settings": {
+            "width": "600",
+            "title": "Subscribe to our newsletter",
+            "heading_font_class": "fs-heading-4-base",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-6-base",
+            "text": "<p>Include a short sentence describing what someone can expect from your newsletter.<\/p>",
+            "text_font_class": "fs-body-75"
+          }
+        },
+        "template--15305459073231__d71df2af-ba99-428a-9772-57ebe99ef94d-1668035253c173f759-1": {
+          "type": "newsletter_signup",
+          "settings": {
+            "signup_link_text": "Sign up",
+            "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15305459073231__d71df2af-ba99-428a-9772-57ebe99ef94d-1668035253c173f759-0",
+        "template--15305459073231__d71df2af-ba99-428a-9772-57ebe99ef94d-1668035253c173f759-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "spacing_mode": "between",
+        "alignment": "left",
+        "focal_point": "image_presentation",
+        "background_color": "#f5f5f5",
+        "text_color": "#000000",
+        "input_color": "#000000",
+        "input_background": "#ffffff",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    }
+  },
+  "order": [
+    "0160c8e2-10e7-46a9-9903-95e48a4df163",
+    "1655855477ee9538e0",
+    "16549177944ec2347e",
+    "1654878022d8e24a9a",
+    "d9fa6090-9387-4c14-a533-594633ad9155",
+    "1655855558c1ac2348",
+    "a949066c-fab3-4ff1-bf88-d4df0f7a4f62",
+    "16558561315f6147d3",
+    "bd1b0d05-5e8a-4131-8ba5-990b15b8a742",
+    "16548772614c49ba39",
+    "b64fa078-1aa4-4ab2-912e-946bf4e5f262",
+    "1655747757d7226f15",
+    "16548834739d532589",
+    "28c85852-d19b-4dd5-a741-cb60753c3ac1",
+    "569552fb-ffbb-4586-a54e-3b24c6b2c851",
+    "50e1d768-f46a-44cf-90e3-9e4478a8defd",
+    "1654913893935a57bd",
+    "165489980473ecbf41",
+    "1654880426b1f83355",
+    "16558561940a4fe50f",
+    "1654916105fd939f8f",
+    "16548801325228c324",
+    "1655748277aeb95c8a",
+    "165489278903cc3881",
+    "d71df2af-ba99-428a-9772-57ebe99ef94d"
+  ]
+}

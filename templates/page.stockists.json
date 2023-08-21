@@ -1,0 +1,549 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "enable_animation": true,
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    },
+    "image-hero": {
+      "type": "image-hero",
+      "disabled": true,
+      "blocks": {
+        "block-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Stockists",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "block-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "block-0",
+        "block-1"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 55,
+        "mobile_height": 65,
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "media_link": "",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 40,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "multi-column-1": {
+      "type": "multi-column",
+      "blocks": {
+        "a1bd58a7-1db5-43a9-9bba-2038f66a921b": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 100,
+            "icon_width_mobile": 100,
+            "accent": "AMAZON USA",
+            "heading": "Official brand page",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "https:\/\/www.amazon.com\/stores\/page\/A84399D8-FC2E-4E73-BBEE-616A1185749F",
+            "link_text": "VISIT WEB-SITE",
+            "button_style": "btn--primary"
+          }
+        },
+        "1746e7d2-697e-49fc-8047-0e1cc87fcd8f": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 100,
+            "icon_width_mobile": 100,
+            "accent": "ALKOHOLINK.PL",
+            "heading": "POLAND",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "https:\/\/alkoholink.pl",
+            "link_text": "VISIT WEB-SITE",
+            "button_style": "btn--primary"
+          }
+        },
+        "bfaa27cb-1d44-4b72-8667-12f293c8d1c0": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 100,
+            "icon_width_mobile": 100,
+            "accent": "FLASH ART",
+            "heading": "BALTICS",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "https:\/\/flashart.ee",
+            "link_text": "VISIT WEB-SITE",
+            "button_style": "btn--primary"
+          }
+        },
+        "e6a2ec08-c58e-40f5-92f7-61f24a851a69": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 100,
+            "icon_width_mobile": 100,
+            "accent": "PEPPERMINT",
+            "heading": "JAPAN",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "https:\/\/peppermint.handcrafted.jp\/categories\/2662602",
+            "link_text": "VISIT WEB-SITE",
+            "button_style": "btn--primary"
+          }
+        },
+        "4a8bab27-cbc1-4a6a-8139-35dbd7eac2de": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 100,
+            "icon_width_mobile": 102,
+            "accent": "MIL.THESHOP",
+            "heading": "JAPAN",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "https:\/\/mil.theshop.jp\/categories\/3475963",
+            "link_text": "VISIT WEB-SITE",
+            "button_style": "btn--primary"
+          }
+        },
+        "52bfd621-3ff0-44cf-a053-9bd10774b9c3": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 100,
+            "icon_width_mobile": 100,
+            "accent": "INSPIRATION CORNERS",
+            "heading": "HONG KONG",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "https:\/\/www.inspirationcorners.com\/kamenskaya.html",
+            "link_text": "VISIT WEB-SITE",
+            "button_style": "btn--primary"
+          }
+        },
+        "e0762fe7-7429-4ea7-b1ec-0ac585c961be": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 100,
+            "icon_width_mobile": 100,
+            "accent": "STUDIO H ART",
+            "heading": "SOUTH KOREA",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "https:\/\/smartstore.naver.com\/resinart\/products\/7555837159",
+            "link_text": "VISIT WEB-SITE",
+            "button_style": "btn--primary"
+          }
+        },
+        "c5b344bf-3181-4ad4-8b4e-4210f2222783": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 100,
+            "icon_width_mobile": 100,
+            "accent": "RESIN 4 ART",
+            "heading": "NEW ZEALAND",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "https:\/\/resin4art.nz\/product-category\/kamenskaya-alcohol-inks\/",
+            "link_text": "VISIT WEB-SITE",
+            "button_style": "btn--primary"
+          }
+        },
+        "c938c507-0659-4cee-8a14-f166b778a069": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 100,
+            "icon_width_mobile": 100,
+            "accent": "LIQUID FANTASY",
+            "heading": "SOUTH AFRICA",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "https:\/\/www.liquidfantasy.co.za\/collections\/kamenskaya?page=1",
+            "link_text": "VISIT WEB-SITE",
+            "button_style": "btn--primary"
+          }
+        },
+        "668e5ccd-ba6a-4a86-a215-7e7b23c8b75a": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 100,
+            "icon_width_mobile": 100,
+            "accent": "HOBBY PARK",
+            "heading": "KYRGYZSTAN, KAZAKHSTAN",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "https:\/\/hobbypark.kg\/catalog\/tovary_dlya_khudozhnikov\/kraski_i_kontury\/alkogolnye_chernila\/filter\/brand-is-kamenskaya\/apply\/",
+            "link_text": "VISIT WEB-SITE",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "a1bd58a7-1db5-43a9-9bba-2038f66a921b",
+        "1746e7d2-697e-49fc-8047-0e1cc87fcd8f",
+        "bfaa27cb-1d44-4b72-8667-12f293c8d1c0",
+        "e6a2ec08-c58e-40f5-92f7-61f24a851a69",
+        "4a8bab27-cbc1-4a6a-8139-35dbd7eac2de",
+        "52bfd621-3ff0-44cf-a053-9bd10774b9c3",
+        "e0762fe7-7429-4ea7-b1ec-0ac585c961be",
+        "c5b344bf-3181-4ad4-8b4e-4210f2222783",
+        "c938c507-0659-4cee-8a14-f166b778a069",
+        "668e5ccd-ba6a-4a86-a215-7e7b23c8b75a"
+      ],
+      "settings": {
+        "title": "PARTNER STORES",
+        "subheading": "",
+        "subheading_link": "",
+        "subheading_link_text": "Your link here",
+        "heading_font_class": "fs-heading-3-base",
+        "heading_alignment": "left",
+        "content_vertical_alignment": "top",
+        "content_background_padding": "small",
+        "columns": "3",
+        "column_spacing": 24,
+        "row_spacing": 48,
+        "column_alignment": "left",
+        "columns_mobile": "2",
+        "column_spacing_mobile": 12,
+        "row_spacing_mobile": 48,
+        "column_alignment_mobile": "left",
+        "background_behind_columns": false,
+        "background_color": "rgba(0,0,0,0)",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "multi-column-2": {
+      "type": "multi-column",
+      "disabled": true,
+      "blocks": {
+        "block-0": {
+          "type": "image_column",
+          "settings": {
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "Store 1",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>123 Queen Street<br\/>Toronto, ON <br\/>M1R 0E9<br\/>Canada<\/p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "Get Directions",
+            "button_style": "btn--secondary"
+          }
+        },
+        "block-1": {
+          "type": "image_column",
+          "settings": {
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "Store 2",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>789 Main Street<br\/>Vancouver, BC <br\/>V9A 4J3<br\/>Canada<\/p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "Get Directions",
+            "button_style": "btn--secondary"
+          }
+        },
+        "block-3": {
+          "type": "image_column",
+          "settings": {
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "Store 3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>123 Fake Street<br\/>Vancouver, BC<br\/>V8X 3K1<br\/>United States<\/p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "Get Directions",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "block-0",
+        "block-1",
+        "block-3"
+      ],
+      "settings": {
+        "title": "Retail stores",
+        "subheading": "",
+        "subheading_link": "",
+        "subheading_link_text": "Your link here",
+        "heading_font_class": "fs-heading-3-base",
+        "heading_alignment": "left",
+        "content_vertical_alignment": "top",
+        "content_background_padding": "medium",
+        "columns": "3",
+        "column_spacing": 28,
+        "row_spacing": 48,
+        "column_alignment": "left",
+        "columns_mobile": "2",
+        "column_spacing_mobile": 12,
+        "row_spacing_mobile": 48,
+        "column_alignment_mobile": "center",
+        "background_behind_columns": false,
+        "background_color": "",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "multi-column-3": {
+      "type": "multi-column",
+      "disabled": true,
+      "blocks": {
+        "block-0": {
+          "type": "image_column",
+          "settings": {
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "block-1": {
+          "type": "image_column",
+          "settings": {
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "block-2": {
+          "type": "column",
+          "settings": {
+            "accent": "",
+            "heading": "",
+            "heading_link": "",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p><strong>Location<\/strong><span style=\"text-decoration:underline\"><br\/><\/span>1234 Pretend Street, <br\/>Abbotsford 3000, VIC<br\/>Australia<br\/><br\/><strong>Hours<\/strong><span style=\"text-decoration:underline\"><br\/><\/span>Monday - Sunday 11 am - 7pm<\/p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "Get Directions",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "block-0",
+        "block-1",
+        "block-2"
+      ],
+      "settings": {
+        "title": "Main store",
+        "subheading": "",
+        "subheading_link": "",
+        "subheading_link_text": "Your link here",
+        "heading_font_class": "fs-heading-3-base",
+        "heading_alignment": "left",
+        "content_vertical_alignment": "center",
+        "content_background_padding": "medium",
+        "columns": "3",
+        "column_spacing": 28,
+        "row_spacing": 28,
+        "column_alignment": "center",
+        "columns_mobile": "1",
+        "column_spacing_mobile": 20,
+        "row_spacing_mobile": 20,
+        "column_alignment_mobile": "center",
+        "background_behind_columns": false,
+        "background_color": "",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "dc45d035-931d-4eac-8cd3-f60b2957d0c5": {
+      "type": "contact-form",
+      "blocks": {
+        "template--19727828975899__dc45d035-931d-4eac-8cd3-f60b2957d0c5-1689066839e9748996-0": {
+          "type": "text",
+          "settings": {
+            "title": "Company name",
+            "required": false,
+            "width": "full"
+          }
+        },
+        "c04a66a8-9f88-48d2-8bab-0c3359c4019c": {
+          "type": "text",
+          "settings": {
+            "title": "Web-site and social media page",
+            "required": false,
+            "width": "full"
+          }
+        },
+        "179b06dd-f0d2-449a-9d2f-6d8b2be83e24": {
+          "type": "text",
+          "settings": {
+            "title": "Your name",
+            "required": false,
+            "width": "full"
+          }
+        },
+        "template--19727828975899__dc45d035-931d-4eac-8cd3-f60b2957d0c5-1689066839e9748996-1": {
+          "type": "email",
+          "settings": {
+            "title": "Your Email",
+            "width": "full"
+          }
+        },
+        "template--19727828975899__dc45d035-931d-4eac-8cd3-f60b2957d0c5-1689066839e9748996-2": {
+          "type": "telephone",
+          "disabled": true,
+          "settings": {
+            "title": "Phone",
+            "required": false,
+            "width": "full"
+          }
+        },
+        "template--19727828975899__dc45d035-931d-4eac-8cd3-f60b2957d0c5-1689066839e9748996-3": {
+          "type": "text_area",
+          "settings": {
+            "title": "Your enquiry",
+            "placeholder": "",
+            "required": false,
+            "height": 120,
+            "width": "full"
+          }
+        },
+        "6fa334f4-5c30-4b19-8344-5770acf77a1f": {
+          "type": "submit",
+          "settings": {
+            "title": "SEND A REQUEST",
+            "size": "normal",
+            "full_width": true
+          }
+        }
+      },
+      "block_order": [
+        "template--19727828975899__dc45d035-931d-4eac-8cd3-f60b2957d0c5-1689066839e9748996-0",
+        "c04a66a8-9f88-48d2-8bab-0c3359c4019c",
+        "179b06dd-f0d2-449a-9d2f-6d8b2be83e24",
+        "template--19727828975899__dc45d035-931d-4eac-8cd3-f60b2957d0c5-1689066839e9748996-1",
+        "template--19727828975899__dc45d035-931d-4eac-8cd3-f60b2957d0c5-1689066839e9748996-2",
+        "template--19727828975899__dc45d035-931d-4eac-8cd3-f60b2957d0c5-1689066839e9748996-3",
+        "6fa334f4-5c30-4b19-8344-5770acf77a1f"
+      ],
+      "settings": {
+        "alignment": "left_left",
+        "heading": "FOR WHOLESALERS",
+        "heading_font_class": "fs-heading-3-base",
+        "text": "<p><strong>SPECIAL CONDITIONS FOR DISTRIBUTORS AND DEALERS WORLDWIDE<\/strong><\/p><p>Any questions \/ suggestions for collaboration?<br\/>Contact us by filling out the form.<\/p><p>Or send us an <em>email:partnership@kamenskaya.store<\/em><\/p>",
+        "show_recaptcha_terms": true,
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "full",
+        "custom_content_width": 700
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-hero",
+    "multi-column-1",
+    "multi-column-2",
+    "multi-column-3",
+    "dc45d035-931d-4eac-8cd3-f60b2957d0c5"
+  ]
+}
