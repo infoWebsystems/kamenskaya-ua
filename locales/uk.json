@@ -532,11 +532,20 @@
       "order_list": {
         "sort": {
           "order_number": {
-            "descending": "Номер замовлення (від високого до нижчого)"
+            "descending": "Номер замовлення (від високого до нижчого)",
+            "ascending": "Номер замовлення (від низького до високого)"
           },
           "order_total": {
             "ascending": "Загальна сума замовлення (від низького до високого)",
             "descending": "Загальна сума замовлення (від високого до низького)"
+          },
+          "date": {
+            "newest": "Від новішого до найстарішого",
+            "oldest": "Від найстарішого до найновішого"
+          },
+          "location": {
+            "ascending": "Розташування (Арізона)",
+            "descending": "Розташування (ZA)"
           }
         },
         "filter_title": "фільтр",
@@ -556,7 +565,94 @@
           }
         },
         "table_view": "Показати вигляд таблиці",
-        "show_order_actions_accessibility_label": "Показати дії замовлення для замовлення {{name}}"
+        "show_order_actions_accessibility_label": "Показати дії замовлення для замовлення {{name}}",
+        "column_headers": {
+          "order": "порядок",
+          "items": "Предмети",
+          "total": "Всього"
+        },
+        "delivered": "Доставлено {{date}}",
+        "empty_state_order_source_description": "Тут відображатимуться лише замовлення, розміщені на адресу {{email}} .",
+        "empty_state_subtitle": "Перейдіть до магазину, щоб зробити замовлення.",
+        "empty_state_title": "Замовлень ще немає",
+        "empty_state_title_for_pending_orders": "Немає незавершених замовлень",
+        "estimated_shortform": "Приблизно {{date}}",
+        "estimated_delivery": "Орієнтовна доставка {{date}}",
+        "one_images_accessibility_label": "Замовлення включає {{lineItemName1}}",
+        "two_images_accessibility_label": "Замовлення включає {{lineItemName1}} , {{lineItemName2}}",
+        "three_images_accessibility_label": "Замовлення включає {{lineItemName1}} , {{lineItemName2}} , {{lineItemName3}}",
+        "four_images_accessibility_label": "Замовлення включає {{lineItemName1}} , {{lineItemName2}} , {{lineItemName3}} , {{lineItemName4}}",
+        "more_than_three_products_accessibility_label": "Замовлення включає {{lineItemName1}} , {{lineItemName2}} і ще {{numberOfAdditionalProducts}} продуктів",
+        "more_than_four_products_accessibility_label": "Замовлення включає {{lineItemName1}} , {{lineItemName2}} , {{lineItemName3}} і ще {{numberOfAdditionalProducts}} продуктів",
+        "plus_more": "+ {{numberOfAdditionalProducts}}",
+        "plus_more_products": "+ {{numberOfAdditionalProducts}} продуктів",
+        "carousel": {
+          "one_products_accessibility_label": "Замовлення включає {{lineItemName1}} кількість {{lineItemQuantity1}}",
+          "two_products_accessibility_label": "Замовлення включає {{lineItemName1}} кількість {{lineItemQuantity1}} , {{lineItemName2}} кількість {{lineItemQuantity2}}",
+          "three_products_accessibility_label": "Замовлення включає {{lineItemName1}} кількість {{lineItemQuantity1}} , {{lineItemName2}} кількість {{lineItemQuantity2}} , {{lineItemName3}} кількість {{lineItemQuantity3}}",
+          "four_products_accessibility_label": "Замовлення включає {{lineItemName1}} кількість {{lineItemQuantity1}} , {{lineItemName2}} кількість {{lineItemQuantity2}} , {{lineItemName3}} кількість {{lineItemQuantity3}} , {{lineItemName4}} кількість {{lineItemQuantity4}}",
+          "five_products_accessibility_label": "Замовлення включає {{lineItemName1}} кількість {{lineItemQuantity1}} , {{lineItemName2}} кількість {{lineItemQuantity2}} , {{lineItemName3}} кількість {{lineItemQuantity3}} , {{lineItemName4}} кількість {{lineItemQuantity4}} , {{lineItemName5}} кількість {{lineItemQuantity5}}",
+          "six_products_accessibility_label": "Замовлення включає {{lineItemName1}} кількість {{lineItemQuantity1}} , {{lineItemName2}} кількість {{lineItemQuantity2}} , {{lineItemName3}} кількість {{lineItemQuantity3}} , {{lineItemName4}} кількість {{lineItemQuantity4}} , {{lineItemName5}} кількість {{lineItemQuantity5}} , {{lineItemName6}} кількість {{lineItemQuantity6}}",
+          "six_and_more_products_accessibility_label": "Замовлення включає {{lineItemName1}} кількість {{lineItemQuantity1}} , {{lineItemName2}} кількість {{lineItemQuantity2}} , {{lineItemName3}} кількість {{lineItemQuantity3}} , {{lineItemName4}} кількість {{lineItemQuantity4}} , {{lineItemName5}} кількість {{lineItemQuantity5}} , {{lineItemName6}} кількість {{lineItemQuantity6}} і більше",
+          "view_order_details": "Переглянути деталі замовлення",
+          "previous": "Попередній",
+          "next": "Далі"
+        },
+        "items": {
+          "one": "{{count}} елемент",
+          "other": "{{count}} елементів"
+        },
+        "list_view": "Показати список",
+        "no_filtered_results_description": "Видаліть або налаштуйте фільтри, щоб переглянути свої замовлення",
+        "no_filtered_results_title": "Немає відфільтрованих результатів",
+        "order_link": "Переглянути замовлення {{name}}",
+        "order_number": "Замовити {{name}}",
+        "orders_title": "Підтверджено",
+        "pagination": {
+          "nav_accessibility_label": "Кнопки навігації замовлень",
+          "next": "Далі",
+          "next_accessibility_label": "Наступні замовлення",
+          "previous": "попередня",
+          "previous_accessibility_label": "Попередні замовлення",
+          "load_more": "Завантажити ще",
+          "load_more_accessibility_label": "Завантажити більше замовлень"
+        },
+        "order_status_message": {
+          "list_view": {
+            "view_order_for_details": "Перегляньте замовлення, щоб дізнатися більше",
+            "estimated_delivery": "Орієнтовна доставка {{date}}",
+            "last_updated": "Останнє оновлення {{date}}"
+          },
+          "table_view": {
+            "estimated_delivery": "Приблизно доставка {{date}}"
+          }
+        },
+        "payment_status": {
+          "list_view": {
+            "overdue": "Прострочена оплата",
+            "due": "Термін оплати {{date}}",
+            "due_today": "Термін оплати сьогодні",
+            "due_without_date": "Очікуваний платіж",
+            "due_on_fulfillment": "Оплата після виконання",
+            "pay_to_confirm": "Оплатіть для підтвердження",
+            "payment_not_due": "Платіж ще не настав"
+          },
+          "table_view": {
+            "overdue": "Прострочена",
+            "due": "Термін {{date}}",
+            "due_today": "Термін виконання сьогодні",
+            "paid": "Платний",
+            "due_without_date": "належний",
+            "due_on_fulfillment": "Підлягає виконанню",
+            "pay_to_confirm": "Оплатіть для підтвердження",
+            "payment_not_due": "Ще не настав термін"
+          }
+        },
+        "sort_by": "Сортувати за: {{option}}",
+        "sort_hide_options_accessibility_label": "Приховати параметри сортування для підтверджених замовлень.",
+        "sort_show_options_accessibility_label": "Показати параметри сортування для підтверджених замовлень.",
+        "sort_currently_sorted_by_accessibility_label": "Наразі відсортовано за: {{option}}",
+        "sort_title": "Сортувати"
       },
       "order_status": {
         "attempted_delivery_label": "Спроба доставки",
@@ -662,14 +758,143 @@
         "other": "Якщо їх не отримали,"
       },
       "let_us_know": "Дайте нам знати",
-      "contact_us": "зв'яжіться з нами."
+      "contact_us": "зв'яжіться з нами.",
+      "list_layout_accessibility_label": "Варіанти компонування",
+      "list_title": "Замовлення"
     },
     "order_details": {
       "shipment_timeline": {
         "expand_events_label": "Показати деталі",
         "expand_events_accessibility_label": "Показати деталі доставки замовлення",
-        "hide_events_label": "Приховати деталі"
-      }
+        "hide_events_label": "Приховати деталі",
+        "hide_events_accessibility_label": "Приховати деталі доставки замовлення"
+      },
+      "addresses_section_title": "Оплата та доставка",
+      "order_details": "Деталі замовлення",
+      "order_details_skeleton_accessibility_label": "Увійдіть, щоб переглянути всі деталі замовлення.",
+      "billing_address": "Платіжна адреса",
+      "card_ending_with": "закінчується на {{lastDigits}}",
+      "contact": "контакт",
+      "contact_information": "Контактна інформація",
+      "company": "Компанія",
+      "fully_refunded_label": "ПОВЕРНЕНО",
+      "group_title_label": "Частина: {{groupTitle}}",
+      "discount": "Знижка",
+      "hide_items": "Приховати елементи",
+      "loading": "Завантаження деталей замовлення",
+      "loading_finished_accessibility_message": "Деталі замовлення завантажено",
+      "location": "Місцезнаходження",
+      "image_gallery": {
+        "next": "Показати наступні елементи",
+        "previous": "Показати попередні елементи"
+      },
+      "mobile_summary_toggle_button": {
+        "open": "Показати зведення замовлення",
+        "closed": "Приховати підсумок замовлення"
+      },
+      "no_data": "Жодного",
+      "no_data_provided_accessibility_label": "{{fieldName}} порожнє",
+      "paid_amount": "Платний",
+      "partially_refunded_label": "ЧАСТКОВО ПОВЕРНЕНО",
+      "payment": {
+        "status_in_review": "Оплата після перевірки",
+        "status_unpaid": "Термін оплати: {{date}}",
+        "title": "Оплата",
+        "card_payment_details": "закінчується на {{lastDigits}} - {{formattedTransactionAmount}}",
+        "gift_card_payment_details": "закінчується на {{lastDigits}} - {{formattedTransactionAmount}}",
+        "shop_pay_installments": {
+          "paid_in_installments": "Оплата частинами через Shop Pay.",
+          "view_schedule": "Переглянути розклад"
+        },
+        "manual_payment_methods": {
+          "money_order": "Грошовий переказ - {{formattedTransactionAmount}}",
+          "cash_on_delivery": "Оплата при доставці (COD) - {{formattedTransactionAmount}}",
+          "bank_deposit": "Банківський депозит - {{formattedTransactionAmount}}"
+        }
+      },
+      "paid_with_shop_pay_installments_card": {
+        "paid_with_shop_pay_installments": "Оплата в розстрочку в магазині",
+        "description": "Слідкуйте за розкладом платежів за допомогою нагадувань у додатку Shop.",
+        "payment_reminders_button": "Отримуйте нагадування про оплату",
+        "desktop_qr_code_content": {
+          "title": "Пошук нагадувань",
+          "description": "Отримуйте нагадування про виплати за допомогою Shop."
+        }
+      },
+      "refunded_amount": "Повернено",
+      "request_return_failed": "Виникла проблема з обробкою вашого запиту. Будь ласка спробуйте ще раз.",
+      "remaining_amount": "Залишилося",
+      "marketing_section_title": "Новини та пропозиції",
+      "marketing_description": "Ви отримуватимете маркетингові електронні листи. Ви можете скасувати підписку в будь-який час.",
+      "marketing_checkbox_label": "Пишіть мені новини та пропозиції електронною поштою",
+      "marketing_checkmark_label": "Ви підписані на отримання електронною поштою новин і пропозицій",
+      "returns": {
+        "expand_events_label": "Показати деталі",
+        "hide_events_label": "Приховати деталі",
+        "ineligible_return_message": "Жоден товар у цьому замовленні не підлягає поверненню.",
+        "ineligible_return_message_when_returned": "Жодні додаткові товари в цьому замовленні не підлягають поверненню.",
+        "print_shipping_label": "Роздрукуйте транспортну етикетку",
+        "return_and_refund_modal_header": "Політика відшкодування",
+        "tracking_number": "Номер відстеження:"
+      },
+      "shipping": {
+        "address": "Адреса доставки",
+        "address_map_marker": "Адреса доставки",
+        "method": "Метод доставки",
+        "summary": "Доставка",
+        "free": "безкоштовно",
+        "free_shipping_discount": "Безкоштовна доставка",
+        "one_time": "Одноразова доставка",
+        "subscription": "Доставка за підпискою"
+      },
+      "pickup": {
+        "pickup": "Пікап",
+        "pickup_location": "Місце отримання"
+      },
+      "show_items": "Показати елементи",
+      "show_order_summary": "Показати зведення замовлення",
+      "hide_order_summary": "Приховати підсумок замовлення",
+      "subtitle": "Підтверджено {{date}}",
+      "subtotal": "Проміжний підсумок",
+      "summary_list_title_accessibility_label": "Товари замовлення",
+      "summary_title": "Підсумок Замовлення",
+      "summary_totals_title_accessibility_label": "Сума замовлення",
+      "shop_order_tracking": {
+        "download_shop_to_track": "Завантажте магазин, щоб відстежити пакет",
+        "track_order_with_shop": "Відстежуйте замовлення в магазині",
+        "title_header": "Скануйте за допомогою телефону",
+        "real_time_delivery_updates": "Магазин надішле вам оновлення доставки в реальному часі, щойно ваше замовлення буде відправлено."
+      },
+      "edit_summary": {
+        "added": "Додано",
+        "added_with_quantity": "Додано {{quantity}}",
+        "removed": "Видалено",
+        "removed_with_quantity": "{{quantity}} видалено",
+        "updated_at": "Ваше замовлення оновлено {{date}}",
+        "returned": "Повернувся",
+        "returned_with_quantities": "Повернуто {{delta}} із {{total}}",
+        "removed_with_quantities": "Видалено {{delta}} із {{total}}"
+      },
+      "shop_pay": {
+        "order_completed_with": "Замовлення виконано с",
+        "learn_more": "Вивчайте більше"
+      },
+      "taxes": "податки",
+      "duties": "Обов'язки",
+      "ok_duties_tooltip": "Це замовлення доставляється з іншої країни, тому до загальної суми замовлення додано мита.",
+      "error_duties_tooltip": "Це замовлення доставляється з іншої країни, тому під час доставки можуть стягуватися мита та податки.",
+      "zero_duties_tooltip": "Це замовлення доставляється з іншої країни. На замовлення такої вартості мито не стягується.",
+      "tip": "Порада",
+      "title": "Замовити {{name}}",
+      "total": "Всього",
+      "unit_price": "{{price}} \/шт",
+      "pagination": {
+        "load_more": "Завантажити ще",
+        "load_more_accessibility_label": "Завантажити більше елементів",
+        "loading_accessibility_label": "Завантаження елементів"
+      },
+      "login_to_view_all_order_details": "Увійдіть, щоб переглянути всі деталі замовлення.",
+      "log_in": "авторизуватися"
     },
     "payment_methods": {
       "add_payment_method": {
@@ -701,6 +926,42 @@
       "subscription_policy": "Політика передплати",
       "terms_of_sale": "Умови продажу",
       "terms_of_service": "Умови використання"
+    },
+    "navigation_and_structure": {
+      "nav_label_accessibility_label": "Основна навігація",
+      "navigation_accessibility_message": "Ви перейшли до {{sectionName}}",
+      "open_menu_accessibility_label": "Відкрити основну навігацію",
+      "orders_link_label": "Замовлення",
+      "shop_logo_accessibility_label": "Логотип {{shopName}}",
+      "subscriptions_link_label": "Підписки"
+    },
+    "account_information": {
+      "loading_accessibility_message": "Завантаження інформації про обліковий запис",
+      "loading_finished_accessibility_message": "Інформацію про обліковий запис завантажено",
+      "profile_card": {
+        "cancel": "Скасувати",
+        "cancel_accessibility_label": "Скасувати редагування профілю",
+        "edit": "Редагувати",
+        "edit_accessibility_label": "Редагувати профіль",
+        "email_help_text": "Електронна адреса, яка використовується для входу, не може бути змінена",
+        "first_name": "Ім'я",
+        "last_name": "Прізвище",
+        "no_name_provided_accessibility_label": "Ім'я не додано",
+        "phone_number_help_text": "Номер телефону, який використовується для входу, не можна змінити",
+        "save": "зберегти",
+        "save_accessibility_label": "Зберегти профіль",
+        "title": "Профіль"
+      },
+      "profile_update_confirmation_message": "Профіль оновлено",
+      "title": "Інформація про обліковий запис",
+      "people": {
+        "pagination": {
+          "load_more": "Завантажити ще",
+          "load_more_accessibility_label": "Завантажте більше людей",
+          "loading_accessibility_label": "Завантаження людей"
+        }
+      },
+      "add_button": "додати"
     }
   },
   "customer": {
