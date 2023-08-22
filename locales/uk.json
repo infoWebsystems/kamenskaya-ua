@@ -2595,6 +2595,88 @@
       "subtext": "Введіть новий пароль для {{ email }}",
       "success": "Ваш пароль успішно скинуто",
       "title": "Скинути пароль облікового запису"
+    },
+    "account": {
+      "details": "Реквізити облікового запису",
+      "title": "Мій рахунок"
+    },
+    "activate_account": {
+      "cancel": "Відхилити запрошення",
+      "password": "Пароль",
+      "password_confirm": "Підтвердьте пароль",
+      "submit": "Активувати акаунт",
+      "subtext": "Створіть свій пароль, щоб активувати обліковий запис.",
+      "success": "Ваш обліковий запис успішно активовано",
+      "title": "Активувати акаунт"
+    },
+    "addresses": {
+      "add": "Додайте адресу",
+      "add_new": "Додайте нову адресу",
+      "address1": "Адреса",
+      "address2": "Квартира, люкс і т.д.",
+      "cancel": "Скасувати",
+      "city": "місто",
+      "company": "Компанія",
+      "country": "Країна\/регіон",
+      "default": "За замовчуванням",
+      "delete": "Видалити",
+      "delete_confirm": "Ви впевнені, що бажаєте видалити цю адресу?",
+      "edit": "Редагувати",
+      "edit_address": "Редагувати адресу",
+      "first_name": "Ім'я",
+      "last_name": "Прізвище",
+      "phone": "Телефон",
+      "province": "Провінція",
+      "set_default": "Встановити як адресу за умовчанням",
+      "title": "Ваші адреси",
+      "update": "Оновити адресу",
+      "zip": "Поштовий індекс"
+    },
+    "login": {
+      "email": "Електронна пошта",
+      "forgot_password": "Забули свій пароль?",
+      "guest_continue": "Продовжити",
+      "guest_title": "Продовжуйте як гість",
+      "password": "Пароль",
+      "sign_in": "Увійти",
+      "title": "Логін"
+    },
+    "order": {
+      "billing_address": "Платіжна адреса",
+      "cancelled_html": "Замовлення скасовано {{ date }}",
+      "cancelled_reason": "Причина: {{ reason }}",
+      "date_html": "Розміщено {{ date }}",
+      "discount": "Знижка",
+      "fulfilled_at_html": "Виконано {{ date }}",
+      "fulfillment_status": "Статус виконання",
+      "payment_status": "Статус платежу",
+      "price": "Ціна",
+      "product": "Продукт",
+      "quantity": "Кількість",
+      "shipping": "Доставка",
+      "shipping_address": "Адреса доставки",
+      "subtotal": "Проміжний підсумок",
+      "summary": "Резюме звинувачень",
+      "tax": "податок",
+      "title": "Замовити {{ name }}",
+      "total": "Всього",
+      "track_shipment": "Відстежити відправлення"
+    },
+    "orders": {
+      "date": "Дата",
+      "fulfillment_status": "Статус виконання",
+      "order_number": "порядок",
+      "order_number_link": "Номер замовлення {{ number }}",
+      "payment_status": "Статус платежу",
+      "total": "Всього"
+    },
+    "recover_password": {
+      "cancel": "Скасувати",
+      "email": "Електронна пошта",
+      "submit": "Надіслати",
+      "subtext": "Ми надішлемо вам електронний лист для скидання пароля.",
+      "success": "Ми надіслали вам електронний лист із посиланням для оновлення пароля.",
+      "title": "Скинути пароль"
     }
   },
   "filters": {
@@ -2852,7 +2934,31 @@
       "empty_message": "У вашому кошику немає товарів",
       "error": "У вашому кошику максимальна кількість цього товару",
       "free_shipping": "Ваше замовлення має право на безкоштовну доставку!",
-      "free_shipping_remaining_html": "Лише {{ remaining_amount }} до безкоштовної доставки!"
+      "free_shipping_remaining_html": "Лише {{ remaining_amount }} до безкоштовної доставки!",
+      "go_to_cart": "Перейти до кошика",
+      "inventory_warning": "Залишилося лише {{ amount }} !",
+      "items_with_count": {
+        "one": "{{ count }} елемент",
+        "other": "{{ count }} елементів"
+      },
+      "order_note_button_add": "Додайте примітки до замовлення",
+      "order_note_button_edit": "Редагувати примітки до замовлення",
+      "order_note_label": "Примітка до замовлення",
+      "order_note_placeholder": "Додати спеціальні інструкції для продавця...",
+      "remove": "видалити",
+      "subtotal": "Проміжний підсумок",
+      "taxes_and_shipping_at_checkout": "Податки та вартість доставки розраховуються під час оформлення замовлення",
+      "taxes_and_shipping_policy_at_checkout_html": "Податки та вартість <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;\/span&gt;\">доставки<\/a> розраховуються під час оформлення замовлення",
+      "taxes_included_and_shipping_policy_html": "З податком. <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;\/span&gt;\">Вартість доставки<\/a> розраховується при оформленні замовлення.",
+      "taxes_included_but_shipping_at_checkout": "Податок включено, вартість доставки розраховується під час оформлення замовлення",
+      "title": "Ваш кошик",
+      "update": "оновлення",
+      "view_cart": "Переглянути кошик ( {{ cart_total }} )"
+    },
+    "label": {
+      "product": "Продукт",
+      "quantity": "Кількість",
+      "total": "Всього"
     }
   },
   "gift_cards": {
@@ -2952,6 +3058,25 @@
         "other": "{{count}} кольорів",
         "zero": "Без кольорів"
       }
+    }
+  },
+  "collections": {
+    "general": {
+      "collection_label": "Колекція",
+      "no_matches": "Вибачте, у цій колекції немає товарів",
+      "no_products": "Немає продуктів",
+      "view_all": "Подивитись все"
+    }
+  },
+  "contact": {
+    "form": {
+      "email": "Електронна пошта",
+      "message": "повідомлення",
+      "name": "Ім'я",
+      "phone": "Телефон",
+      "post_success": "Дякуємо, що звернулися до нас. Ми зв’яжемося з вами якомога швидше.",
+      "recaptcha_terms_html": "Цей сайт захищено технологією reCAPTCHA, до нього застосовуються <a href=\"https:\/\/policies.google.com\/privacy\">Політика конфіденційності<\/a> й <a href=\"https:\/\/policies.google.com\/terms\">Умови використання<\/a> Google.",
+      "submit": "Надіслати"
     }
   }
 }
