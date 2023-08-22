@@ -1259,7 +1259,9 @@
         "loading_accessibility_label": "Завантаження елементів"
       },
       "login_to_view_all_order_details": "Увійдіть, щоб переглянути всі деталі замовлення.",
-      "log_in": "авторизуватися"
+      "log_in": "авторизуватися",
+      "logged_in_account_no_permission_to_order": "Ви ввійшли як {{email}} . Цей обліковий запис не має дозволу на керування цим замовленням.",
+      "log_in_to_a_different_account": "Увійдіть в інший обліковий запис"
     },
     "payment_methods": {
       "add_payment_method": {
@@ -1448,7 +1450,21 @@
         "selection_confirmation_button": "Виберіть місце розташування",
         "title": "Для якого місця ви купуєте?",
         "clear_search": "Очистити пошук",
-        "try_new_search": "Спробуйте новий пошук"
+        "try_new_search": "Спробуйте новий пошук",
+        "continue_to_store": "Продовжуйте зберігати",
+        "description": "Якщо у вашому кошику вже є товари, зміна місця розташування може вплинути на ціни та кількість у кошику.",
+        "list_accessibility_label": "Список місць",
+        "list_item_without_address_accessibility_label": "{{name}} : немає адреси",
+        "list_loading_accessibility_message": "Завантаження списку місць",
+        "list_loading_address_accessibility_message": "Завантаження адреси для {{locationName}}",
+        "list_loading_finished_accessibility_message": "Список місць завантажено",
+        "loading_store_accessibility_message": "Збирається в магазин",
+        "no_location_title": "Тільки особисті замовлення",
+        "no_location_description": "Ви більше не маєте дозволу розміщувати замовлення для {{company}} . Ви ще можете робити індивідуальні замовлення.",
+        "no_locations_found": "Місця не знайдено",
+        "search": "Пошук місця",
+        "search_location_title": "Виберіть місце",
+        "selection_cancel_button": "Скасувати"
       },
       "addresses": {
         "add_billing_address_button": "Додайте платіжну адресу",
@@ -1578,6 +1594,40 @@
         "modal_po_number_input_max_length_error": "Максимальна кількість символів у номері замовлення на покупку {{maxLength}} .",
         "save": "зберегти",
         "title": "PO № {{poNumber}}"
+      },
+      "account_information": {
+        "company_card_name_label": "Назва компанії",
+        "company_card_section_accessibility_label": "Компанія"
+      },
+      "locations": {
+        "contact_email": "Електронна пошта",
+        "contact_list_title": "Люди",
+        "contact_name": "Ім'я",
+        "contact_permissions": "Дозволи",
+        "contact_phone_number": "Номер телефону",
+        "location_picker_label": "Назва місця",
+        "location_picker_accessibility_label": "Назва місця: {{locationName}}",
+        "net_payment_terms_description": "{{name}} : платежі мають бути сплачені протягом {{numberOfDays}} днів",
+        "own_role_contact_name": "ви",
+        "pagination": {
+          "load_more": "Завантажити ще",
+          "load_more_accessibility_label": "Завантажити більше місць"
+        },
+        "payment_details_title": "Платіжні реквізити",
+        "payment_terms": "Терміни оплати",
+        "permissions_label": "Ваші дозволи",
+        "permissions_title": "Дозволи",
+        "section_title": "Місцезнаходження",
+        "shipping_address_required": "Щоб розпочати розміщення замовлень, додайте адресу доставки до цього місця.",
+        "staff_and_permissions_title": "Персонал і дозволи",
+        "tax_details_title": "Податкові відомості",
+        "tax_id": "ІПН",
+        "tax_exemptions": "Звільнення від сплати податків",
+        "multiple_tax_exemptions": "ще {{taxExemptionsCount}}",
+        "multiple_tax_exemptions_and": "і",
+        "tax_exemptions_modal_close": "Закрити",
+        "taxes_none": "Жодного",
+        "tax_exemptions_modal_button_accessibility_label": "Переглянути всі звільнення від сплати податків"
       }
     },
     "errors": {
@@ -1625,6 +1675,71 @@
         "description": "Під час оновлення вашого профілю виникла проблема. Спробуйте оновити цю сторінку або перевірте підключення до Інтернету."
       },
       "retry_action_label": "Повторіть спробу"
+    },
+    "addresses": {
+      "add_button": "Додайте адресу",
+      "add_button_text": "додати",
+      "add_button_accessibility_label": "Додайте адресу",
+      "back_button": "Назад",
+      "back_button_accessibility_label": "Повернутися до редагування адреси {{address}}",
+      "add_address_banner": "Додайте адреси для використання під час оплати",
+      "no_addresses_banner": "Адреси не додано",
+      "address_deleted_notification": "Адреса видалена",
+      "cancel_adding_address_accessibility_label": "Скасувати додавання адреси",
+      "cancel_deletion_button": "Скасувати",
+      "cancel_deletion_button_accessibility_label": "Скасувати видалення {{address}}",
+      "default_address": {
+        "title": "Адреса за умовчанням",
+        "title_accessibility_label": "Адреса за умовчанням: {{address}}"
+      },
+      "delete_button": "Видалити",
+      "delete_button_accessibility_label": "Видалити {{address}}",
+      "delete_confirmation_button": "Видалити адресу",
+      "delete_confirmation_button_accessibility_label": "Видалити {{address}}",
+      "delete_confirmation_message": "Видалити адресу? Існуючі замовлення не впливають.",
+      "delete_confirmation_title": "Видалити адресу?",
+      "delete_confirmation_description": "Існуючі замовлення не впливають.",
+      "edit_button": "Редагувати",
+      "edit_button_accessibility_label": "Редагувати {{address}}",
+      "edit_section_accessibility_label": "Редагувати {{address}}",
+      "edit_modal_title": {
+        "default": "Редагувати адресу",
+        "billing": "Редагувати платіжну адресу",
+        "shipping": "Змінити адресу доставки"
+      },
+      "loading_accessibility_message": "Адреса завантаження",
+      "loading_addresses_accessibility_message": "Завантаження адрес",
+      "loading_billing_accessibility_message": "Завантаження платіжної адреси",
+      "loading_finished_accessibility_message": "Завантажено нову сторінку адрес",
+      "loading_shipping_accessibility_message": "Завантаження адреси доставки",
+      "pagination": {
+        "load_more": "Завантажити ще",
+        "load_more_accessibility_label": "Завантажити більше адрес"
+      },
+      "save_new_address_accessibility_label": "Зберегти адресу",
+      "title": "Адреси",
+      "billing_address_dropdown_placeholder": "Платіжна адреса"
+    },
+    "address_form": {
+      "attention": "Увага",
+      "attention_help_text": "Ім'я особи або відділу",
+      "auto_complete_close_accessibility_label": "Закрити пропозиції",
+      "auto_complete_title": "Пропозиції",
+      "billing_address": "Використовувати як платіжну адресу",
+      "cancel": "Скасувати",
+      "cancel_accessibility_label": "Скасувати редагування адреси {{address}}",
+      "creation_success_notification": "Адресу додано",
+      "default_address": "Це моя адреса за умовчанням",
+      "default_address_creation_success_notification": "Додано адресу за умовчанням",
+      "default_address_update_success_notification": "Адресу за умовчанням оновлено",
+      "loading_add_form_accessibility_message": "Завантаження форми нової адреси",
+      "loading_edit_form_accessibility_message": "Завантаження форми редагування адреси",
+      "loading_form_accessibility_message": "Завантаження адресної форми",
+      "loading_finished_accessibility_message": "Форма адреси завантажена",
+      "save": "зберегти",
+      "save_accessibility_label": "Зберегти адресу {{address}}",
+      "section_title_accessibility_label": "Додайте адресу",
+      "update_success_notification": "Адреса оновлена"
     }
   },
   "customer": {
