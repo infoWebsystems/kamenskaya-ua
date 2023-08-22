@@ -798,7 +798,90 @@
             "other": "%{count} елементів"
           }
         },
-        "alternative_payment_currency_total": "Стягується як %{amount_due}"
+        "alternative_payment_currency_total": "Стягується як %{amount_due}",
+        "title": "Підсумок Замовлення",
+        "group_title_label": "Частина \"%{group_title}\"",
+        "order_name_label": "Замовити %{name}",
+        "shopping_cart_label": "Магазинний візок",
+        "discount_title": "Знижка",
+        "discount_title_stacking": {
+          "one": "Знижка",
+          "other": "Знижки"
+        },
+        "discount_order_stacking": {
+          "one": "Замовляйте знижку",
+          "other": "Замовляйте знижки"
+        },
+        "discount_label": "Код на знижку",
+        "discount_placeholder": "Код на знижку",
+        "gift_card_title": "Подарункова картка",
+        "gift_card_label": "Подарункова картка",
+        "gift_card_placeholder": "Подарункова картка",
+        "gift_card_and_discount_title": "Подарункова карта або код знижки",
+        "gift_card_and_discount_label": "Подарункова карта або код знижки",
+        "gift_card_and_discount_placeholder": "Подарункова карта або код знижки",
+        "remove_gift_card_label": "Прозора подарункова карта",
+        "remove_discount_label": "Зняти знижку",
+        "free_shipping_discount_label": "Безкоштовна доставка",
+        "applied_free_shipping_discount_label": "Прикладний",
+        "apply_discount_button_label": "Застосувати",
+        "applied_discount_message": "%{amount} знижки на загальну вартість замовлення",
+        "discount_has_been_applied": "Знижку застосовано",
+        "discount_has_been_removed": "Знижку видалено",
+        "gift_card_has_been_applied": "Подарункову картку застосовано",
+        "gift_card_has_been_removed": "Подарункову картку видалено",
+        "gift_card_subscriptions_notice": "Подарункові картки застосовуються лише до вашого першого платежу",
+        "discount_already_applied": "До цього замовлення застосована знижка. Ви не можете додати іншу знижку.",
+        "cart_does_not_meet_discount_requirements_notice": "Код знижки <strong style=\"text-transform:uppercase\">%{code}<\/strong> недійсний для товарів у вашому кошику",
+        "discount_requires_customer_notice": "Введіть інформацію про доставку, щоб застосувати код знижки <strong style=\"text-transform:uppercase\">%{code}<\/strong>",
+        "customer_does_not_meet_discount_requirements_notice": "Код знижки <strong style=\"text-transform:uppercase\">%{code}<\/strong> вам зараз недоступний",
+        "shipping_information_does_not_meet_discount_requirements_notice": "Код знижки <strong style=\"text-transform:uppercase\">%{code}<\/strong> недоступний для вашої адреси доставки",
+        "customer_already_used_once_per_customer_discount_notice": "Код знижки <strong style=\"text-transform:uppercase\">%{code}<\/strong> уже використано",
+        "subtotal_label": "Проміжний підсумок",
+        "shipping_label": "Доставка",
+        "pickup_label": "Пікап",
+        "no_pickup_location": "Самовивіз недоступний для цього замовлення. Виберіть інший спосіб доставки.",
+        "tip_label": "Порада",
+        "calculating_shipping": "Розрахунок…",
+        "calculating": "Розрахунок…",
+        "shipping_default_value": "Розраховується на наступному кроці",
+        "shipping_pending_message": "Ще не доступний",
+        "shipping_policy_link": "Вартість доставки",
+        "taxes_label": "податки",
+        "estimated_taxes_label": "Орієнтовні податки",
+        "information_estimated_taxes_label": "Податки (приблизно)",
+        "estimated_taxes_finalization_tooltip_content": "Остаточний податок і загальну суму буде підтверджено електронною поштою або текстовим повідомленням після розміщення замовлення.",
+        "order_total_label": "Всього замовлення",
+        "total_label": "Всього",
+        "total_outstanding_label": "Сума до оплати",
+        "partial_total_label": "Всього",
+        "free_total_label": "безкоштовно",
+        "paid_label": "Платний",
+        "payment_due_label": "Очікуваний платіж",
+        "vat_label_html": "Включаючи %{amount} податків",
+        "discount_and_gift_card_savings_notice": "Після %{discount_amount} знижок і %{gift_card_amount} подарункових карток",
+        "discount_savings_notice": "Після %{discount_amount} знижок",
+        "gift_card_savings_notice": "Після %{gift_card_amount} у подарункових картках",
+        "cost_table_title": "Підсумок витрат",
+        "description_label": "опис",
+        "price_label": "Ціна",
+        "quantity_label": "Кількість",
+        "product_change_label": "Зміна",
+        "product_image_label": "Зображення продукту",
+        "scroll_order_summary": "Перейдіть до інших елементів",
+        "expand_order_summary": "Показати зведення замовлення",
+        "collapse_order_summary": "Приховати підсумок замовлення",
+        "original_price": "Оригінальна ціна",
+        "sale_price": "Ціна продажу",
+        "total_updated_label": "Оновлена ​​загальна ціна:",
+        "order_total_updated_label": "Оновлено всього",
+        "total_already_paid_label": "Вже оплачено",
+        "unit_price": {
+          "accessible_separator": "пер"
+        },
+        "gift_card_ending": "Подарункова картка закінчується на %{last_characters}",
+        "estimated_tax_label": "Розрахунковий податок",
+        "multiple_shipping_lines_label": "Загальна сума доставки"
       },
       "shipping": {
         "title": "Доставка",
@@ -1073,6 +1156,24 @@
           "header": "Деякі товари було видалено з вашого кошика",
           "message": "Ці елементи недоступні для замовлень B2B.",
           "status_column_header": "Недоступний"
+        },
+        "unpurchasable_product_generic": {
+          "title": "Товар, який неможливо придбати",
+          "header": "Деякі товари було видалено з вашого кошика",
+          "message": "Ці предмети недоступні.",
+          "status_column_header": "Недоступний"
+        },
+        "unshippable_product": {
+          "title": "Доставка недоступна",
+          "header": {
+            "one": "Немає можливості доставки для %{count} товару",
+            "other": "Немає можливості доставки для %{count} позицій"
+          },
+          "message": {
+            "one": "Цей товар буде видалено з вашого кошика, оскільки для вашої адреси недоступні способи доставки.",
+            "other": "Ці товари буде видалено з вашого кошика, оскільки для вашої адреси недоступні способи доставки."
+          },
+          "status_column_header": "Без доставки"
         }
       },
       "subscriptions": {
@@ -1236,6 +1337,34 @@
       "localized_fields": {
         "additional_information": {
           "title": "Додаткова інформація"
+        }
+      },
+      "contextual_availability": {
+        "title": {
+          "one": "Недоступний товар",
+          "other": "Недоступні продукти"
+        },
+        "products_not_available": {
+          "one": "Цей продукт буде видалено з вашого кошика, оскільки він недоступний у вашій країні\/регіоні.",
+          "other": "Ці продукти буде видалено з вашого кошика, оскільки вони недоступні у вашій країні\/регіоні."
+        },
+        "all_products_in_cart_unavailable": {
+          "one": "Цей продукт недоступний у вашій країні\/регіоні.",
+          "other": "Ці продукти недоступні у вашій країні\/регіоні."
+        },
+        "unavailable_label": "Недоступний"
+      },
+      "deliverability": {
+        "not_deliverable": {
+          "title": {
+            "one": "Немає можливості доставки для %{count} товару",
+            "other": "Немає можливості доставки для %{count} позицій"
+          },
+          "message": {
+            "one": "Цей товар буде видалено з вашого кошика, оскільки для вашої адреси недоступні способи доставки.",
+            "other": "Ці товари буде видалено з вашого кошика, оскільки для вашої адреси недоступні способи доставки."
+          },
+          "label": "Без доставки"
         }
       }
     },
