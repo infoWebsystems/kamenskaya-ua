@@ -33,26 +33,11 @@
             "text_6": ""
           }
         },
-        "ce9f3f5b-7e96-45a4-8e8f-3e147fecc6e3": {
+        "3714957b-01ba-44b6-847d-cb9c29daf90e": {
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Volume: 40 ml (1.35 fl oz)"
-          }
-        },
-        "9bd61dee-ffb6-447a-98ab-102450637825": {
-          "type": "custom_liquid",
-          "settings": {
-            "column_placement": "right",
-            "custom_liquid": "Delamination degree: high"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text_font_class": "fs-body-100",
-            "text": "<p>Delaminating inks. If you're looking for experiments and want to create something new and unusual, you should definitely try these inks! You can use them to create volume without physically creating volume. Incredible texture. Paintings create themselves!<\/p>",
-            "column_placement": "left"
+            "custom_liquid": "Volume: 16 pcs. x 15 ml (0.51 fl oz)"
           }
         },
         "variant_picker": {
@@ -66,6 +51,14 @@
             "siblings_show_product_image": true,
             "siblings_option_name": "Color",
             "chip_layout": "3col"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text_font_class": "fs-body-100",
+            "text": "<p>‘Nude’ line inks are delicate pastel shades. Look striking on dark surfaces. Dense or light, it's up to you!<\/p>",
+            "column_placement": "left"
           }
         },
         "inventory_counter": {
@@ -134,7 +127,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Description",
-            "content": "<ul><li>Create Something New And Unique with 23 different shades of KAMENSKAYA delaminating alcohol inks which you could use to create volume without physically creating volume. Technically inks split into hundreds of small particles and form fantastic patterns!<\/li><li>The Shades Are Lightfast and not affected by direct sunlight. In addition to painting in ink art tecnhique you could use these alcohol inks for epoxy resin.<\/li><li>Get New Effects In Your Art by combining delaminating inks with other lines of KAMENSKAYA alcohol inks.<\/li><li>Follow The Instructions on how to achieve and enhance delamination effect.<\/li><\/ul>",
+            "content": "<ul><li>Pastel Shade Line is a light color palette of alcohol inks with velvety finish, based on dye and pigment, for ink art and epoxy resin. The pigment provides a dense and opaque layer, while the dye is responsible for the color<\/li><li>High Lightfastness - our inks have lightfastness level of 7-10 which means the colors stay bright for a long time.<\/li><li>Economy in use - one bottle of ink is sufficient for a minimum of 2 paintings of 100:70 cm (39.37:27.56 in) format, which is a sign of high economy in use<\/li><li>Mix Colors Easily With Each Other, and dilute to the desired concentration with KAMENSKAYA special alcohol blending solution.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -145,7 +138,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Recommendations",
-            "content": "<p><strong>Method 1 <\/strong>(to achieve self-splitting effect)<strong>:<\/strong> <\/p><p>Dilute the ink with thinner in a cup, pour onto the surface and wait until completely dry. No need to use a dryer.<br\/><br\/><strong>Method 2 <\/strong>(to achieve standard alcohol inks look without self-splitting effect)<strong>:<\/strong> <\/p><p>Pour ink on the surface and dry it with a dryer as you would do with a normal alcohol ink.<br\/><br\/>To enhance original delamination effect (which could be high, medium or low, as shown on a bar at the product sticker) you will need to add water to alcohol (70% should be alcohol and 30% - water).<br\/><br\/>Add Kamenskaya alcohol varnish to alcohol to provide extra protection for your painting.<\/p><p><strong>Tips:<\/strong><\/p><p>1. The more you dilute the inks, the less grit is formed. Correspondingly, the less, the tighter the grain.<\/p><p>2. Inks with different degrees of separation do not mix together to create a third colour, they dry in two colours. This looks stunning, it’s worth trying it!<\/p><p>3. Inks of the same degree of layering work well together.<\/p><p>4. The inks work well with inks from other lines.<\/p><p>5. After drying coat the image with a few coats of spray acrylic varnish (not needed if you use Kamenskaya alcohol varnish).<\/p><p>6. Make sure that the surface you are working on is flat so that the drawing does not move away while drying.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
+            "content": "<p>- Use covering materials and gloves when handling the ink<\/p><p>- Apply the ink on a smooth, non-absorbent surface. Shake the bottle before use<\/p><p>- Dilute the ink with blending solution or alcohol to the required consistency (saturation) when working in Ink Art technique<\/p><p>- Pour the diluted ink onto the surface and paint under the pressure of a hairdryer. Make circular motions around the drop to form nice edges<\/p><p>- Add a few drops of metallic ink to the paint to create a weightless golden spider web<\/p><p>- Finish by coating the painting with an acrylic spray varnish to increase the durability of your image.<\/p><p>The time to experiment is now! Let's create together!<\/p><p><strong>Tips:<\/strong><\/p><p>1.When working with ‘NUDE’ inks, use blending solution to fix the ink on the surface. We recommend increasing the degree of fixation of the blending solution by adding super concentrate according to the instructions for working on very slippery surfaces.<\/p><p>2.Work with inks on smooth and non-absorbent surfaces for the desired results.<\/p><p>3.After drying, spray several coats of acrylic varnish on the drawing.<\/p><p>4.’Nude’ inks are also suitable to work in the \"Petri\" technique, to create delicate, flower-like effects.<\/p><p>5.The ideal dilution ratio for the ink and blending solution is 1:6-1:7, where 1 is the ink.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -161,7 +154,7 @@
             "custom_liquid": ""
           }
         },
-        "9bb168ea-51d1-4009-a9f9-cc3612efba6b": {
+        "c8316180-2808-471c-aeae-9445c5b40eb8": {
           "type": "featured_products",
           "settings": {
             "heading": "Pairs well with",
@@ -180,10 +173,9 @@
       "block_order": [
         "product_header",
         "product_callouts_mini",
-        "ce9f3f5b-7e96-45a4-8e8f-3e147fecc6e3",
-        "9bd61dee-ffb6-447a-98ab-102450637825",
-        "text",
+        "3714957b-01ba-44b6-847d-cb9c29daf90e",
         "variant_picker",
+        "text",
         "inventory_counter",
         "quantity_selector",
         "buy_buttons",
@@ -193,19 +185,19 @@
         "accordion-1",
         "accordion-2",
         "accordion-3",
-        "9bb168ea-51d1-4009-a9f9-cc3612efba6b"
+        "c8316180-2808-471c-aeae-9445c5b40eb8"
       ],
       "settings": {
         "enable_sticky_product_details": true,
         "show_breadcrumbs": true,
         "show_navigation_buttons": true,
-        "gallery_style": "thumbnails",
+        "gallery_style": "grid",
         "gallery_style_mobile": "carousel",
-        "gallery_size": "small",
+        "gallery_size": "medium",
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
-        "image_aspect_ratio": "portrait",
+        "image_aspect_ratio": "natural",
         "enable_gift_card_recipient": true,
         "enable_animation": true
       }
@@ -498,7 +490,7 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
-    "a1a03aae-1ead-456b-a98c-364631361d38": {
+    "01d46443-cf48-43a1-bee0-bddaa4a7ac10": {
       "type": "collection-list-slider",
       "settings": {
         "heading": "Alcohol Inks Collections",
@@ -537,6 +529,6 @@
     "image-with-text-2",
     "testimonials",
     "recommendations",
-    "a1a03aae-1ead-456b-a98c-364631361d38"
+    "01d46443-cf48-43a1-bee0-bddaa4a7ac10"
   ]
 }

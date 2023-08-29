@@ -22,7 +22,7 @@
             "icon_1": "none",
             "text_1": "Ink Art",
             "icon_2": "none",
-            "text_2": "Resin Art",
+            "text_2": "Acrylic Painting",
             "icon_3": "chat",
             "text_3": "",
             "icon_4": "none",
@@ -33,26 +33,11 @@
             "text_6": ""
           }
         },
-        "ce9f3f5b-7e96-45a4-8e8f-3e147fecc6e3": {
+        "8728f0e3-0995-4d40-9d7a-2f913ff1ae2d": {
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Volume: 40 ml (1.35 fl oz)"
-          }
-        },
-        "9bd61dee-ffb6-447a-98ab-102450637825": {
-          "type": "custom_liquid",
-          "settings": {
-            "column_placement": "right",
-            "custom_liquid": "Delamination degree: high"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text_font_class": "fs-body-100",
-            "text": "<p>Delaminating inks. If you're looking for experiments and want to create something new and unusual, you should definitely try these inks! You can use them to create volume without physically creating volume. Incredible texture. Paintings create themselves!<\/p>",
-            "column_placement": "left"
+            "custom_liquid": "Volume: 520 ml (17.58 fl oz)"
           }
         },
         "variant_picker": {
@@ -66,6 +51,14 @@
             "siblings_show_product_image": true,
             "siblings_option_name": "Color",
             "chip_layout": "3col"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text_font_class": "fs-body-100",
+            "text": "<p>Perfect varnish to cover your paintings!<br\/>Does not distort the colors, does not oxidize gold!<br\/>100% protection from external influences!<\/p>",
+            "column_placement": "left"
           }
         },
         "inventory_counter": {
@@ -118,23 +111,13 @@
           "settings": {
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "title": "Video Review",
-            "text_font_class": "fs-body-100",
-            "column_placement": "left",
-            "display_as_collapsible_row": true,
-            "expand_by_default": true
-          }
-        },
         "accordion-1": {
           "type": "accordion",
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Description",
-            "content": "<ul><li>Create Something New And Unique with 23 different shades of KAMENSKAYA delaminating alcohol inks which you could use to create volume without physically creating volume. Technically inks split into hundreds of small particles and form fantastic patterns!<\/li><li>The Shades Are Lightfast and not affected by direct sunlight. In addition to painting in ink art tecnhique you could use these alcohol inks for epoxy resin.<\/li><li>Get New Effects In Your Art by combining delaminating inks with other lines of KAMENSKAYA alcohol inks.<\/li><li>Follow The Instructions on how to achieve and enhance delamination effect.<\/li><\/ul>",
+            "content": "<p>DECORIX high quality acrylic lacquer is designed to create a protective and decorative coating for household use, decorative and design works. It is used for varnishing furniture, doors, garden furniture, baguette, decorating rooms and other types of creative and household works. Ideal for covering paintings in INK ART style.<br\/>The lacquer provides resistance to mechanical impact and abrasion, having an optimal ratio of hardness and elasticity. The resulting coating is resistant to water and household chemicals. When applied as a finishing layer on products with the use of gilding, it does not oxidize metal, preserving its natural appearance. Aerosol varnish is convenient for varnishing small and hard-to-reach surfaces.<br\/>For ink, it is recommended to apply 2-3 layers of varnish.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -145,7 +128,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Recommendations",
-            "content": "<p><strong>Method 1 <\/strong>(to achieve self-splitting effect)<strong>:<\/strong> <\/p><p>Dilute the ink with thinner in a cup, pour onto the surface and wait until completely dry. No need to use a dryer.<br\/><br\/><strong>Method 2 <\/strong>(to achieve standard alcohol inks look without self-splitting effect)<strong>:<\/strong> <\/p><p>Pour ink on the surface and dry it with a dryer as you would do with a normal alcohol ink.<br\/><br\/>To enhance original delamination effect (which could be high, medium or low, as shown on a bar at the product sticker) you will need to add water to alcohol (70% should be alcohol and 30% - water).<br\/><br\/>Add Kamenskaya alcohol varnish to alcohol to provide extra protection for your painting.<\/p><p><strong>Tips:<\/strong><\/p><p>1. The more you dilute the inks, the less grit is formed. Correspondingly, the less, the tighter the grain.<\/p><p>2. Inks with different degrees of separation do not mix together to create a third colour, they dry in two colours. This looks stunning, it’s worth trying it!<\/p><p>3. Inks of the same degree of layering work well together.<\/p><p>4. The inks work well with inks from other lines.<\/p><p>5. After drying coat the image with a few coats of spray acrylic varnish (not needed if you use Kamenskaya alcohol varnish).<\/p><p>6. Make sure that the surface you are working on is flat so that the drawing does not move away while drying.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
+            "content": "<p>1. Always varnish paintings in an upright position (standing) at arm's length.<br\/>2. To obtain a quality coating, apply up to 3 coats of varnish.<br\/>3. For works using metallic ink, it is recommended to use a glossy varnish.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -156,12 +139,12 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/>Avoid sudden temperature changes and open sunlight.<\/p>",
+            "content": "<p>60 months before opening, 6 months after opening the bottle.<br\/><\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
-        "9bb168ea-51d1-4009-a9f9-cc3612efba6b": {
+        "7b11e91a-731b-4cab-9728-241dc06921e4": {
           "type": "featured_products",
           "settings": {
             "heading": "Pairs well with",
@@ -180,20 +163,18 @@
       "block_order": [
         "product_header",
         "product_callouts_mini",
-        "ce9f3f5b-7e96-45a4-8e8f-3e147fecc6e3",
-        "9bd61dee-ffb6-447a-98ab-102450637825",
-        "text",
+        "8728f0e3-0995-4d40-9d7a-2f913ff1ae2d",
         "variant_picker",
+        "text",
         "inventory_counter",
         "quantity_selector",
         "buy_buttons",
         "product_callouts-2",
         "share",
-        "description",
         "accordion-1",
         "accordion-2",
         "accordion-3",
-        "9bb168ea-51d1-4009-a9f9-cc3612efba6b"
+        "7b11e91a-731b-4cab-9728-241dc06921e4"
       ],
       "settings": {
         "enable_sticky_product_details": true,
@@ -205,7 +186,7 @@
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
-        "image_aspect_ratio": "portrait",
+        "image_aspect_ratio": "natural",
         "enable_gift_card_recipient": true,
         "enable_animation": true
       }
@@ -498,7 +479,7 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
-    "a1a03aae-1ead-456b-a98c-364631361d38": {
+    "022844c1-6170-4926-8c52-96d7b2c1e66b": {
       "type": "collection-list-slider",
       "settings": {
         "heading": "Alcohol Inks Collections",
@@ -513,7 +494,6 @@
           "metallic-inks",
           "nacre-chameleons",
           "delaminating-inks",
-          "inks-for-petri-art",
           "sets",
           "bleinding-solutions",
           "materials-for-ink-art"
@@ -537,6 +517,6 @@
     "image-with-text-2",
     "testimonials",
     "recommendations",
-    "a1a03aae-1ead-456b-a98c-364631361d38"
+    "022844c1-6170-4926-8c52-96d7b2c1e66b"
   ]
 }

@@ -6,16 +6,24 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
+            "variant_popup_option": "Size",
+            "variant_popup_icon": "none",
+            "variant_popup_text": "Size guide",
+            "variant_popup_page": "",
+            "swatch_size": "medium",
+            "chip_layout": "3col"
           }
         },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
+            "show_labels": true
           }
         },
         "description": {
           "type": "description",
           "settings": {
+            "text_font_class": "fs-body-100"
           }
         }
       },
@@ -25,6 +33,16 @@
         "description"
       ],
       "settings": {
+        "image_aspect_ratio": "natural",
+        "show_divider": true,
+        "show_vendor": false,
+        "show_sku": false,
+        "show_discount": true,
+        "discount_format": "percent_off",
+        "show_product_rating": false,
+        "show_sale_badge": true,
+        "show_custom_badges": true,
+        "enable_gift_card_recipient": true
       }
     }
   },

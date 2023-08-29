@@ -11,7 +11,6 @@
     },
     "image-hero": {
       "type": "image-hero",
-      "disabled": true,
       "blocks": {
         "block-0": {
           "type": "heading",
@@ -32,6 +31,7 @@
         "block-0",
         "block-1"
       ],
+      "disabled": true,
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 55,
@@ -78,7 +78,7 @@
             "icon_width": 100,
             "icon_width_mobile": 100,
             "accent": "ALKOHOLINK.PL",
-            "heading": "POLAND",
+            "heading": "Poland",
             "heading_font_class": "fs-heading-4-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -95,7 +95,7 @@
             "icon_width": 100,
             "icon_width_mobile": 100,
             "accent": "FLASH ART",
-            "heading": "BALTICS",
+            "heading": "Baltics",
             "heading_font_class": "fs-heading-4-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -112,7 +112,7 @@
             "icon_width": 100,
             "icon_width_mobile": 100,
             "accent": "PEPPERMINT",
-            "heading": "JAPAN",
+            "heading": "Japan",
             "heading_font_class": "fs-heading-4-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -129,7 +129,7 @@
             "icon_width": 100,
             "icon_width_mobile": 102,
             "accent": "MIL.THESHOP",
-            "heading": "JAPAN",
+            "heading": "Japan",
             "heading_font_class": "fs-heading-4-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -146,7 +146,7 @@
             "icon_width": 100,
             "icon_width_mobile": 100,
             "accent": "INSPIRATION CORNERS",
-            "heading": "HONG KONG",
+            "heading": "Hong Kong",
             "heading_font_class": "fs-heading-4-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -163,7 +163,7 @@
             "icon_width": 100,
             "icon_width_mobile": 100,
             "accent": "STUDIO H ART",
-            "heading": "SOUTH KOREA",
+            "heading": "South Korea",
             "heading_font_class": "fs-heading-4-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -180,7 +180,7 @@
             "icon_width": 100,
             "icon_width_mobile": 100,
             "accent": "RESIN 4 ART",
-            "heading": "NEW ZEALAND",
+            "heading": "New Zealand",
             "heading_font_class": "fs-heading-4-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -197,7 +197,7 @@
             "icon_width": 100,
             "icon_width_mobile": 100,
             "accent": "LIQUID FANTASY",
-            "heading": "SOUTH AFRICA",
+            "heading": "South Africa",
             "heading_font_class": "fs-heading-4-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -214,7 +214,7 @@
             "icon_width": 100,
             "icon_width_mobile": 100,
             "accent": "HOBBY PARK",
-            "heading": "KYRGYZSTAN, KAZAKHSTAN",
+            "heading": "Kyrgyzstan, Kazakhstan",
             "heading_font_class": "fs-heading-4-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -243,13 +243,13 @@
         "subheading_link": "",
         "subheading_link_text": "Your link here",
         "heading_font_class": "fs-heading-3-base",
-        "heading_alignment": "left",
+        "heading_alignment": "center",
         "content_vertical_alignment": "top",
         "content_background_padding": "small",
         "columns": "3",
         "column_spacing": 24,
         "row_spacing": 48,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "columns_mobile": "2",
         "column_spacing_mobile": 12,
         "row_spacing_mobile": 48,
@@ -266,7 +266,6 @@
     },
     "multi-column-2": {
       "type": "multi-column",
-      "disabled": true,
       "blocks": {
         "block-0": {
           "type": "image_column",
@@ -334,6 +333,7 @@
         "block-1",
         "block-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "Retail stores",
         "subheading": "",
@@ -363,7 +363,6 @@
     },
     "multi-column-3": {
       "type": "multi-column",
-      "disabled": true,
       "blocks": {
         "block-0": {
           "type": "image_column",
@@ -426,6 +425,7 @@
         "block-1",
         "block-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Main store",
         "subheading": "",
@@ -460,7 +460,7 @@
           "type": "text",
           "settings": {
             "title": "Company name",
-            "required": false,
+            "required": true,
             "width": "full"
           }
         },
@@ -468,7 +468,7 @@
           "type": "text",
           "settings": {
             "title": "Web-site and social media page",
-            "required": false,
+            "required": true,
             "width": "full"
           }
         },
@@ -476,7 +476,7 @@
           "type": "text",
           "settings": {
             "title": "Your name",
-            "required": false,
+            "required": true,
             "width": "full"
           }
         },
@@ -501,7 +501,7 @@
           "settings": {
             "title": "Your enquiry",
             "placeholder": "",
-            "required": false,
+            "required": true,
             "height": 120,
             "width": "full"
           }
@@ -525,15 +525,15 @@
         "6fa334f4-5c30-4b19-8344-5770acf77a1f"
       ],
       "settings": {
-        "alignment": "left_left",
+        "alignment": "center_center",
         "heading": "FOR WHOLESALERS",
         "heading_font_class": "fs-heading-3-base",
-        "text": "<p><strong>SPECIAL CONDITIONS FOR DISTRIBUTORS AND DEALERS WORLDWIDE<\/strong><\/p><p>Any questions \/ suggestions for collaboration?<br\/>Contact us by filling out the form.<\/p><p>Or send us an <em>email:partnership@kamenskaya.store<\/em><\/p>",
+        "text": "<p><strong>SPECIAL CONDITIONS FOR DISTRIBUTORS AND DEALERS WORLDWIDE<\/strong><\/p><p>Any questions \/ suggestions for collaboration?<br\/>Contact us by filling out the form.<\/p><p><em>Or send us an email: partnership@kamenskaya.store<\/em><\/p>",
         "show_recaptcha_terms": true,
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom",
-        "content_width": "full",
+        "content_width": "custom",
         "custom_content_width": 700
       }
     }

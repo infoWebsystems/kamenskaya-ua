@@ -18,13 +18,12 @@
         },
         "product_callouts_mini": {
           "type": "product_callouts_mini",
-          "disabled": true,
           "settings": {
-            "icon_1": "moving-truck",
-            "text_1": "Fast Shipping",
-            "icon_2": "padlock",
-            "text_2": "Secure payment",
-            "icon_3": "chat",
+            "icon_1": "none",
+            "text_1": "Ink Art",
+            "icon_2": "none",
+            "text_2": "Resin Art",
+            "icon_3": "none",
             "text_3": "",
             "icon_4": "none",
             "text_4": "",
@@ -32,6 +31,21 @@
             "text_5": "",
             "icon_6": "none",
             "text_6": ""
+          }
+        },
+        "8a9abcdb-4998-4426-a4e9-c85e814a4305": {
+          "type": "custom_liquid",
+          "settings": {
+            "column_placement": "right",
+            "custom_liquid": "Volume: 15 ml (0.51 fl oz)"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text_font_class": "fs-body-100",
+            "text": "<p>‘Nude’ line inks<strong> <\/strong>are delicate pastel shades. Look striking on dark surfaces. Dense or light, it's up to you!<\/p>",
+            "column_placement": "left"
           }
         },
         "variant_picker": {
@@ -113,7 +127,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Description",
-            "content": "<ul><li>Pastel Shades Line is a light color palette of 16 alcohol inks with velvety finish, based on dye and pigment, for ink art and epoxy resin. The pigment provides a dense and opaque layer, while the dye is responsible for the color.<\/li><li>High Lightfastness: our inks have lightfastness level of 7-10 which means the colors stay bright for a long time.<\/li><li>Economy In Use: one bottle of ink is sufficient for a minimum of 2 paintings of 100:70 cm (39.37:27.56 in) format, which is a sign of high economy in use.<\/li><li>Mix Colors Easily With Each Other and dilute to the desired concentration with KAMENSKAYA special alcohol blending solution.<\/li><\/ul>",
+            "content": "<ul><li>Pastel Shades Line - light color palette of 16 alcohol inks with velvety finish, based on dye and pigment, for ink art and epoxy resin. The pigment provides a dense and opaque layer, while the dye is responsible for the color.<\/li><li>High Lightfastness: our inks have lightfastness level of 7-10 which means the colors stay bright for a long time.<\/li><li>Economy In Use: one bottle of ink is sufficient for a minimum of 2 paintings of 100:70 cm (39.37:27.56 in) format, which is a sign of high economy in use.<\/li><li>Mix Colors Easily With Each Other, and dilute to the desired concentration with KAMENSKAYA special alcohol blending solution.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -140,18 +154,27 @@
             "custom_liquid": ""
           }
         },
-        "text": {
-          "type": "text",
+        "8a28be81-42d6-4cfb-9ed0-1bba22e6b3d6": {
+          "type": "featured_products",
           "settings": {
-            "text_font_class": "fs-body-100",
-            "text": "<p>‘Nude’ line inks<strong> <\/strong>are delicate pastel shades. Look striking on dark surfaces. Dense or light, it's up to you!<\/p>",
-            "column_placement": "left"
+            "heading": "Pairs well with",
+            "column_placement": "left",
+            "max_products": 10,
+            "product_source": "app-recommendations",
+            "product_list": [
+
+            ],
+            "enable_swiper_mobile": true,
+            "display_as_collapsible_row": true,
+            "expand_by_default": false
           }
         }
       },
       "block_order": [
         "product_header",
         "product_callouts_mini",
+        "8a9abcdb-4998-4426-a4e9-c85e814a4305",
+        "text",
         "variant_picker",
         "inventory_counter",
         "quantity_selector",
@@ -162,15 +185,15 @@
         "accordion-1",
         "accordion-2",
         "accordion-3",
-        "text"
+        "8a28be81-42d6-4cfb-9ed0-1bba22e6b3d6"
       ],
       "settings": {
         "enable_sticky_product_details": true,
-        "show_breadcrumbs": false,
-        "show_navigation_buttons": false,
-        "gallery_style": "grid",
+        "show_breadcrumbs": true,
+        "show_navigation_buttons": true,
+        "gallery_style": "thumbnails",
         "gallery_style_mobile": "carousel",
-        "gallery_size": "large",
+        "gallery_size": "small",
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
@@ -454,6 +477,55 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
+    "baeb688a-7aa3-4334-bb1f-cda69a5d8a4e": {
+      "type": "video",
+      "blocks": {
+        "template--20429241319707__baeb688a-7aa3-4334-bb1f-cda69a5d8a4e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Video",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "template--20429241319707__baeb688a-7aa3-4334-bb1f-cda69a5d8a4e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this section to promote a particular feature with editorial video.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "template--20429241319707__baeb688a-7aa3-4334-bb1f-cda69a5d8a4e-play-button-1": {
+          "type": "play-button",
+          "settings": {
+            "text": "Watch now",
+            "button_layout": "full",
+            "icon_style": "outline"
+          }
+        }
+      },
+      "block_order": [
+        "template--20429241319707__baeb688a-7aa3-4334-bb1f-cda69a5d8a4e-heading-1",
+        "template--20429241319707__baeb688a-7aa3-4334-bb1f-cda69a5d8a4e-text-1",
+        "template--20429241319707__baeb688a-7aa3-4334-bb1f-cda69a5d8a4e-play-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "video_source": "external",
+        "video_url": "https:\/\/youtu.be\/xgD3Rs5Qhzw",
+        "loop": false,
+        "media_aspect_ratio": "landscape_wide_alt",
+        "focal_point": "image_presentation",
+        "text_position": "center_center",
+        "text_position_mobile": "center",
+        "button_background_color": "#ffffff",
+        "color_overlay": "#000000",
+        "color_overlay_text": "#ffffff",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 40,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
     "recommendations": {
       "type": "recommended-products",
       "settings": {
@@ -462,6 +534,66 @@
         "maximum_products": 8,
         "columns": "4",
         "mobile_columns": "2",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "029b1534-3c6f-4f37-8817-d801e207a223": {
+      "type": "collection-list-grid",
+      "disabled": true,
+      "settings": {
+        "heading": "Other Alcohol Ink Collections",
+        "subheading": "",
+        "link": "shopify:\/\/collections\/alcohol-inks",
+        "link_text": "View all alcohol inks",
+        "columns": "4",
+        "mobile_columns": "2",
+        "collection_list": [
+          "core-a-line",
+          "metallic-inks",
+          "nacre-chameleons",
+          "delaminating-inks",
+          "inks-for-petri-art",
+          "sets",
+          "bleinding-solutions",
+          "materials-for-ink-art"
+        ],
+        "collection_listing_aspect_ratio": "square",
+        "label_style": "overlay",
+        "overlay_title_background_style": "gradient",
+        "overlay_text_color": "#ffffff",
+        "overlay_title_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "7d8a48b6-ae3c-4d12-97fe-3622a9749084": {
+      "type": "collection-list-slider",
+      "settings": {
+        "heading": "Alcohol Inks Collections",
+        "subheading": "",
+        "link": "shopify:\/\/collections\/alcohol-inks",
+        "link_text": "View all alcohol inks",
+        "columns": "4",
+        "mobile_columns": "2",
+        "collection_list": [
+          "core-a-line",
+          "nude-inks",
+          "metallic-inks",
+          "nacre-chameleons",
+          "delaminating-inks",
+          "inks-for-petri-art",
+          "sets",
+          "bleinding-solutions",
+          "materials-for-ink-art"
+        ],
+        "collection_listing_aspect_ratio": "square",
+        "label_style": "overlay",
+        "overlay_title_background_style": "gradient",
+        "overlay_text_color": "#ffffff",
+        "overlay_title_background": "#000000",
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
@@ -475,6 +607,9 @@
     "image-with-text-1",
     "image-with-text-2",
     "testimonials",
-    "recommendations"
+    "baeb688a-7aa3-4334-bb1f-cda69a5d8a4e",
+    "recommendations",
+    "029b1534-3c6f-4f37-8817-d801e207a223",
+    "7d8a48b6-ae3c-4d12-97fe-3622a9749084"
   ]
 }

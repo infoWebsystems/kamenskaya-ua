@@ -44,7 +44,7 @@
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Delamination degree: high"
+            "custom_liquid": "Delamination degree: low"
           }
         },
         "text": {

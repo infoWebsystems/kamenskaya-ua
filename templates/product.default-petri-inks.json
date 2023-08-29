@@ -18,12 +18,11 @@
         },
         "product_callouts_mini": {
           "type": "product_callouts_mini",
-          "disabled": true,
           "settings": {
-            "icon_1": "moving-truck",
-            "text_1": "Fast Shipping",
-            "icon_2": "padlock",
-            "text_2": "Secure payment",
+            "icon_1": "none",
+            "text_1": "Resin Art",
+            "icon_2": "none",
+            "text_2": "",
             "icon_3": "chat",
             "text_3": "",
             "icon_4": "none",
@@ -32,6 +31,21 @@
             "text_5": "",
             "icon_6": "none",
             "text_6": ""
+          }
+        },
+        "844f61c2-5eb2-4718-9c69-fc9b01806922": {
+          "type": "custom_liquid",
+          "settings": {
+            "column_placement": "right",
+            "custom_liquid": "Volume: 15 ml (0.51 fl oz)"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text_font_class": "fs-body-100",
+            "text": "<p>Petri inks - Special inks for petri effects in the resin layer. A wide range of colors from bright to whitened colors, as well as shades of gold and silver, to create incredible effects in your products.<\/p>",
+            "column_placement": "left"
           }
         },
         "variant_picker": {
@@ -113,7 +127,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Description",
-            "content": "<ul><li>Made For Resin - we have developed special pigmeneted inks for resin art based on alcohol and polymer. 15 different shades 15 ml (0.51 fl oz) each to get the effect of different colored fireworks in the resin<\/li><li>No Need To Buy The Whole Set For a Few Colors - just buy the colors that you really need. And if you don't know what to choose - check out our special alcohol ink set of 13 mini petri inks<\/li><li>High Lightfastness - after 1 year test under direct sunlight the colors stay bright<\/li><\/ul><p><\/p>",
+            "content": "<ul><li>Made For Resin - we have developed special pigmeneted inks for resin art based on alcohol and polymer. <\/li><li>15 different shades 15 ml (0.51 fl oz) each to get the effect of different colored fireworks in the resin, and if you don't know what to choose - check out our special alcohol ink set of 13 mini petri inks<\/li><li>High Lightfastness - after 1 year test under direct sunlight the colors stay bright<\/li><\/ul><p><\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -140,18 +154,28 @@
             "custom_liquid": ""
           }
         },
-        "text": {
-          "type": "text",
+        "fba29a94-6157-492e-8c8d-915759819e9d": {
+          "type": "featured_products",
+          "disabled": true,
           "settings": {
-            "text_font_class": "fs-body-100",
-            "text": "<p>Petri inks - Special inks for petri effects in the resin layer. A wide range of colours from bright to whitened colours, as well as shades of gold and silver, to create incredible effects in your products.<\/p>",
-            "column_placement": "left"
+            "heading": "Pairs well with",
+            "column_placement": "left",
+            "max_products": 10,
+            "product_source": "app-recommendations",
+            "product_list": [
+
+            ],
+            "enable_swiper_mobile": true,
+            "display_as_collapsible_row": true,
+            "expand_by_default": false
           }
         }
       },
       "block_order": [
         "product_header",
         "product_callouts_mini",
+        "844f61c2-5eb2-4718-9c69-fc9b01806922",
+        "text",
         "variant_picker",
         "inventory_counter",
         "quantity_selector",
@@ -162,15 +186,15 @@
         "accordion-1",
         "accordion-2",
         "accordion-3",
-        "text"
+        "fba29a94-6157-492e-8c8d-915759819e9d"
       ],
       "settings": {
         "enable_sticky_product_details": true,
-        "show_breadcrumbs": false,
-        "show_navigation_buttons": false,
-        "gallery_style": "grid",
+        "show_breadcrumbs": true,
+        "show_navigation_buttons": true,
+        "gallery_style": "thumbnails",
         "gallery_style_mobile": "carousel",
-        "gallery_size": "large",
+        "gallery_size": "small",
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
@@ -466,6 +490,36 @@
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
       }
+    },
+    "81bc98f9-ef18-48c1-aee3-f2dd12d256ea": {
+      "type": "collection-list-slider",
+      "settings": {
+        "heading": "Alcohol Inks Collections",
+        "subheading": "",
+        "link": "shopify:\/\/collections\/alcohol-inks",
+        "link_text": "View all alcohol inks",
+        "columns": "4",
+        "mobile_columns": "2",
+        "collection_list": [
+          "core-a-line",
+          "nude-inks",
+          "metallic-inks",
+          "nacre-chameleons",
+          "delaminating-inks",
+          "inks-for-petri-art",
+          "sets",
+          "bleinding-solutions",
+          "materials-for-ink-art"
+        ],
+        "collection_listing_aspect_ratio": "square",
+        "label_style": "overlay",
+        "overlay_title_background_style": "gradient",
+        "overlay_text_color": "#ffffff",
+        "overlay_title_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
     }
   },
   "order": [
@@ -475,6 +529,7 @@
     "image-with-text-1",
     "image-with-text-2",
     "testimonials",
-    "recommendations"
+    "recommendations",
+    "81bc98f9-ef18-48c1-aee3-f2dd12d256ea"
   ]
 }
