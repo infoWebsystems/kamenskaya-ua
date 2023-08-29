@@ -18,12 +18,11 @@
         },
         "product_callouts_mini": {
           "type": "product_callouts_mini",
-          "disabled": true,
           "settings": {
-            "icon_1": "moving-truck",
-            "text_1": "Fast Shipping",
-            "icon_2": "padlock",
-            "text_2": "Secure payment",
+            "icon_1": "none",
+            "text_1": "Ink art",
+            "icon_2": "none",
+            "text_2": "Resin Art",
             "icon_3": "chat",
             "text_3": "",
             "icon_4": "none",
@@ -32,6 +31,21 @@
             "text_5": "",
             "icon_6": "none",
             "text_6": ""
+          }
+        },
+        "47fd73e9-ad63-4a21-952f-ad5d87d5943f": {
+          "type": "custom_liquid",
+          "settings": {
+            "column_placement": "right",
+            "custom_liquid": "Volume: 15 ml (0.51 fl oz)"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text_font_class": "fs-body-100",
+            "text": "<p>Nacres-chameleons inks.<strong> <\/strong>At first glance it looks mother-of-pearl, but when exposed to the sun, it's a radiant, bright shade that plays magically in the light. It looks perfect on dark surfaces and blends perfectly with the other ink ranges, adding radiance and luminosity to the shades. <\/p>",
+            "column_placement": "left"
           }
         },
         "variant_picker": {
@@ -113,7 +127,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Description",
-            "content": "<ul><li>Interferent Pearlescent Pigment Based Alcohol Inks<br\/>have the same pearlescent color in liquid form and completely<br\/>different shades when the light breaks after drying. Great for<br\/>alcohol ink art, can be also used as alcohol ink for epoxy resin.<\/li><li>Add The Shining Bright Shade to your ink art work with any of the 6 colors available in the line and it will magically play in the light. The colors how up best on darker surfaces.<\/li><li>Mix Well With Each Other and other KAMENSKAYA alcohol ink lines.<\/li><\/ul>",
+            "content": "<ul><li>Interferent Pearlescent Pigment Based Alcohol Inks -<br\/>have the same pearlescent color in liquid form and completely<br\/>different shades when the light breaks after drying. Great for<br\/>alcohol ink art, can be also used as alcohol ink for epoxy resin.<\/li><li>Add The Shining Bright Shade to your ink art work with any of the 6 colors available in the line and it will magically play in the light. The colors how up best on darker surfaces.<\/li><li>Mix Well With Each Other and other KAMENSKAYA alcohol ink lines.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -140,18 +154,27 @@
             "custom_liquid": ""
           }
         },
-        "text": {
-          "type": "text",
+        "c4e648e3-d039-4fee-ba4a-1e85254f064c": {
+          "type": "featured_products",
           "settings": {
-            "text_font_class": "fs-body-100",
-            "text": "<p>Nacres-chameleons inks.<strong> <\/strong>At first glance it looks mother-of-pearl, but when exposed to the sun, it's a radiant, bright shade that plays magically in the light. It looks perfect on dark surfaces and blends perfectly with the other ink ranges, adding radiance and luminosity to the shades. <\/p>",
-            "column_placement": "left"
+            "heading": "Pairs well with",
+            "column_placement": "left",
+            "max_products": 10,
+            "product_source": "app-recommendations",
+            "product_list": [
+
+            ],
+            "enable_swiper_mobile": true,
+            "display_as_collapsible_row": true,
+            "expand_by_default": false
           }
         }
       },
       "block_order": [
         "product_header",
         "product_callouts_mini",
+        "47fd73e9-ad63-4a21-952f-ad5d87d5943f",
+        "text",
         "variant_picker",
         "inventory_counter",
         "quantity_selector",
@@ -162,15 +185,15 @@
         "accordion-1",
         "accordion-2",
         "accordion-3",
-        "text"
+        "c4e648e3-d039-4fee-ba4a-1e85254f064c"
       ],
       "settings": {
         "enable_sticky_product_details": true,
-        "show_breadcrumbs": false,
-        "show_navigation_buttons": false,
-        "gallery_style": "grid",
+        "show_breadcrumbs": true,
+        "show_navigation_buttons": true,
+        "gallery_style": "thumbnails",
         "gallery_style_mobile": "carousel",
-        "gallery_size": "large",
+        "gallery_size": "small",
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
@@ -466,6 +489,36 @@
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
       }
+    },
+    "b39d8d53-fbbb-4569-89cc-93a975c56fcf": {
+      "type": "collection-list-slider",
+      "settings": {
+        "heading": "Alcohol Inks Collections",
+        "subheading": "",
+        "link": "shopify:\/\/collections\/alcohol-inks",
+        "link_text": "View all alcohol inks",
+        "columns": "4",
+        "mobile_columns": "2",
+        "collection_list": [
+          "core-a-line",
+          "nude-inks",
+          "metallic-inks",
+          "nacre-chameleons",
+          "delaminating-inks",
+          "inks-for-petri-art",
+          "sets",
+          "bleinding-solutions",
+          "materials-for-ink-art"
+        ],
+        "collection_listing_aspect_ratio": "square",
+        "label_style": "overlay",
+        "overlay_title_background_style": "gradient",
+        "overlay_text_color": "#ffffff",
+        "overlay_title_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
     }
   },
   "order": [
@@ -475,6 +528,7 @@
     "image-with-text-1",
     "image-with-text-2",
     "testimonials",
-    "recommendations"
+    "recommendations",
+    "b39d8d53-fbbb-4569-89cc-93a975c56fcf"
   ]
 }

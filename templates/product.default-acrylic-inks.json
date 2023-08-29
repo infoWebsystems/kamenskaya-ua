@@ -18,14 +18,13 @@
         },
         "product_callouts_mini": {
           "type": "product_callouts_mini",
-          "disabled": true,
           "settings": {
-            "icon_1": "moving-truck",
-            "text_1": "Fast Shipping",
-            "icon_2": "padlock",
-            "text_2": "Secure payment",
-            "icon_3": "chat",
-            "text_3": "",
+            "icon_1": "none",
+            "text_1": "Acrylic painting",
+            "icon_2": "none",
+            "text_2": "Fluid Art",
+            "icon_3": "none",
+            "text_3": "Drawing",
             "icon_4": "none",
             "text_4": "",
             "icon_5": "none",
@@ -45,6 +44,14 @@
             "siblings_show_product_image": true,
             "siblings_option_name": "Color",
             "chip_layout": "3col"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text_font_class": "fs-body-100",
+            "text": "<p>Super-concentrated multi functional acrylic inks<\/p>",
+            "column_placement": "left"
           }
         },
         "inventory_counter": {
@@ -123,8 +130,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Recommendations",
-            "content": "<p><strong>Application:<\/strong><\/p><p>1. Painting<br\/>2. Graphics and calligraphy<br\/>3. Painting on canvas<br\/>4. Painting on clothes<br\/>5. Airbrushing<br\/>6. Сoloring pastes and primers<br\/>7. Painting walls<br\/>8. Painting furniture<\/p><p><strong>Shake before using!<\/strong><\/p>",
+            "heading": "Application",
+            "content": "<p>1. Painting<br\/>2. Graphics and calligraphy<br\/>3. Painting on canvas<br\/>4. Painting on clothes<br\/>5. Airbrushing<br\/>6. Сoloring pastes and primers<br\/>7. Painting walls<br\/>8. Painting furniture<\/p><p><strong>Shake before using!<\/strong><\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -140,12 +147,19 @@
             "custom_liquid": ""
           }
         },
-        "text": {
-          "type": "text",
+        "8a60a990-c10d-47df-b3e7-b0aa29b11e1e": {
+          "type": "featured_products",
           "settings": {
-            "text_font_class": "fs-body-100",
-            "text": "<p>Super-concentrated acrylic inks for painting<\/p>",
-            "column_placement": "left"
+            "heading": "Pairs well with",
+            "column_placement": "left",
+            "max_products": 10,
+            "product_source": "app-recommendations",
+            "product_list": [
+
+            ],
+            "enable_swiper_mobile": true,
+            "display_as_collapsible_row": true,
+            "expand_by_default": false
           }
         }
       },
@@ -153,6 +167,7 @@
         "product_header",
         "product_callouts_mini",
         "variant_picker",
+        "text",
         "inventory_counter",
         "quantity_selector",
         "buy_buttons",
@@ -162,19 +177,19 @@
         "accordion-1",
         "accordion-2",
         "accordion-3",
-        "text"
+        "8a60a990-c10d-47df-b3e7-b0aa29b11e1e"
       ],
       "settings": {
         "enable_sticky_product_details": true,
-        "show_breadcrumbs": false,
-        "show_navigation_buttons": false,
-        "gallery_style": "grid",
+        "show_breadcrumbs": true,
+        "show_navigation_buttons": true,
+        "gallery_style": "thumbnails",
         "gallery_style_mobile": "carousel",
-        "gallery_size": "large",
+        "gallery_size": "medium",
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
-        "image_aspect_ratio": "portrait",
+        "image_aspect_ratio": "square",
         "enable_gift_card_recipient": true,
         "enable_animation": true
       }
@@ -466,6 +481,30 @@
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
       }
+    },
+    "3c4dbe23-4a53-4e8d-bfd1-c69209dd6a5b": {
+      "type": "collection-list-slider",
+      "settings": {
+        "heading": "Acrylic collections",
+        "subheading": "",
+        "link": "shopify:\/\/collections\/acrylic",
+        "link_text": "View all acrylic products",
+        "columns": "3",
+        "mobile_columns": "2",
+        "collection_list": [
+          "acrylic-inks",
+          "mediums",
+          "texture"
+        ],
+        "collection_listing_aspect_ratio": "square",
+        "label_style": "overlay",
+        "overlay_title_background_style": "gradient",
+        "overlay_text_color": "#ffffff",
+        "overlay_title_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
     }
   },
   "order": [
@@ -475,6 +514,7 @@
     "image-with-text-1",
     "image-with-text-2",
     "testimonials",
-    "recommendations"
+    "recommendations",
+    "3c4dbe23-4a53-4e8d-bfd1-c69209dd6a5b"
   ]
 }

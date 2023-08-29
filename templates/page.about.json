@@ -139,6 +139,7 @@
         "54efb0fa-dd9c-4a9e-8e1a-d1fb1b8f1615",
         "20da30c9-b7c0-4749-8462-6c5698896666"
       ],
+      "disabled": true,
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 100,
@@ -151,6 +152,94 @@
         "navigation_background_opacity": 100,
         "enable_animation": true,
         "section_padding": "none"
+      }
+    },
+    "72b4b668-f82a-4aab-b2a0-5aedf317a487": {
+      "type": "video",
+      "blocks": {
+        "template--20056857313563__72b4b668-f82a-4aab-b2a0-5aedf317a487-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "template--20056857313563__72b4b668-f82a-4aab-b2a0-5aedf317a487-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "template--20056857313563__72b4b668-f82a-4aab-b2a0-5aedf317a487-play-button-1": {
+          "type": "play-button",
+          "settings": {
+            "text": "",
+            "button_layout": "minimal",
+            "icon_style": "outline"
+          }
+        },
+        "cf46b6c9-ffc4-4526-ba3a-7c7c988802f8": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        }
+      },
+      "block_order": [
+        "template--20056857313563__72b4b668-f82a-4aab-b2a0-5aedf317a487-heading-1",
+        "template--20056857313563__72b4b668-f82a-4aab-b2a0-5aedf317a487-text-1",
+        "template--20056857313563__72b4b668-f82a-4aab-b2a0-5aedf317a487-play-button-1",
+        "cf46b6c9-ffc4-4526-ba3a-7c7c988802f8"
+      ],
+      "settings": {
+        "video_source": "external",
+        "video_url": "https:\/\/youtu.be\/myE4gU8y0Xc?si=b8u1lx73EgAc3-LG",
+        "image": "shopify:\/\/shop_images\/Frame_2.png",
+        "loop": true,
+        "media_aspect_ratio": "landscape_ultrawide_alt",
+        "focal_point": "image_presentation",
+        "text_position": "center_center",
+        "text_position_mobile": "center",
+        "button_background_color": "#FFF",
+        "color_overlay": "#000",
+        "color_overlay_text": "#FFF",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 40,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "de1ef3b8-546c-4153-993c-c3985595db3f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20056857313563__de1ef3b8-546c-4153-993c-c3985595db3f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "UNLOCK YOUR CREATIVE POTENTIAL WITH KAMENSKAYA",
+            "heading_font_class": "fs-heading-3-base"
+          }
+        },
+        "template--20056857313563__de1ef3b8-546c-4153-993c-c3985595db3f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>KAMENSKAYA is a brand created by an artist for artists. We know exactly what beginners and professionals need<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "template--20056857313563__de1ef3b8-546c-4153-993c-c3985595db3f-heading-1",
+        "template--20056857313563__de1ef3b8-546c-4153-993c-c3985595db3f-text-1"
+      ],
+      "settings": {
+        "alignment": "center_center",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "full",
+        "custom_content_width": 700
       }
     },
     "image-with-text-1": {
@@ -174,7 +263,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Kamenskaya Ink is a brand created by an artist for artists. We know exactly what beginners and professionals need<\/p>",
+            "text": "<p>KAMENSKAYA is a brand created by an artist for artists. We know exactly what beginners and professionals need<\/p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -184,11 +273,12 @@
         "efe61383-34f9-47e2-9ed5-870bf5b67ba7",
         "block-1"
       ],
+      "disabled": true,
       "settings": {
-        "image_position": "right",
+        "image_position": "left",
         "text_alignment": "left",
-        "image": "shopify:\/\/shop_images\/1_s.webp",
-        "aspect_ratio": "square",
+        "image": "shopify:\/\/shop_images\/B0591ED1-6B36-4F4E-AC8A-9CE42E66F7EA.jpg",
+        "aspect_ratio": "landscape",
         "focal_point": "image_presentation",
         "image_caption": "",
         "show_small_image": false,
@@ -209,7 +299,7 @@
         "block-0": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_cl.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_1956_00d8c1d8-a7e9-4ce7-9799-8701cc834558.jpg",
             "image_width": 100,
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
@@ -220,7 +310,7 @@
             "heading": "FOLLOW",
             "heading_font_class": "fs-heading-4-base",
             "text": "<p>Follow the trends and find inspiration in other artists works in instagram accounts of the brand and Polina Kamenskaya, brand creator<\/p>",
-            "text_font_class": "fs-body-200",
+            "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
             "link_text": "",
@@ -241,7 +331,7 @@
             "heading": "LEARN",
             "heading_font_class": "fs-heading-4-base",
             "text": "<p>Learn useful information from free learning materials and lives in Instagram and YouTube<\/p>",
-            "text_font_class": "fs-body-200",
+            "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
             "link_text": "",
@@ -262,7 +352,7 @@
             "heading": "STUDY",
             "heading_font_class": "fs-heading-4-base",
             "text": "<p>Study Polina Kamenskaya author’s course ‘Alcohol ink painting from scratch', do home works and communicate with the other soulmates<\/p>",
-            "text_font_class": "fs-body-200",
+            "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
             "link_text": "",
@@ -272,7 +362,7 @@
         "block-3": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_cl.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_7552.jpg",
             "image_width": 100,
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
@@ -283,7 +373,7 @@
             "heading": "BUY",
             "heading_font_class": "fs-heading-4-base",
             "text": "<p>Buy all needed materials with convenient payment and delivery at our web-site and at our partner stores<\/p>",
-            "text_font_class": "fs-body-200",
+            "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
             "link_text": "",
@@ -343,9 +433,9 @@
       ],
       "settings": {
         "title": "",
-        "subheading": "<p>your<br\/><strong>INSPIRATION, DEVELOPMENT AND MATERIALS<br\/><\/strong>in one place<\/p>",
+        "subheading": "",
         "subheading_link": "",
-        "subheading_link_text": "Your link here",
+        "subheading_link_text": "",
         "heading_font_class": "fs-heading-3-base",
         "heading_alignment": "center",
         "content_vertical_alignment": "top",
@@ -381,7 +471,7 @@
         "6a4f5d32-f759-4a1c-942b-4c3e1f87ecc9": {
           "type": "text",
           "settings": {
-            "text": "<p>Thanks to the high concentration in each jar, 10-15 ml of our ink is enough to create a picture of 100x70 cm format. We will be happy to help you choose exactly what you need by e-mail or in the messengers<\/p>",
+            "text": "<p>Thanks to the high concentration in each bottle, 10-15 ml of our ink is enough to create a picture of 100x70 cm format. We will be happy to help you choose exactly what you need by e-mail or in the messengers<\/p>",
             "text_font_class": "fs-body-100"
           }
         },
@@ -409,10 +499,10 @@
         "61b3af86-2f54-4b7c-9132-6cd2c9fdf218"
       ],
       "settings": {
-        "image_position": "right",
+        "image_position": "left",
         "text_alignment": "left",
-        "image": "shopify:\/\/shop_images\/1_b.webp",
-        "aspect_ratio": "landscape",
+        "image": "shopify:\/\/shop_images\/B0591ED1-6B36-4F4E-AC8A-9CE42E66F7EA.jpg",
+        "aspect_ratio": "natural",
         "focal_point": "center",
         "image_caption": "",
         "show_small_image": false,
@@ -429,7 +519,6 @@
     },
     "image-with-text-3": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "block-0": {
           "type": "heading",
@@ -498,6 +587,15 @@
             "link_text": "Get directions",
             "button_style": "btn--callout"
           }
+        },
+        "7a55d1ff-eb40-47d1-89e0-9d8bdde250ed": {
+          "type": "play-button",
+          "settings": {
+            "video_url": "https:\/\/youtu.be\/myE4gU8y0Xc?si=eXy_Db-IguSUM_Zp",
+            "aspect_ratio": "landscape",
+            "text": "Watch now",
+            "icon_style": "outline"
+          }
         }
       },
       "block_order": [
@@ -510,8 +608,10 @@
         "block-6",
         "block-7",
         "block-8",
-        "block-9"
+        "block-9",
+        "7a55d1ff-eb40-47d1-89e0-9d8bdde250ed"
       ],
+      "disabled": true,
       "settings": {
         "image_position": "right",
         "text_alignment": "left",
@@ -532,7 +632,6 @@
     },
     "contact-form": {
       "type": "contact-form",
-      "disabled": true,
       "blocks": {
         "block-0": {
           "type": "text",
@@ -583,6 +682,7 @@
         "block-3",
         "block-4"
       ],
+      "disabled": true,
       "settings": {
         "alignment": "left_left",
         "heading": "Contact us",
@@ -600,6 +700,8 @@
   "order": [
     "main",
     "slideshow",
+    "72b4b668-f82a-4aab-b2a0-5aedf317a487",
+    "de1ef3b8-546c-4153-993c-c3985595db3f",
     "image-with-text-1",
     "multi-column",
     "image-with-text-2",

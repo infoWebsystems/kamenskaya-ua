@@ -7,7 +7,11 @@
       "settings": {
         "enable_quick_cart": true,
         "show_product_currency": true,
-        "promotion_text": "<p>Check out these collections.<\/p>",
+        "promotion_text": "<p>Not sure where to start?<br\/>Try these collections:<\/p>",
+        "collection_list": [
+          "sets",
+          "best-sellers"
+        ],
         "collection_list_button_style": "btn--secondary"
       }
     },

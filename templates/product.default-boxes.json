@@ -12,7 +12,7 @@
             "show_discount": true,
             "discount_format": "percent_off",
             "show_product_rating": false,
-            "show_sale_badge": true,
+            "show_sale_badge": false,
             "show_custom_badges": true
           }
         },
@@ -22,7 +22,7 @@
             "icon_1": "none",
             "text_1": "Ink Art",
             "icon_2": "none",
-            "text_2": "Resin Art",
+            "text_2": "",
             "icon_3": "chat",
             "text_3": "",
             "icon_4": "none",
@@ -31,28 +31,6 @@
             "text_5": "",
             "icon_6": "none",
             "text_6": ""
-          }
-        },
-        "ce9f3f5b-7e96-45a4-8e8f-3e147fecc6e3": {
-          "type": "custom_liquid",
-          "settings": {
-            "column_placement": "right",
-            "custom_liquid": "Volume: 40 ml (1.35 fl oz)"
-          }
-        },
-        "9bd61dee-ffb6-447a-98ab-102450637825": {
-          "type": "custom_liquid",
-          "settings": {
-            "column_placement": "right",
-            "custom_liquid": "Delamination degree: high"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text_font_class": "fs-body-100",
-            "text": "<p>Delaminating inks. If you're looking for experiments and want to create something new and unusual, you should definitely try these inks! You can use them to create volume without physically creating volume. Incredible texture. Paintings create themselves!<\/p>",
-            "column_placement": "left"
           }
         },
         "variant_picker": {
@@ -66,6 +44,14 @@
             "siblings_show_product_image": true,
             "siblings_option_name": "Color",
             "chip_layout": "3col"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text_font_class": "fs-body-100",
+            "text": "<p>Stunning idea for creativity in one box!<br\/><br\/>Box with ready-made graphic drawings which can be easily supplemented with alcohol inks!<br\/><br\/>The set includes all materials needed to create a triptych in a selected theme (there are 11 different options). There is also a special free lesson to help you on our YouTube channel Kamenskaya Ink.<\/p>",
+            "column_placement": "left"
           }
         },
         "inventory_counter": {
@@ -134,7 +120,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Description",
-            "content": "<ul><li>Create Something New And Unique with 23 different shades of KAMENSKAYA delaminating alcohol inks which you could use to create volume without physically creating volume. Technically inks split into hundreds of small particles and form fantastic patterns!<\/li><li>The Shades Are Lightfast and not affected by direct sunlight. In addition to painting in ink art tecnhique you could use these alcohol inks for epoxy resin.<\/li><li>Get New Effects In Your Art by combining delaminating inks with other lines of KAMENSKAYA alcohol inks.<\/li><li>Follow The Instructions on how to achieve and enhance delamination effect.<\/li><\/ul>",
+            "content": "<ul><li>Ink Art Coloring Set - box with ready-made graphic drawings which can be easily supplemented with alcohol inks! The set includes all materials needed to create a triptych in a selected theme and a special video lesson to help you<\/li><li>All Alcohol Ink Supplies In A Single Box: 4 alcohol ink paper sheets 19.7:13 in (50:33 cm) each (3 sheets with graphic and 1 sheet empty), 5 alcohol inks 0.17 fl oz (5 ml) each, alcohol ink blending solution 10.14 fl oz (300 ml) and 1 fl oz (30 ml) of isopropyl alcohol, - alcohol ink hand pump (air blower), empty bottle 2.37 fl oz (70 ml) with measuring scale, 5 measuring cups, gloves, napkins, covering material<\/li><li>High Lightfastness - our inks have lightfastness level of 7-10 which means the colors stay bright for a long time.<\/li><li>Great Gift Idea for your friends, realtives and, of course, for yourself<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -145,7 +131,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Recommendations",
-            "content": "<p><strong>Method 1 <\/strong>(to achieve self-splitting effect)<strong>:<\/strong> <\/p><p>Dilute the ink with thinner in a cup, pour onto the surface and wait until completely dry. No need to use a dryer.<br\/><br\/><strong>Method 2 <\/strong>(to achieve standard alcohol inks look without self-splitting effect)<strong>:<\/strong> <\/p><p>Pour ink on the surface and dry it with a dryer as you would do with a normal alcohol ink.<br\/><br\/>To enhance original delamination effect (which could be high, medium or low, as shown on a bar at the product sticker) you will need to add water to alcohol (70% should be alcohol and 30% - water).<br\/><br\/>Add Kamenskaya alcohol varnish to alcohol to provide extra protection for your painting.<\/p><p><strong>Tips:<\/strong><\/p><p>1. The more you dilute the inks, the less grit is formed. Correspondingly, the less, the tighter the grain.<\/p><p>2. Inks with different degrees of separation do not mix together to create a third colour, they dry in two colours. This looks stunning, it’s worth trying it!<\/p><p>3. Inks of the same degree of layering work well together.<\/p><p>4. The inks work well with inks from other lines.<\/p><p>5. After drying coat the image with a few coats of spray acrylic varnish (not needed if you use Kamenskaya alcohol varnish).<\/p><p>6. Make sure that the surface you are working on is flat so that the drawing does not move away while drying.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
+            "content": "<p><strong>Tips:<\/strong><\/p><p>1.Make sure to use blending solution to keep the colour vibrant and to ensure the image stays firmly fixed to the format.<\/p><p>2.Work with ink on smooth and non-absorbent surfaces for the desired results.<\/p><p>3.If you are painting for the first time, we recommend to watch a tutorial video on our YouTube channel or in the 'Blog' section on the website.<\/p><p>4.After drying, spray the image with an acrylic varnish. We recommend using a glossy varnish for images that contain metallic inks.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -161,8 +147,9 @@
             "custom_liquid": ""
           }
         },
-        "9bb168ea-51d1-4009-a9f9-cc3612efba6b": {
+        "bde043a1-d190-487e-bbf0-0a7555fe0efa": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -180,10 +167,8 @@
       "block_order": [
         "product_header",
         "product_callouts_mini",
-        "ce9f3f5b-7e96-45a4-8e8f-3e147fecc6e3",
-        "9bd61dee-ffb6-447a-98ab-102450637825",
-        "text",
         "variant_picker",
+        "text",
         "inventory_counter",
         "quantity_selector",
         "buy_buttons",
@@ -193,7 +178,7 @@
         "accordion-1",
         "accordion-2",
         "accordion-3",
-        "9bb168ea-51d1-4009-a9f9-cc3612efba6b"
+        "bde043a1-d190-487e-bbf0-0a7555fe0efa"
       ],
       "settings": {
         "enable_sticky_product_details": true,
@@ -201,11 +186,11 @@
         "show_navigation_buttons": true,
         "gallery_style": "thumbnails",
         "gallery_style_mobile": "carousel",
-        "gallery_size": "small",
+        "gallery_size": "medium",
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
-        "image_aspect_ratio": "portrait",
+        "image_aspect_ratio": "natural",
         "enable_gift_card_recipient": true,
         "enable_animation": true
       }
@@ -497,36 +482,6 @@
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
       }
-    },
-    "a1a03aae-1ead-456b-a98c-364631361d38": {
-      "type": "collection-list-slider",
-      "settings": {
-        "heading": "Alcohol Inks Collections",
-        "subheading": "",
-        "link": "shopify:\/\/collections\/alcohol-inks",
-        "link_text": "View all alcohol inks",
-        "columns": "4",
-        "mobile_columns": "2",
-        "collection_list": [
-          "core-a-line",
-          "nude-inks",
-          "metallic-inks",
-          "nacre-chameleons",
-          "delaminating-inks",
-          "inks-for-petri-art",
-          "sets",
-          "bleinding-solutions",
-          "materials-for-ink-art"
-        ],
-        "collection_listing_aspect_ratio": "square",
-        "label_style": "overlay",
-        "overlay_title_background_style": "gradient",
-        "overlay_text_color": "#ffffff",
-        "overlay_title_background": "#000000",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
-      }
     }
   },
   "order": [
@@ -536,7 +491,6 @@
     "image-with-text-1",
     "image-with-text-2",
     "testimonials",
-    "recommendations",
-    "a1a03aae-1ead-456b-a98c-364631361d38"
+    "recommendations"
   ]
 }

@@ -3,6 +3,32 @@
     "main": {
       "type": "main-list-collections",
       "settings": {
+        "display_type": "selected",
+        "collection_list": [
+          "core-a-line",
+          "nude-inks",
+          "metallic-inks",
+          "nacre-chameleons",
+          "delaminating-inks",
+          "inks-for-petri-art",
+          "sets",
+          "bleinding-solutions",
+          "materials-for-ink-art",
+          "gilding",
+          "acrylic-inks",
+          "mediums",
+          "texture",
+          "casting"
+        ],
+        "columns": "3",
+        "mobile_columns": "2",
+        "rows": "5",
+        "collection_listing_aspect_ratio": "square",
+        "label_style": "overlay",
+        "overlay_title_background_style": "gradient",
+        "overlay_text_color": "#fff",
+        "overlay_title_background": "#000000",
+        "enable_animation": true
       }
     }
   },

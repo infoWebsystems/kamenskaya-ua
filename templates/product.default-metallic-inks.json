@@ -18,12 +18,11 @@
         },
         "product_callouts_mini": {
           "type": "product_callouts_mini",
-          "disabled": true,
           "settings": {
-            "icon_1": "moving-truck",
-            "text_1": "Fast Shipping",
-            "icon_2": "padlock",
-            "text_2": "Secure payment",
+            "icon_1": "none",
+            "text_1": "Ink Art",
+            "icon_2": "none",
+            "text_2": "Resin Art",
             "icon_3": "chat",
             "text_3": "",
             "icon_4": "none",
@@ -32,6 +31,14 @@
             "text_5": "",
             "icon_6": "none",
             "text_6": ""
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text_font_class": "fs-body-100",
+            "text": "<p>‘M’ line inks<strong> <\/strong>are shimmering series of metallic inks to create golden facets and light cobwebs. Perfectly match with the inks of all the ranges to create a magical tandem. Would you like to add the right accent to your work? Then you need metallic inks for sure!<\/p>",
+            "column_placement": "left"
           }
         },
         "variant_picker": {
@@ -140,18 +147,26 @@
             "custom_liquid": ""
           }
         },
-        "text": {
-          "type": "text",
+        "d32099ff-7dfd-470a-93d1-7400b1f5f229": {
+          "type": "featured_products",
           "settings": {
-            "text_font_class": "fs-body-100",
-            "text": "<p>‘M’ line inks<strong> <\/strong>are shimmering series of metallic inks to create golden facets and light cobwebs. Perfectly match with the inks of all the ranges to create a magical tandem. Would you like to add the right accent to your work? Then you need metallic inks for sure!<\/p>",
-            "column_placement": "left"
+            "heading": "Pairs well with",
+            "column_placement": "left",
+            "max_products": 10,
+            "product_source": "app-recommendations",
+            "product_list": [
+
+            ],
+            "enable_swiper_mobile": true,
+            "display_as_collapsible_row": true,
+            "expand_by_default": false
           }
         }
       },
       "block_order": [
         "product_header",
         "product_callouts_mini",
+        "text",
         "variant_picker",
         "inventory_counter",
         "quantity_selector",
@@ -162,15 +177,15 @@
         "accordion-1",
         "accordion-2",
         "accordion-3",
-        "text"
+        "d32099ff-7dfd-470a-93d1-7400b1f5f229"
       ],
       "settings": {
         "enable_sticky_product_details": true,
-        "show_breadcrumbs": false,
-        "show_navigation_buttons": false,
-        "gallery_style": "grid",
+        "show_breadcrumbs": true,
+        "show_navigation_buttons": true,
+        "gallery_style": "thumbnails",
         "gallery_style_mobile": "carousel",
-        "gallery_size": "large",
+        "gallery_size": "small",
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
@@ -466,6 +481,36 @@
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
       }
+    },
+    "d897467c-853c-473e-a377-0e1ae7801c99": {
+      "type": "collection-list-slider",
+      "settings": {
+        "heading": "Alcohol Inks Collections",
+        "subheading": "",
+        "link": "shopify:\/\/collections\/alcohol-inks",
+        "link_text": "View all alcohol inks",
+        "columns": "4",
+        "mobile_columns": "2",
+        "collection_list": [
+          "core-a-line",
+          "nude-inks",
+          "metallic-inks",
+          "nacre-chameleons",
+          "delaminating-inks",
+          "inks-for-petri-art",
+          "sets",
+          "bleinding-solutions",
+          "materials-for-ink-art"
+        ],
+        "collection_listing_aspect_ratio": "square",
+        "label_style": "overlay",
+        "overlay_title_background_style": "gradient",
+        "overlay_text_color": "#ffffff",
+        "overlay_title_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
     }
   },
   "order": [
@@ -475,6 +520,7 @@
     "image-with-text-1",
     "image-with-text-2",
     "testimonials",
-    "recommendations"
+    "recommendations",
+    "d897467c-853c-473e-a377-0e1ae7801c99"
   ]
 }
