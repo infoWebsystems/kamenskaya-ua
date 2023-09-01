@@ -411,7 +411,21 @@
         "order_edit_banner_items_returned": {
           "in_full": "Повернувся",
           "with_quantities": "Повернуто {{delta}} із {{quantity}}"
-        }
+        },
+        "saved_credit_card_actions": {
+          "edit": "Редагувати",
+          "delete": "Видалити"
+        },
+        "edit_credit_card_modal": {
+          "done": "Готово",
+          "cancel": "Скасувати",
+          "fields": {
+            "card_number": "Номер картки",
+            "security_code": "Код безпеки",
+            "name": "Ім'я на картці"
+          }
+        },
+        "payment_method": "Спосіб оплати"
       },
       "payment_summary": {
         "gift_card_current_balance_notice": "Поточний баланс %{amount}",
@@ -745,7 +759,47 @@
         "gift_card_email_title": {
           "one": "Подарункову картку надіслали електронною поштою",
           "other": "Подарункові карти були надіслані електронною поштою"
-        }
+        },
+        "title": "Дякуємо за покупку!",
+        "confirmation_email_sent_text": "Електронний лист із підтвердженням надіслано на адресу %{email}",
+        "return_to_store_link_label": "Продовжити покупки",
+        "print_link_label": "Роздрукувати квитанцію",
+        "payment_information_title": "Інформація про оплату",
+        "shipping_information_title": "Інформація Доставка",
+        "page_title": "Дякуємо, %{display_name}!",
+        "page_title_no_name": "Дякую тобі!",
+        "purchase_order_number_title": "Номер замовлення на замовлення #%{purchase_order_number}",
+        "cancelled_page_title": "Замовлення скасовано",
+        "customer_information_title": "Деталі замовлення",
+        "contact_information_title": "Контактна інформація",
+        "billing_address_title": "Платіжна адреса",
+        "company_location_title": "Місцезнаходження",
+        "shipping_address_title": "Адреса доставки",
+        "shipping_address_map_title": "Карта Google, що відображає точну адресу доставки: %{address}",
+        "payment_method_title": "Спосіб оплати",
+        "shipping_method_title": "Метод доставки",
+        "tracking_number": "Номер відстеження:",
+        "company_tracking_number": "Номер відстеження %{company}:",
+        "estimated_arrival": "Передбачувана дата поставки: ",
+        "estimated_delivery": "Поточна оцінка доставки: ",
+        "re-order": "Повторно замовляйте ті самі товари",
+        "confirmed": "Підтверджено",
+        "gift_card_confirmation_by_text": "Якщо ви не отримали його, надішліть текст повторно або зв’яжіться з нами.",
+        "gift_card_confirmation_by_email": "Якщо ви не отримали його, надішліть електронний лист повторно або зв’яжіться з нами.",
+        "gift_card_title": "Подарункові карти",
+        "resend_gift_cards": "Повторне надсилання подарункових карток",
+        "thank_you_title": "Ваше замовлення підтверджено",
+        "thank_you_title_payment": "Ваш платіж підтверджено",
+        "thank_you_title_review": "Ваше замовлення відправлено на розгляд",
+        "thank_you_confirmed_order_with_email": "Незабаром ви отримаєте електронний лист із підтвердженням із номером замовлення.",
+        "thank_you_confirmed_order_with_phone": "Незабаром ви отримаєте текст підтвердження з номером замовлення.",
+        "thank_you_confirmed_order_with_email_and_phone": "Незабаром ви отримаєте електронний лист із підтвердженням із номером замовлення.",
+        "thank_you_confirmed_order_with_email_payment": "Ви здійснили платіж за замовленням %{date}.",
+        "thank_you_confirmed_order_with_phone_payment": "Ви здійснили платіж за замовленням %{date}.",
+        "thank_you_confirmed_order_with_email_and_phone_payment": "Ви здійснили платіж за замовленням %{date}.",
+        "thank_you_confirmed_order_with_email_pick_up": "Ви отримаєте електронний лист, коли ваше замовлення буде готове до отримання.",
+        "thank_you_confirmed_order_with_phone_pick_up": "Ви отримаєте текстове повідомлення, коли ваше замовлення буде готове до отримання.",
+        "thank_you_confirmed_order_with_email_and_phone_pick_up": "Ви отримаєте електронний лист, коли ваше замовлення буде готове до отримання."
       },
       "order_summary": {
         "recurring_subtotal_label": "Повторюваний проміжний підсумок",
@@ -988,7 +1042,21 @@
           "combination": "%{rest} і %{current}"
         },
         "shipping_used_as_billing_notice": "Це також буде використано як вашу платіжну адресу для цього замовлення.",
-        "address_update": "Оновити адресу"
+        "address_update": "Оновити адресу",
+        "shipping_address_title": "Відправити до",
+        "edit": "Редагувати",
+        "delete": "Видалити",
+        "address_edit": "Редагувати адресу",
+        "address_delete": "Видалити адресу",
+        "address_form": {
+          "add_address": "Додайте адресу",
+          "save": "зберегти",
+          "cancel": "Скасувати",
+          "one_time_address_subtitle": "Використовуйте одноразову адресу для цього замовлення"
+        },
+        "local_pickup": {
+          "rollup_title": "Місце отримання"
+        }
       },
       "store_credit_errors": {
         "generic_error": "Виникла проблема з кредитом вашого магазину. Повторіть спробу або оновіть сторінку."
@@ -1097,7 +1165,9 @@
       "failed_payment": {
         "page_title": "Не вдалося обробити платіж",
         "title": "Не вдалося обробити платіж",
-        "payment_not_processed_title": "Ваш платіж не вдалося обробити"
+        "payment_not_processed_title": "Ваш платіж не вдалося обробити",
+        "payment_not_processed_text": "З вас не стягнуто плату. Поверніться до кошика, щоб завершити покупку.",
+        "return_to_cart_button_label": "Повернутися до кошика"
       },
       "delivery_options": {
         "free_total_label": "безкоштовно",
@@ -1127,7 +1197,8 @@
         "sign_out_link_label": "Вийти",
         "save_my_information_label": "Збережіть цю інформацію для наступного разу",
         "invalid_address": "Вибрана адреса недійсна. %{update_address_link} або виберіть іншу адресу.",
-        "incomplete_address": "Вибрана адреса неповна. %{update_address_link} або виберіть іншу адресу."
+        "incomplete_address": "Вибрана адреса неповна. %{update_address_link} або виберіть іншу адресу.",
+        "rollup_label": "Обліковий запис"
       },
       "stock": {
         "page_title": "Питання інвентаризації",
@@ -1366,6 +1437,40 @@
           },
           "label": "Без доставки"
         }
+      },
+      "billing": {
+        "same_as_shipping": "Така сама, як адреса доставки",
+        "edit": "Редагувати",
+        "delete": "Видалити",
+        "address_edit": "Редагувати адресу",
+        "address_delete": "Видалити адресу",
+        "address_form": {
+          "add_address": "Додайте адресу",
+          "save": "зберегти",
+          "cancel": "Скасувати"
+        }
+      },
+      "payment_gateway": {
+        "credit_card_label": "Кредитна карта",
+        "bank_deposit_label": "Банківський депозит",
+        "cash_on_delivery_label": "Оплата при доставці (COD)",
+        "money_order_label": "Грошовий переказ",
+        "debit_card_label": "Дебетова картка",
+        "deferred_payment_label": "Виберіть спосіб оплати пізніше",
+        "generic_payment_terms": "Ви дієте на умовах {{translatedName}} . Термін оплати {{dueDate}} .",
+        "login_prompt": {
+          "no_access": {
+            "message": "{{logIn}} до облікового запису з доступом до цього місця, щоб додати або використати збережені способи оплати.",
+            "link": "авторизуватися"
+          }
+        },
+        "direct_payment_terms": "Ви дієте на умовах {{translatedName}} . З вашої картки буде стягнено плату {{dueDate}} .",
+        "order_due_on_fulfillment_choose_later": "Ваш платіж буде сплачено, коли ваше замовлення буде виконано.",
+        "order_due_on_fulfillment_payment": "Плата буде стягнута з вашої картки, коли ваше замовлення буде виконано.",
+        "draft_order_payment_due_later_no_terms": "Платіж надійде після підтвердження замовлення.",
+        "draft_order_payment_due_later_no_terms_payment_selected": "Після підтвердження замовлення з вашої картки буде стягнуто кошти.",
+        "draft_order_payment_due_later_terms": "Ви діятимете на умовах {{translatedName}} коли ваше замовлення буде підтверджено.",
+        "draft_order_payment_due_on_fulfillment": "Ваш платіж буде сплачено, коли ваше замовлення буде підтверджено та виконано."
       }
     },
     "pagination": {
