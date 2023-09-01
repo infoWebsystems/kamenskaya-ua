@@ -196,15 +196,15 @@
       "settings": {
         "video_source": "external",
         "video_url": "https:\/\/youtu.be\/myE4gU8y0Xc?si=b8u1lx73EgAc3-LG",
-        "image": "shopify:\/\/shop_images\/Frame_2.png",
+        "image": "shopify:\/\/shop_images\/2757070baea527309969ae8c76930478.png",
         "loop": true,
         "media_aspect_ratio": "landscape_ultrawide_alt",
         "focal_point": "image_presentation",
         "text_position": "center_center",
         "text_position_mobile": "center",
-        "button_background_color": "#FFF",
-        "color_overlay": "#000",
-        "color_overlay_text": "#FFF",
+        "button_background_color": "#ffffff",
+        "color_overlay": "#000000",
+        "color_overlay_text": "#ffffff",
         "color_overlay_gradient": "",
         "overlay_opacity": 40,
         "enable_animation": true,
@@ -277,7 +277,6 @@
       "settings": {
         "image_position": "left",
         "text_alignment": "left",
-        "image": "shopify:\/\/shop_images\/B0591ED1-6B36-4F4E-AC8A-9CE42E66F7EA.jpg",
         "aspect_ratio": "landscape",
         "focal_point": "image_presentation",
         "image_caption": "",
@@ -299,7 +298,7 @@
         "block-0": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1956_00d8c1d8-a7e9-4ce7-9799-8701cc834558.jpg",
+            "image": "shopify:\/\/shop_images\/follow.jpg",
             "image_width": 100,
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
@@ -362,7 +361,7 @@
         "block-3": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_7552.jpg",
+            "image": "shopify:\/\/shop_images\/buy.jpg",
             "image_width": 100,
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
@@ -501,11 +500,11 @@
       "settings": {
         "image_position": "left",
         "text_alignment": "left",
-        "image": "shopify:\/\/shop_images\/B0591ED1-6B36-4F4E-AC8A-9CE42E66F7EA.jpg",
         "aspect_ratio": "natural",
         "focal_point": "center",
         "image_caption": "",
         "show_small_image": false,
+        "image_small": "shopify:\/\/shop_images\/64f1c092dc161d8a50b5d94869379287.jpg",
         "image_small_aspect_ratio": "square",
         "image_small_focal_point": "center",
         "background_color": "",
