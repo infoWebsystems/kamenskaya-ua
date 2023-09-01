@@ -3290,7 +3290,14 @@
         "one": "{{count}} колір",
         "other": "{{count}} кольорів",
         "zero": "Без кольорів"
-      }
+      },
+      "swatch_overflow": "+ ще {{ overflow_amount }}",
+      "unavailable": "Недоступний",
+      "unit_price_label": "Ціна за одиницю",
+      "vendor": "Продавець",
+      "view_in_space": "Перегляньте у своєму просторі",
+      "view_in_space_label": "Переглядайте у своєму просторі, завантажуйте предмет у вікні доповненої реальності",
+      "write_a_review": "Написати відгук"
     }
   },
   "collections": {
@@ -3310,6 +3317,48 @@
       "post_success": "Дякуємо, що звернулися до нас. Ми зв’яжемося з вами якомога швидше.",
       "recaptcha_terms_html": "Цей сайт захищено технологією reCAPTCHA, до нього застосовуються <a href=\"https:\/\/policies.google.com\/privacy\">Політика конфіденційності<\/a> й <a href=\"https:\/\/policies.google.com\/terms\">Умови використання<\/a> Google.",
       "submit": "Надіслати"
+    }
+  },
+  "search": {
+    "check_spelling": "Перевірте правопис або використайте інше слово чи фразу.",
+    "clear_search": "ясно",
+    "heading": {
+      "one": "Результат пошуку",
+      "other": "Результати пошуку"
+    },
+    "headings": {
+      "articles": "статті",
+      "collections": "Колекції",
+      "pages": "сторінки",
+      "products": "Продукти"
+    },
+    "no_products": "Продукти не знайдено",
+    "no_results": "Нічого не знайдено. Перевірте правопис або використайте інше слово чи фразу.",
+    "no_results_html": "Немає результатів для “ {{ terms }} ”",
+    "placeholder": "Що ти шукаєш?",
+    "read_now": "Читайте зараз",
+    "results_with_count": {
+      "one": "{{ count }} результат для “ {{ terms }} ”",
+      "other": "{{ count }} результати для “ {{ terms }} ”"
+    },
+    "search": "Пошук",
+    "suggestions": "Пошукові пропозиції",
+    "title": "Шукайте на нашому сайті",
+    "view_all": "Переглянути всі результати"
+  },
+  "store_availability": {
+    "general": {
+      "availability": "Доступність",
+      "check_other_stores": "Уточнюйте наявність в інших магазинах",
+      "in_stock": "В наявності",
+      "locations": "Розташування",
+      "not_in_stock": "Немає на складі",
+      "pick_up_available": "Можливий самовивіз",
+      "pick_up_available_at": "Забрати можна в {{ location_name }}",
+      "pick_up_available_time": "В наявності, {{ pickup_time }}",
+      "pick_up_currently_unavailable": "Самовивіз наразі недоступний",
+      "pick_up_unavailable_at": "Самовивіз недоступний у {{ location_name }}",
+      "view_store_info": "Переглянути інформацію про магазин"
     }
   }
 }
