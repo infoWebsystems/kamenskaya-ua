@@ -554,10 +554,10 @@
     "b64fa078-1aa4-4ab2-912e-946bf4e5f262": {
       "type": "collection-list-grid",
       "settings": {
-        "heading": "Popular collections",
+        "heading": "Популярні колекції",
         "subheading": "",
         "link": "shopify:\/\/collections",
-        "link_text": "View all collections",
+        "link_text": "Переглянути всі колекції",
         "columns": "3",
         "mobile_columns": "1",
         "collection_list": [
