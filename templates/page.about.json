@@ -217,14 +217,14 @@
         "template--20056857313563__de1ef3b8-546c-4153-993c-c3985595db3f-heading-1": {
           "type": "heading",
           "settings": {
-            "title": "UNLOCK YOUR CREATIVE POTENTIAL WITH KAMENSKAYA",
+            "title": "РОЗКРИТИ СВІЙ ТВОРЧИЙ ПОТЕНЦІАЛ З KAMENSKAYA",
             "heading_font_class": "fs-heading-3-base"
           }
         },
         "template--20056857313563__de1ef3b8-546c-4153-993c-c3985595db3f-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>KAMENSKAYA is a brand created by an artist for artists. We know exactly what beginners and professionals need<\/p>",
+            "text": "<p>KAMENSKAYA це бренд, створений художником для художників. Ми точно знаємо, що потрібно новачкам і професіоналам<\/p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -306,9 +306,9 @@
             "image_link": "",
             "small_caption": "",
             "accent": "",
-            "heading": "FOLLOW",
+            "heading": "СЛІДУЙТЕ",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Follow the trends and find inspiration in other artists works in instagram accounts of the brand and Polina Kamenskaya, brand creator<\/p>",
+            "text": "<p>Слідкуйте за трендами та шукайте натхнення в роботах інших художників в інстаграм-акаунтах бренду та Поліни Каменської, творця бренду<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -327,9 +327,9 @@
             "image_link": "",
             "small_caption": "",
             "accent": "",
-            "heading": "LEARN",
+            "heading": "НАВЧАЙТЕСЯ",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Learn useful information from free learning materials and lives in Instagram and YouTube<\/p>",
+            "text": "<p>Дізнайтеся корисну інформацію з безкоштовних навчальних матеріалів і живіть в Instagram і YouTube<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -348,9 +348,9 @@
             "image_link": "",
             "small_caption": "",
             "accent": "",
-            "heading": "STUDY",
+            "heading": "ВИВЧЕННЯ",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Study Polina Kamenskaya author’s course ‘Alcohol ink painting from scratch', do home works and communicate with the other soulmates<\/p>",
+            "text": "<p>Вивчайте авторський курс Поліни Каменської «Малюнок алкогольною тушшю з нуля», робіть домашні завдання та спілкуйтеся з іншими близькими людьми<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -369,9 +369,9 @@
             "image_link": "",
             "small_caption": "",
             "accent": "",
-            "heading": "BUY",
+            "heading": "КУПУЙТЕ",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Buy all needed materials with convenient payment and delivery at our web-site and at our partner stores<\/p>",
+            "text": "<p>Купуйте всі необхідні матеріали зі зручною оплатою та доставкою на нашому сайті та в магазинах-партнерах<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -463,14 +463,14 @@
         "1661612015fe8eae74-0": {
           "type": "heading",
           "settings": {
-            "title": "BUY QUALITY PRODUCTS AND DON'T OVERPAY",
+            "title": "КУПУЙТЕ ЯКІСНИЙ ТОВАР І НЕ ПЕРЛАЧУЙТЕ",
             "heading_font_class": "fs-heading-1-base"
           }
         },
         "6a4f5d32-f759-4a1c-942b-4c3e1f87ecc9": {
           "type": "text",
           "settings": {
-            "text": "<p>Thanks to the high concentration in each bottle, 10-15 ml of our ink is enough to create a picture of 100x70 cm format. We will be happy to help you choose exactly what you need by e-mail or in the messengers<\/p>",
+            "text": "<p>Завдяки високій концентрації в кожному флаконі, 10-15 мл наших чорнил достатньо для створення картини форматом 100х70 см. Ми з радістю допоможемо вам вибрати саме те, що вам потрібно, на електронну пошту або в месенджерах<\/p>",
             "text_font_class": "fs-body-100"
           }
         },
@@ -478,7 +478,7 @@
           "type": "button",
           "settings": {
             "link": "shopify:\/\/collections",
-            "link_text": "Catalog",
+            "link_text": "Каталог",
             "button_style": "btn--primary"
           }
         },
@@ -486,7 +486,7 @@
           "type": "button",
           "settings": {
             "link": "shopify:\/\/pages\/contact",
-            "link_text": "CUSTOMER SERVICE",
+            "link_text": "ОБСЛУГОВУВАННЯ КЛІЄНТІВ",
             "button_style": "btn--secondary"
           }
         }
