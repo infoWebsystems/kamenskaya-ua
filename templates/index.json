@@ -528,7 +528,7 @@
           "settings": {
             "show_view_all": true,
             "collection": "new",
-            "collection_name": "New"
+            "collection_name": "Новинки"
           }
         }
       },
@@ -539,10 +539,10 @@
         ".product-item__product-vendor {display: none;}"
       ],
       "settings": {
-        "heading": "Latest Arrivals",
+        "heading": "Останні надходження",
         "subheading": "",
         "link": "shopify:\/\/collections\/new",
-        "link_text": "View all new",
+        "link_text": "Переглянути всі новинки",
         "maximum_products": 15,
         "columns": "4",
         "mobile_columns": "2",
