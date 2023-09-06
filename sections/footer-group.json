@@ -13,7 +13,7 @@
             "collapse_on_mobile": false,
             "title": "",
             "show_title_on_desktop": true,
-            "text": "<p>Made by an artist for an artist<\/p>",
+            "text": "<p>Зроблено художником для художника<\/p>",
             "image": "shopify:\/\/shop_images\/Kamenskaya_logo2.svg",
             "image_max_width": 200,
             "image_placement": "above_text",
@@ -33,7 +33,7 @@
             "desktop_width": 15,
             "desktop_padding": 4,
             "collapse_on_mobile": true,
-            "title": "Shop",
+            "title": "Магазин",
             "show_title_on_desktop": true,
             "link_list": "footer"
           }
@@ -44,7 +44,7 @@
             "desktop_width": 15,
             "desktop_padding": 4,
             "collapse_on_mobile": true,
-            "title": "Company",
+            "title": "Компанія",
             "show_title_on_desktop": true,
             "link_list": "second-footer-menu"
           }
@@ -55,7 +55,7 @@
             "desktop_width": 30,
             "desktop_padding": 0,
             "collapse_on_mobile": false,
-            "title": "Newsletter",
+            "title": "Інформаційний бюлетень",
             "show_title_on_desktop": true,
             "text": "<p>Subscribe to receive the latest news, exclusive offers and 10% off your first order.<\/p>",
             "show_social_icons": false,
