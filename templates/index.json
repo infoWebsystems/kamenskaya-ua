@@ -936,10 +936,10 @@
         "16558555587b915de6-0"
       ],
       "settings": {
-        "heading": "Best sellers",
-        "subheading": "<p>Shop our favourites, chosen by you<\/p>",
+        "heading": "Бестселери",
+        "subheading": "<p>Купуйте наші улюблені товари, обрані вами<\/p>",
         "link": "shopify:\/\/collections\/best-sellers",
-        "link_text": "Shop all best sellers",
+        "link_text": "Купуйте всі бестселери",
         "maximum_products": 8,
         "columns": "4",
         "mobile_columns": "2",
