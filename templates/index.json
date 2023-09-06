@@ -1072,20 +1072,20 @@
         "1654913893d03d0b33-0": {
           "type": "accent",
           "settings": {
-            "accent": "trending"
+            "accent": "В тренді"
           }
         },
         "1654913893d03d0b33-1": {
           "type": "heading",
           "settings": {
-            "title": "Create unique and stylish decor items",
+            "title": "Створюйте унікальні та стильні елементи декору",
             "heading_font_class": "fs-heading-1-base"
           }
         },
         "1654913893d03d0b33-2": {
           "type": "subheading",
           "settings": {
-            "subheading": "Great gift for yourself and your loved one",
+            "subheading": "Чудовий подарунок собі та коханій людині",
             "subheading_font_class": "fs-heading-5-base"
           }
         },
@@ -1101,7 +1101,7 @@
           "type": "button",
           "settings": {
             "link": "shopify:\/\/products\/casting-compound",
-            "link_text": "shop now",
+            "link_text": "Купити зараз",
             "button_style": "btn--secondary"
           }
         }
