@@ -6,7 +6,7 @@
         "block-0": {
           "type": "text",
           "settings": {
-            "title": "Your name",
+            "title": "Ваше ім'я",
             "required": true,
             "width": "half"
           }
@@ -14,14 +14,14 @@
         "block-1": {
           "type": "email",
           "settings": {
-            "title": "Your Email",
+            "title": "Ваша електронна адреса",
             "width": "half"
           }
         },
         "block-2": {
           "type": "text",
           "settings": {
-            "title": "Phone number",
+            "title": "Номер телефону",
             "required": false,
             "width": "full"
           }
@@ -29,8 +29,8 @@
         "block-3": {
           "type": "text_area",
           "settings": {
-            "title": "Message",
-            "placeholder": "Your message",
+            "title": "Повідомлення",
+            "placeholder": "Ваше повідомлення",
             "required": true,
             "height": 180,
             "width": "full"
@@ -39,7 +39,7 @@
         "block-4": {
           "type": "submit",
           "settings": {
-            "title": "Submit",
+            "title": "Надіслати",
             "size": "large",
             "full_width": true
           }
@@ -54,7 +54,7 @@
       ],
       "settings": {
         "alignment": "left_left",
-        "heading": "CUSTOMER SERVICE",
+        "heading": "ОБСЛУГОВУВАННЯ КЛІЄНТІВ",
         "heading_font_class": "fs-heading-2-base",
         "text": "",
         "show_recaptcha_terms": true,
@@ -123,7 +123,7 @@
             "heading": "+37127900950",
             "heading_link": "tel:+37127900950",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Mon-Fri from 09:00 to 18:00, Fri 09:00 to 17:00<\/p>",
+            "text": "<p>Пн-Пт з 09:00 до 18:00,<br\/>Пт з 09:00 до 17:00<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -138,7 +138,7 @@
             "heading": "info@kamenskaya.store",
             "heading_link": "mailto:info@kamenskaya.store",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>for all questions<\/p>",
+            "text": "<p>з усіх питань<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -153,7 +153,7 @@
             "heading": "SIA «Kamenskaya Ink»",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Registration No 50203401631<\/p>",
+            "text": "<p>Реєстраційний номер 50203401631<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -183,7 +183,7 @@
             "heading": "partnership@kamenskaya.store",
             "heading_link": "mailto:partnership@kamenskaya.store",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>for cooperation<\/p>",
+            "text": "<p>Для співпраці<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
