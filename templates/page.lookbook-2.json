@@ -16,7 +16,8 @@
           "type": "column",
           "settings": {
             "accent": "",
-            "heading": "Editorial Lookbook",
+            "heading": "Редакційний лукбук",
+            "heading_link": "",
             "heading_font_class": "fs-heading-1-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -31,8 +32,9 @@
           "settings": {
             "accent": "",
             "heading": "",
+            "heading_link": "",
             "heading_font_class": "fs-heading-3-base",
-            "text": "<p>This lookbook explores the pieces you’ll find in our collection right now and what’s to come as we move through the season. This page demonstrates how you can use Stiletto's sections to create Lookbook pages like this.<\/p>",
+            "text": "<p>У цьому лукбуці описано речі, які ви зараз знайдете в нашій колекції, і те, що буде в майбутньому впродовж сезону. На цій сторінці показано, як ви можете використовувати розділи Stiletto для створення сторінок Lookbook, подібних до цієї.<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -48,6 +50,8 @@
       "settings": {
         "title": "",
         "subheading": "",
+        "subheading_link": "",
+        "subheading_link_text": "Your link here",
         "heading_font_class": "fs-heading-3-base",
         "heading_alignment": "left",
         "content_vertical_alignment": "top",
@@ -255,6 +259,8 @@
       "settings": {
         "title": "",
         "subheading": "",
+        "subheading_link": "",
+        "subheading_link_text": "Your link here",
         "heading_font_class": "fs-heading-3-base",
         "heading_alignment": "left",
         "content_vertical_alignment": "top",
@@ -329,7 +335,7 @@
         "block-0": {
           "type": "heading",
           "settings": {
-            "title": "Rich text",
+            "title": "Розширений текст",
             "heading_font_class": "fs-heading-3-base"
           }
         },
@@ -342,7 +348,7 @@
         "block-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Використовуйте цю текстову область, щоб поділитися інформацією про свій бренд зі своїми клієнтами. Опишіть продукт, діліться оголошеннями або вітайте клієнтів у своєму магазині.<\/p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -389,7 +395,7 @@
             "text_color": "#ffffff",
             "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 0
           }
@@ -419,7 +425,7 @@
             "text_color": "#ffffff",
             "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 0
           }
@@ -515,6 +521,8 @@
       "settings": {
         "title": "",
         "subheading": "",
+        "subheading_link": "",
+        "subheading_link_text": "Your link here",
         "heading_font_class": "fs-heading-3-base",
         "heading_alignment": "center",
         "content_vertical_alignment": "top",
@@ -737,7 +745,6 @@
         "block-0": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/p_5.webp",
             "image_width": 100,
             "aspect_ratio": "portrait",
             "focal_point": "image_presentation",
@@ -758,7 +765,6 @@
         "block-1": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0649.webp",
             "image_width": 100,
             "aspect_ratio": "portrait",
             "focal_point": "image_presentation",
@@ -779,7 +785,6 @@
         "block-2": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_p.webp",
             "image_width": 100,
             "aspect_ratio": "portrait",
             "focal_point": "image_presentation",
@@ -916,6 +921,8 @@
       "settings": {
         "title": "",
         "subheading": "",
+        "subheading_link": "",
+        "subheading_link_text": "Your link here",
         "heading_font_class": "fs-heading-3-base",
         "heading_alignment": "left",
         "content_vertical_alignment": "top",
