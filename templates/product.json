@@ -20,7 +20,7 @@
           "type": "product_callouts_mini",
           "settings": {
             "icon_1": "none",
-            "text_1": "Ink Art",
+            "text_1": "Чорнило Мистецтво",
             "icon_2": "none",
             "text_2": "",
             "icon_3": "chat",
@@ -37,14 +37,14 @@
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Volume: 15 ml (0.51 fl oz)"
+            "custom_liquid": "Об'єм: 15 мл (0,51 рідкої унції)"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>The A-line Alcohol Inks are lush, translucent inks which blend easily with each other. An ideal tool for creating light and airy ink art paintings.<\/p>",
+            "text": "<p>Спиртові чорнила A-line — це пишні напівпрозорі чорнила, які легко поєднуються одне з одним. Ідеальний інструмент для створення легких і повітряних художніх картин тушшю.<\/p>",
             "column_placement": "left"
           }
         },
@@ -95,11 +95,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>Безкоштовна стандартна доставка замовлень на суму понад 100 доларів США<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -114,7 +114,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -126,8 +126,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Key Features: light translucent texture, saturated color and a nice satin finish. The inks adhere perfectly to synthetic smooth surfaces and dry quickly.<\/li><li>High Lightfastness: our inks have lightfastness level of 7-10 which means the colors stay bright for a long time.<\/li><li>Economy In Use: one bottle of ink is sufficient for a minimum of 2 paintings of 100:70 cm (39.37:27.56 in) format, which is a sign of high economy in use.<\/li><li>Mix Colors Easily With Each Other, and dilute to the desired concentration with KAMENSKAYA special alcohol blending solution.<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Основні характеристики: легка напівпрозора текстура, насичений колір і приємне сатинування. Чорнила чудово прилягають до синтетичних гладких поверхонь і швидко висихають.<\/li><li>Висока світлостійкість: наші чорнила мають рівень світлостійкості 7-10, що означає, що кольори залишаються яскравими протягом тривалого часу.<\/li><li>Економія у використанні: однієї пляшки чорнила достатньо для створення мінімум 2 картин форматом 100:70 см (39,37:27,56 дюйма), що є ознакою високої економії у використанні.<\/li><li>Легко змішуйте кольори один з одним і розбавляйте до потрібної концентрації спеціальним спиртовим розчином KAMENSKAYA.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -137,8 +137,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Recommendations",
-            "content": "<p>- Use covering materials and gloves when handling the ink<\/p><p>- Apply the ink on a smooth, non-absorbent surface. Shake the bottle before use<\/p><p>- Dilute the ink with blending solution or alcohol to the required consistency (saturation) when working in Ink Art technique<\/p><p>- Pour the diluted ink onto the surface and paint under the pressure of a hairdryer. Make circular motions around the drop to form nice edges<\/p><p>- Add a few drops of metallic ink to the paint to create a weightless golden spider web<\/p><p>- Finish by coating the painting with an acrylic spray varnish to increase the durability of your image.<\/p><p>The time to experiment is now! Let's create together!<\/p><p><strong>Tips:<\/strong><\/p><p>1.After drying, we recommend covering the image with an aerosol acrylic varnish in several layers to preserve the image.<\/p><p>2.The ideal ink tandem is with a blending solution (not only do you dilute the paint with it, but you also get a medium fixation of the image on the surface, which saves you paint, time and gives comfort in your work).<\/p><p>3.Use smooth, non-absorbent surfaces to work with inks.<\/p><p>4.The ideal dilution ratio for ink and blending solution is 1:6-1:7, where 1 is ink.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
+            "heading": "Рекомендації",
+            "content": "<p>- Використовуйте захисні матеріали та рукавички під час роботи з чорнилом<\/p><p>- Нанесіть чорнило на гладку невбираючу поверхню. Перед використанням флакон струсити<\/p><p>- Розведіть чорнило розчином для змішування або спиртом до необхідної консистенції (насиченості) при роботі в техніці Ink Art<\/p><p>- Pour the diluted ink onto the surface and paint under the pressure of a hairdryer. Make circular motions around the drop to form nice edges<\/p><p>- Add a few drops of metallic ink to the paint to create a weightless golden spider web<\/p><p>- Finish by coating the painting with an acrylic spray varnish to increase the durability of your image.<\/p><p>The time to experiment is now! Let's create together!<\/p><p><strong>Tips:<\/strong><\/p><p>1.After drying, we recommend covering the image with an aerosol acrylic varnish in several layers to preserve the image.<\/p><p>2.The ideal ink tandem is with a blending solution (not only do you dilute the paint with it, but you also get a medium fixation of the image on the surface, which saves you paint, time and gives comfort in your work).<\/p><p>3.Use smooth, non-absorbent surfaces to work with inks.<\/p><p>4.The ideal dilution ratio for ink and blending solution is 1:6-1:7, where 1 is ink.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -148,8 +148,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/>Avoid sudden temperature changes and open sunlight.<\/p>",
+            "heading": "Зберігання та термін придатності",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. Уникати різких перепадів температури та відкритих сонячних променів.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -157,7 +157,7 @@
         "103e720b-049d-4099-a527-de2cb6f22e8f": {
           "type": "featured_products",
           "settings": {
-            "heading": "Pairs well with",
+            "heading": "Добре поєднується з",
             "column_placement": "left",
             "max_products": 10,
             "product_source": "app-recommendations",
@@ -480,7 +480,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані продукти",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -493,10 +493,10 @@
     "04e104fd-5b51-479c-85e3-7b140cf8b0f5": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Alcohol Inks Collections",
+        "heading": "Колекції спиртових чорнил",
         "subheading": "",
         "link": "shopify:\/\/collections\/alcohol-inks",
-        "link_text": "View all alcohol inks",
+        "link_text": "Переглянути всі спиртові чорнила",
         "columns": "4",
         "mobile_columns": "2",
         "collection_list": [
