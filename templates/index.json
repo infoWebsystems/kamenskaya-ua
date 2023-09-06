@@ -1600,20 +1600,20 @@
         "1654916105bea353be-0": {
           "type": "accent",
           "settings": {
-            "accent": "Video"
+            "accent": "Відео"
           }
         },
         "1654916105bea353be-1": {
           "type": "heading",
           "settings": {
-            "title": "Alcohol Inks Magic Factory",
+            "title": "Чарівна фабрика спиртових чорнил",
             "heading_font_class": "fs-heading-display-3"
           }
         },
         "535519ef-68f5-42dd-8ad6-15ab68afaa95": {
           "type": "subheading",
           "settings": {
-            "subheading": "Products made with love for artists all over the world",
+            "subheading": "Вироби, створені з любов'ю для художників усього світу",
             "subheading_font_class": "fs-heading-5-base"
           }
         },
@@ -1622,7 +1622,7 @@
           "settings": {
             "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/864c3533b17f40c5b664c59f1fd07b0c.mp4",
             "aspect_ratio": "natural",
-            "text": "Watch now",
+            "text": "Дивитися зараз",
             "icon_style": "light"
           }
         }
