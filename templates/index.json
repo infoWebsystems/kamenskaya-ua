@@ -1289,20 +1289,6 @@
             "author": "Elena (Instagram - @mazurok_art)"
           }
         },
-        "1655856194e7b43695-0": {
-          "type": "testimonial",
-          "settings": {
-            "product": "",
-            "hide_product_or_image": true,
-            "image_position": "right",
-            "aspect_ratio": "square",
-            "focal_point": "image_presentation",
-            "show_rating": true,
-            "rating": 5,
-            "quote": "I am an alcohol ink artist based in the US and have used tons of different ink brands, Kamenskaya inks are extremely high quality and I love working with them! The Basic A Line inks are very saturated and lovely to work with. They give a stunning intense color and beautiful detail to your painting. My favorite inks from Kamenskaya however are the Nude inks! I am obsessed with these opaque inks! I use the nude inks in almost every single painting I make since the first time trying them. They’re a fantastic addition to my style of painting, adding a different texture and interesting details to my art that cannot be achieved with other products! If you are an alcohol ink artist, you NEED this brand! ",
-            "author": "Jessica, USA (Instagram - @artvibesbyjess)"
-          }
-        },
         "9f9fc372-6898-4839-95d2-3d0bd519d8fa": {
           "type": "testimonial",
           "settings": {
@@ -1329,6 +1315,20 @@
             "rating": 5,
             "quote": "Alcohol paints and layering paints are my любов❤️‍🔥 The cosmic effects they create are incredible🤤.Once I tried it, it's hard to work with other techniques at all, because the process of working with them is like meditation🤤Also, texture pastes, latex, canvas are a godsend, and you can experiment with these materials as much as you want🤍Thank you very much for creating such incredibly high-quality матеріали❤️I am proud that we, Ukrainians, have such talented people - professionals! You are an inspiration!",
             "author": "Martina (Instagram - @martina_popovich)"
+          }
+        },
+        "1655856194e7b43695-0": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "hide_product_or_image": true,
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "I am an alcohol ink artist based in the US and have used tons of different ink brands, Kamenskaya inks are extremely high quality and I love working with them! The Basic A Line inks are very saturated and lovely to work with. They give a stunning intense color and beautiful detail to your painting. My favorite inks from Kamenskaya however are the Nude inks! I am obsessed with these opaque inks! I use the nude inks in almost every single painting I make since the first time trying them. They’re a fantastic addition to my style of painting, adding a different texture and interesting details to my art that cannot be achieved with other products! If you are an alcohol ink artist, you NEED this brand! ",
+            "author": "Jessica, USA (Instagram - @artvibesbyjess)"
           }
         },
         "1655856194e7b43695-1": {
@@ -1561,9 +1561,9 @@
         "65a40a5e-724c-499c-89e6-df3bd3a540a7",
         "d46d2cd6-b6bf-478b-9351-73b957999d6b",
         "ca81a77c-2198-47c1-8e31-57386698ac26",
-        "1655856194e7b43695-0",
         "9f9fc372-6898-4839-95d2-3d0bd519d8fa",
         "a6cba2d1-5962-495b-8512-45a6cebbaa3a",
+        "1655856194e7b43695-0",
         "1655856194e7b43695-1",
         "1655856194e7b43695-2",
         "e8806590-4221-4f85-97fe-1a1bc10326ef",
