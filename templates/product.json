@@ -20,7 +20,7 @@
           "type": "product_callouts_mini",
           "settings": {
             "icon_1": "none",
-            "text_1": "Чорнило Мистецтво",
+            "text_1": "Ink Art",
             "icon_2": "none",
             "text_2": "",
             "icon_3": "chat",
@@ -37,7 +37,7 @@
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Об'єм: 15 мл (0,51 рідкої унції)"
+            "custom_liquid": "Об'єм: 15 мл"
           }
         },
         "text": {
@@ -97,7 +97,7 @@
             "icon_3": "chat",
             "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Безкоштовна стандартна доставка замовлень на суму понад 100 доларів США<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
             "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
@@ -480,7 +480,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Рекомендовані продукти",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
