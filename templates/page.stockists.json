@@ -526,9 +526,9 @@
       ],
       "settings": {
         "alignment": "center_center",
-        "heading": "ДЛЯ ОПТОВИКІВ",
+        "heading": "ЗАЦІКАВЛЕНІ В СПІВРОБІТНИЦТВІ?",
         "heading_font_class": "fs-heading-3-base",
-        "text": "<p><strong>СПЕЦІАЛЬНІ УМОВИ ДЛЯ ДИСТРИБ'ЮТОРІВ ТА ДИЛЕРІВ ПО ВСЬОМУ СВІТУ<\/strong><\/p><p>Маєте запитання\/пропозиції щодо співпраці? Зв'яжіться з нами, заповнивши форму.<\/p><p><em>Або напишіть нам на електронну пошту: partnership@kamenskaya.store<\/em><\/p>",
+        "text": "<p><strong>СПЕЦІАЛЬНІ УМОВИ ДЛЯ ДИСТРИБ'ЮТОРІВ ТА ДИЛЕРІВ<\/strong><\/p><p>Зв'яжіться з нами, заповнивши форму.<\/p><p><em>Або напишіть нам на електронну пошту: partnership@kamenskaya.store<\/em><\/p>",
         "show_recaptcha_terms": true,
         "enable_animation": true,
         "divider_style": "none",
