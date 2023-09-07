@@ -781,7 +781,7 @@
         "16548834735b1dc2a7-0": {
           "type": "hotspot",
           "settings": {
-            "product_item": "ink-art-coloring-set-ballerinas",
+            "product_item": "coarse-texture-paste",
             "horizontal_position": 37,
             "vertical_position": 69
           }
@@ -811,12 +811,12 @@
         "16548834735b1dc2a7-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ballerinas_2.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8581.jpg",
         "image_position": "left",
         "image_size": 50,
-        "aspect_ratio": "portrait_alt",
-        "heading": "Почни знайомство зі спиртовими чорнилами",
-        "subheading": "<p>11 боксів з усіма матеріалами та відеоінструкцією для створення трьох картин на обрану тему<\/p>",
+        "aspect_ratio": "natural",
+        "heading": "Набирає популярність",
+        "subheading": "<p>Створюй оригінальні картини з використанням текстурної пасти з піском<\/p>",
         "link": "",
         "link_text": "Купити зараз",
         "button_style": "btn--callout",
