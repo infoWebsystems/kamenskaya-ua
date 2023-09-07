@@ -156,6 +156,7 @@
         },
         "103e720b-049d-4099-a527-de2cb6f22e8f": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Добре поєднується з",
             "column_placement": "left",
