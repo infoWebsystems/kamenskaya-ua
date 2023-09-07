@@ -54,7 +54,7 @@
       ],
       "settings": {
         "alignment": "left_left",
-        "heading": "ОБСЛУГОВУВАННЯ КЛІЄНТІВ",
+        "heading": "ПІДТРИМКА КЛІЄНТІВ",
         "heading_font_class": "fs-heading-2-base",
         "text": "",
         "show_recaptcha_terms": true,
@@ -120,7 +120,7 @@
           "type": "column",
           "settings": {
             "accent": "",
-            "heading": "+37127900950",
+            "heading": "+380503524898",
             "heading_link": "tel:+37127900950",
             "heading_font_class": "fs-heading-4-base",
             "text": "<p>Пн-Пт з 09:00 до 18:00,<br\/>Пт з 09:00 до 17:00<\/p>",
@@ -148,27 +148,13 @@
         },
         "template--19727828582683__60501da8-491f-46bd-b637-adfc4b0e8449-16890674532b00705a-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "accent": "",
-            "heading": "SIA «Kamenskaya Ink»",
+            "heading": "ФОП Каменськая Н. М.",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
             "text": "<p>Реєстраційний номер 50203401631<\/p>",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--primary"
-          }
-        },
-        "template--19727828582683__60501da8-491f-46bd-b637-adfc4b0e8449-16890674532b00705a-3": {
-          "type": "column",
-          "settings": {
-            "accent": "",
-            "heading": "Riga, Latvia",
-            "heading_link": "",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Elizabetes iela 10B - 22<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -183,7 +169,22 @@
             "heading": "partnership@kamenskaya.store",
             "heading_link": "mailto:partnership@kamenskaya.store",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Для співпраці<\/p>",
+            "text": "<p>з питань співпраці<\/p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "template--19727828582683__60501da8-491f-46bd-b637-adfc4b0e8449-16890674532b00705a-3": {
+          "type": "column",
+          "settings": {
+            "accent": "",
+            "heading": "Telegram",
+            "heading_link": "https:\/\/t.me\/kamenskaya_ink_art",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>@kamenskaya_ink_art<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -196,8 +197,8 @@
         "template--19727828582683__60501da8-491f-46bd-b637-adfc4b0e8449-16890674532b00705a-0",
         "template--19727828582683__60501da8-491f-46bd-b637-adfc4b0e8449-16890674532b00705a-1",
         "template--19727828582683__60501da8-491f-46bd-b637-adfc4b0e8449-16890674532b00705a-2",
-        "template--19727828582683__60501da8-491f-46bd-b637-adfc4b0e8449-16890674532b00705a-3",
-        "9365b40e-5468-4c74-9564-32244639d5de"
+        "9365b40e-5468-4c74-9564-32244639d5de",
+        "template--19727828582683__60501da8-491f-46bd-b637-adfc4b0e8449-16890674532b00705a-3"
       ],
       "settings": {
         "title": "",
