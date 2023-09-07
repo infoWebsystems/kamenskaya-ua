@@ -128,13 +128,13 @@
             "icon": "none",
             "icon_width": 100,
             "icon_width_mobile": 102,
-            "accent": "МАСТЕРИЦЯ",
+            "accent": "МАЙСТРИНЯ",
             "heading": "Все для творчості",
             "heading_font_class": "fs-heading-4-base",
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/masterica.com.ua\/search\/catalog.php?q=kamenskaya&f%5B0%5D%5B0%5D%5B%3DMODULE_ID%5D=iblock&f%5B0%5D%5B0%5D%5BPARAM1%5D=catalog&f%5B0%5D%5B0%5D%5BPARAM2%5D%5B0%5D=16&f%5B0%5D%5BLOGIC%5D=OR",
+            "link": "https:\/\/masterica.com.ua\/ua\/search\/catalog.php?q=kamenskaya&f%5B0%5D%5B0%5D%5B%3DMODULE_ID%5D=iblock&f%5B0%5D%5B0%5D%5BPARAM1%5D=catalog&f%5B0%5D%5B0%5D%5BPARAM2%5D%5B0%5D=16&f%5B0%5D%5BLOGIC%5D=OR",
             "link_text": "ВІДВІДАТИ ВЕБ-САЙТ",
             "button_style": "btn--primary"
           }
