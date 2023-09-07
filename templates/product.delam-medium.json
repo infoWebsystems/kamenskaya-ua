@@ -37,21 +37,21 @@
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Volume: 40 ml (1.35 fl oz)"
+            "custom_liquid": "Об'єм: 30 мл"
           }
         },
         "9bd61dee-ffb6-447a-98ab-102450637825": {
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Delamination degree: medium"
+            "custom_liquid": "Рівень розшарування: середній"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Delaminating inks. If you're looking for experiments and want to create something new and unusual, you should definitely try these inks! You can use them to create volume without physically creating volume. Incredible texture. Paintings create themselves!<\/p>",
+            "text": "<p>Розшаровующі чорнила. Якщо ви шукаєте експерименти і хочете створити щось нове та незвичне, вам неодмінно варто спробувати ці чорнила! Ви можете використовувати їх для створення об'єму без фізичного створення об'єму. Неймовірна текстура. Картини створюють самі себе!<\/p>",
             "column_placement": "left"
           }
         },
@@ -102,11 +102,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -121,7 +121,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -133,8 +133,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Create Something New And Unique with 23 different shades of KAMENSKAYA delaminating alcohol inks which you could use to create volume without physically creating volume. Technically inks split into hundreds of small particles and form fantastic patterns!<\/li><li>The Shades Are Lightfast and not affected by direct sunlight. In addition to painting in ink art tecnhique you could use these alcohol inks for epoxy resin.<\/li><li>Get New Effects In Your Art by combining delaminating inks with other lines of KAMENSKAYA alcohol inks.<\/li><li>Follow The Instructions on how to achieve and enhance delamination effect.<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Створіть щось нове та унікальне з 23 різними відтінками спиртових чорнил для розшарування KAMENSKAYA, які можна використовувати для створення об'єму без фізичного створення об'єму. Технологічно фарби розщеплюються на сотні дрібних частинок і утворюють фантастичні візерунки!<\/li><li>Відтінки є світлостійкими і не піддаються впливу прямих сонячних променів. Окрім малювання спиртовими чорнилами, ви можете використовувати ці спиртові чорнила для епоксидної смоли.<\/li><li>Отримуйте нові ефекти у своїй творчості, комбінуючи розшаровувающі чорнила з іншими лінійками спиртових чорнил KAMENSKAYA.<\/li><li>Дотримуйтесь інструкції, як досягти та посилити ефект розшарування.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -144,8 +144,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Recommendations",
-            "content": "<p><strong>Method 1 <\/strong>(to achieve self-splitting effect)<strong>:<\/strong> <\/p><p>Dilute the ink with thinner in a cup, pour onto the surface and wait until completely dry. No need to use a dryer.<br\/><br\/><strong>Method 2 <\/strong>(to achieve standard alcohol inks look without self-splitting effect)<strong>:<\/strong> <\/p><p>Pour ink on the surface and dry it with a dryer as you would do with a normal alcohol ink.<br\/><br\/>To enhance original delamination effect (which could be high, medium or low, as shown on a bar at the product sticker) you will need to add water to alcohol (70% should be alcohol and 30% - water).<br\/><br\/>Add Kamenskaya alcohol varnish to alcohol to provide extra protection for your painting.<\/p><p><strong>Tips:<\/strong><\/p><p>1. The more you dilute the inks, the less grit is formed. Correspondingly, the less, the tighter the grain.<\/p><p>2. Inks with different degrees of separation do not mix together to create a third colour, they dry in two colours. This looks stunning, it’s worth trying it!<\/p><p>3. Inks of the same degree of layering work well together.<\/p><p>4. The inks work well with inks from other lines.<\/p><p>5. After drying coat the image with a few coats of spray acrylic varnish (not needed if you use Kamenskaya alcohol varnish).<\/p><p>6. Make sure that the surface you are working on is flat so that the drawing does not move away while drying.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
+            "heading": "Рекомендації",
+            "content": "<p><strong>Спосіб 1 <\/strong>(для досягнення ефекту розшарування): Розведіть чорнила розчинником у стаканчику, вилийте на поверхню і дочекайтеся повного висихання. Не потрібно використовувати фен.<br\/><strong>Спосіб 2<\/strong> (для досягнення стандартного вигляду спиртових чорнил без ефекту розшарування): Налийте чорнила на поверхню і висушіть їх за допомогою фена, як звичайні спиртові чорнила. <br\/><br\/>Щоб підсилити початковий ефект розшарування (який може бути високим, середнім або низьким, як показано на смужці на етикетці продукту), вам потрібно буде додати води до спирту (70% має бути спирт і 30% - вода).<br\/>Додайте до спирту спиртовий лак від KAMENSKAYA, щоб забезпечити додатковий захист вашої картини.<br\/><br\/><strong>Поради:<\/strong><br\/>1. Фарби з різним ступенем розшарування не змішуються між собою для створення третього кольору, вони сохнуть двома кольорами. Виглядає приголомшливо, варто спробувати!<br\/>2. Чорнила з однаковим ступенем розшарування добре поєднуються між собою.<br\/>3. Чорнила добре поєднуються з чорнилами з інших лінійок.<br\/>4. Після висихання покрийте зображення декількома шарами акрилового лаку (не потрібно, якщо ви використовуєте спиртовий лак KAMENSKAYA).<br\/>5. Переконайтеся, що поверхня, на якій ви працюєте, рівна, щоб малюнок не з'їхав під час висихання.<\/p><p><strong>Заходи безпеки: <\/strong>Працювати в провітрюваних приміщеннях, продукти легкозаймисті, зберігати в недоступному для дітей місці та подалі від відкритих джерел вогню. Використовувати строго за призначенням. У разі потрапляння на слизові оболонки ретельно промити водою і при необхідності звернутися до лікаря.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -155,14 +155,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/>Avoid sudden temperature changes and open sunlight.<\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. Уникати різких перепадів температури та відкритих сонячних променів.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "9bb168ea-51d1-4009-a9f9-cc3612efba6b": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -488,7 +489,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -501,10 +502,10 @@
     "a1a03aae-1ead-456b-a98c-364631361d38": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Alcohol Inks Collections",
+        "heading": "Колекції спиртових чорнил",
         "subheading": "",
         "link": "shopify:\/\/collections\/alcohol-inks",
-        "link_text": "View all alcohol inks",
+        "link_text": "Переглянути всі спиртові чорнила",
         "columns": "4",
         "mobile_columns": "2",
         "collection_list": [
