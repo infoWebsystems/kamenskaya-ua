@@ -191,6 +191,21 @@
             "link_text": "",
             "button_style": "btn--primary"
           }
+        },
+        "e63e2595-35fc-4b51-aab6-74f2da902d48": {
+          "type": "column",
+          "settings": {
+            "accent": "",
+            "heading": "WhatsApp",
+            "heading_link": "",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>+37127900950<\/p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
         }
       },
       "block_order": [
@@ -198,7 +213,8 @@
         "template--19727828582683__60501da8-491f-46bd-b637-adfc4b0e8449-16890674532b00705a-1",
         "template--19727828582683__60501da8-491f-46bd-b637-adfc4b0e8449-16890674532b00705a-2",
         "9365b40e-5468-4c74-9564-32244639d5de",
-        "template--19727828582683__60501da8-491f-46bd-b637-adfc4b0e8449-16890674532b00705a-3"
+        "template--19727828582683__60501da8-491f-46bd-b637-adfc4b0e8449-16890674532b00705a-3",
+        "e63e2595-35fc-4b51-aab6-74f2da902d48"
       ],
       "settings": {
         "title": "",
