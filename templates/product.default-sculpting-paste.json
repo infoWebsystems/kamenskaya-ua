@@ -20,9 +20,9 @@
           "type": "product_callouts_mini",
           "settings": {
             "icon_1": "none",
-            "text_1": "Textured Art",
+            "text_1": "Текстурний живопис",
             "icon_2": "none",
-            "text_2": "Sculpting",
+            "text_2": "Скульпутурне мистецтво",
             "icon_3": "chat",
             "text_3": "",
             "icon_4": "none",
@@ -37,7 +37,7 @@
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Volume: 500 ml (16.9 fl oz)"
+            "custom_liquid": "Об'єм: 500 мл"
           }
         },
         "variant_picker": {
@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Sculpting paste. Dense, creates shape and volume, doesn't crack. <\/p><p>Available in 2 options:<\/p><ol><li>White matte.<\/li><li>For mixing with color.<\/li><\/ol>",
+            "text": "<p>Паста для ліплення. Щільна, створює форму та об'єм, не розтріскується. <\/p><p>Доступна у 2 варіантах:<\/p><ol><li>Біла матова.<\/li><li>Для змішування з кольором.<\/li><\/ol>",
             "column_placement": "left"
           }
         },
@@ -95,11 +95,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -114,7 +114,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -126,8 +126,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Plastic mass for sculpting. Creates shape and volume. Available in 2 options: White matte and For mixing with color.<\/li><li>Used for paintings, botanical and other bas-reliefs, sculptures and decorative objects.<\/li><li>Lighter analogue of self hardening clay. Unlike clay, the paste forms a firmer material after drying, similar to plastic. It easily adheres even to very slippery surfaces such as glass. It is enough to moisten the base with water, install the workpiece and give time for it to stick.<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Пластична маса для ліплення. Створює форму та об'єм. Доступна у 2 варіантах: біла матова та для змішування з кольором.<\/li><li>Використовується для картин, ботанічних та інших барельєфів, скульптур та декоративних об'єктів. <\/li><li>Легший аналог самозастигаючої глини. <br\/>На відміну від глини, паста після висихання утворює більш твердий матеріал, схожий на пластик. Легко прилипає навіть до дуже слизьких поверхонь, таких як скло. Достатньо змочити основу водою, встановити заготовку і дати час, щоб вона прилипла.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -149,14 +149,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months unopened. <br\/>Store at the temperature of 5-25 C.<\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців в закритому вигляді.<br\/>Зберігати при температурі від 5 до 25 градусів Цельсія<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "e982f9e4-29d9-4327-8c9d-21163232d556": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -481,7 +482,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -494,10 +495,10 @@
     "b4869115-d8b4-4d46-afeb-70e35af1a93a": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Acrylic Collections",
+        "heading": "Акрил",
         "subheading": "",
         "link": "shopify:\/\/collections\/acrylic",
-        "link_text": "View all acrylic products",
+        "link_text": "Переглянути всі акрилові товари",
         "columns": "3",
         "mobile_columns": "2",
         "collection_list": [
