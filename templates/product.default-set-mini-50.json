@@ -50,7 +50,7 @@
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Об'єм: 50 од., 15 мл"
+            "custom_liquid": "Об'єм: 50 од., 5 мл"
           }
         },
         "text": {
