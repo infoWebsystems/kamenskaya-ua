@@ -20,7 +20,7 @@
           "type": "product_callouts_mini",
           "settings": {
             "icon_1": "none",
-            "text_1": "Textured Art",
+            "text_1": "Текстурний живопис",
             "icon_2": "padlock",
             "text_2": "",
             "icon_3": "chat",
@@ -50,7 +50,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Texture fiber for creating 3D fabric textures. 11 elastic fabric pieces (35x40 cm each) moistened in a thick composition to create a shape.<\/p>",
+            "text": "<p>Текстурне волокно для створення 3D тканинних текстур. 11 еластичних шматків тканини (35x40 см кожен), змочених у густій суміші для створення форми.<\/p>",
             "column_placement": "left"
           }
         },
@@ -88,11 +88,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -107,7 +107,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -119,8 +119,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Textural (modeling) fiber - piece of fabric soaked in a special elastic material for creating 3D fabric textures.<\/li><li>Does not crack.<\/li><li>Keeps the shape well and has hight adhesive properties.<\/li><li>Moisture resistant.<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Текстурне (моделююче) волокно - шматок тканини, змочений спеціальним еластичним матеріалом для створення 3D-текстури тканини. <\/li><li>Не розтріскується. <\/li><li>Добре тримає форму і має високі адгезійні властивості.<\/li><li>Вологостійке.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -142,8 +142,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months unopened. <br\/>Store at the temperature of 5-25 C.<\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців в закритому вигляді.<br\/>Зберігати при температурі від 5 до 25 градусів Цельсія<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -474,7 +474,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -487,10 +487,10 @@
     "acbd7f2a-83f8-4036-a99c-4fb7186e8902": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Acrylic Collections",
+        "heading": "Акрил",
         "subheading": "",
         "link": "shopify:\/\/collections\/acrylic",
-        "link_text": "View all acrylic products",
+        "link_text": "Переглянути всі акрилові товари",
         "columns": "3",
         "mobile_columns": "2",
         "collection_list": [
