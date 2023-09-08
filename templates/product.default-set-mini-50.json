@@ -50,14 +50,14 @@
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Volume: 50 pcs. x 5 ml (0.17 fl oz)"
+            "custom_liquid": "Об'єм: 50 од., 15 мл"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>No need to choose one color from many! Try more with our set of miniatures! 50 stunning shades in a handy bag!<\/p>",
+            "text": "<p>Не потрібно обирати один колір з багатьох! Спробуй більше з нашим набором мініатюр! 50 приголомшливих відтінків в наборі!<\/p>",
             "column_placement": "left"
           }
         },
@@ -95,11 +95,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -114,7 +114,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -126,8 +126,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>The Set Contains 50 inks 5 ml each: 34 inks of basic A line (dye based, luxurious translucent concentrated shades) and 16 inks of 'Nude' line (pigment inks in delicate pastel shades.<\/li><li>High Lightfastness - our inks have lightfastness level of 7-10 which means the colors stay bright for a long time.<\/li><li>Mix Colors Easily With Each Other, and dilute to the desired concentration with KAMENSKAYA special alcohol blending solution.<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Набір містить 50 чорнил по 5 мл кожне: 34 чорнила базової лінії А (розкішні напівпрозорі концентровані відтінки на основі барвників) та 16 чорнил лінії \"Nude\" (пігментні чорнила ніжних пастельних відтінків).<\/li><li>Висока світлостійкість - наші чорнила мають рівень світлостійкості 7-10, що означає, що кольори залишаються яскравими протягом тривалого часу.<\/li><li>Кольори легко змішуються між собою, а також розбавляються до потрібної концентрації спеціальним розчинником для спиртових чорнил KAMENSKAYA.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -137,8 +137,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Recommendations",
-            "content": "<p><strong>Tips:<\/strong><\/p><p>1.Make sure to use blending solution to keep the colour vibrant and to ensure the image stays firmly fixed to the format.<\/p><p>2.Work with inks on smooth and non-absorbent surfaces for the desired results.<\/p><p>3.If you are painting for the first time, we recommend to watch the instructional videos on our YouTube channel or in the 'Blog' section on the website.<\/p><p>4.After drying, spray the image with an acrylic varnish.<\/p><p>5.We recommend using a glossy varnish for images that contain metallic inks.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
+            "heading": "Рекомендації",
+            "content": "<p>1.Обов'язково використовуйте розчинник для чорнил, щоб зберегти яскраві кольори та забезпечити міцне закріплення зображення на форматі.<\/p><p>2. Для досягнення бажаного результату працюйте з чорнилами на гладких поверхнях, що не вбирають вологу.<\/p><p>3. Якщо ви малюєте вперше, рекомендуємо переглянути навчальні відео на нашому каналі YouTube або в розділі \"Блог\" на сайті.<\/p><p>4. Після висихання покрийте зображення акриловим лаком.<\/p><p><strong>Заходи безпеки:<\/strong> Працювати в провітрюваних приміщеннях, продукти легкозаймисті, зберігати в недоступному для дітей місці та подалі від відкритих джерел вогню. Використовувати строго за призначенням. У разі потрапляння на слизові оболонки ретельно промити водою і при необхідності звернутися до лікаря.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -148,14 +148,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/>Avoid sudden temperature changes and open sunlight.<\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. Уникати різких перепадів температури та відкритих сонячних променів.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "18fe67d7-e2ec-4024-9aa2-ff04747e48b4": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -480,7 +481,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -493,10 +494,10 @@
     "7fa8c37a-364d-424c-931f-6a2798129bb8": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Alcohol Inks Collections",
+        "heading": "Колекції спиртових чорнил",
         "subheading": "",
         "link": "shopify:\/\/collections\/alcohol-inks",
-        "link_text": "View all alcohol inks",
+        "link_text": "Переглянути всі спиртові чорнила",
         "columns": "4",
         "mobile_columns": "2",
         "collection_list": [
