@@ -37,7 +37,7 @@
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Volume: 20 ml (0.68 fl oz)"
+            "custom_liquid": "Об'єм: 20 мл"
           }
         },
         "variant_picker": {
@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Super fast shining liquid leaf. Perfect material for gilding. These opaque inks perfectly imitate precious metals, lay down in a thin layer like leaf gilding and dry instantly.<\/p>",
+            "text": "<p>Cупер сяюча рідка поталь. Ідеальний матеріал для позолоти. Ці непрозорі чорнила чудово імітують дорогоцінні метали, лягають тонким шаром, як позолота, і миттєво висихають.<\/p>",
             "column_placement": "left"
           }
         },
@@ -95,11 +95,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -114,7 +114,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -126,8 +126,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Liquid Gilding Line - perfect material for gilding with 6 different shades, recommended for creating decorative elements in paintings and other decor items, can be used in combination with alcohol inks and for working with epoxy resin.<\/li><li>Imitates Precious Metals, thin and opaque, perfectly repeats the structure of the base, lay in a thin layer like gold leaf and dry instantly (drying time is 5-10 minutes).<\/li><li>Get Shine Of Natural Metal and high smoothness thanks to the natural metallic pigments with a particle size of 5-15 microns.<\/li><li>Don’t Worry About Color Darkening - the product is enriched with a varnish on the basis of natural resins which provides color protection.<\/li><li>Convenient Application - the jar is supplied with a brush integrated in the cap.<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Рідка позолота - ідеальний матеріал для позолоти з 6 різними відтінками, рекомендований для створення декоративних елементів на картинах та інших предметах декору, може використовуватися в поєднанні зі спиртовими чорнилами та для роботи з епоксидною смолою.<\/li><li>Імітує дорогоцінні метали, тонка і непрозора фарба, ідеально повторює структуру основи, лягає тонким шаром як сусальне золото і миттєво сохне (час висихання 5-10 хвилин).<\/li><li>Отримайте блиск натурального металу та високу гладкість завдяки натуральним металевим пігментам з розміром частинок 5-15 мікрон.<\/li><li>Не турбуйтеся про потемніння кольору - продукт збагачений лаком на основі натуральних смол, який забезпечує захист кольору.<\/li><li>Зручне нанесення - баночка постачається з пензликом, розташованим у кришечці.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -137,8 +137,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Recommendations",
-            "content": "<p><strong>Tips:<\/strong><\/p><p>1. If the inks are dry, you can \"revive\" them by adding a small amount of blending solution.<\/p><p>2. Work with inks on degreased, dry surfaces.<\/p><p>3. Keep the lid on, it should always be screwed on tightly to prevent the product from drying out.<\/p><p>4. When dry, varnish the image with a special patina varnish or waterless spray acrylic varnish.<\/p><p>5. Gold, bronze, copper gilding can be used in the same way as the metallic inks.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
+            "heading": "Рекомендації",
+            "content": "<p><strong>Поради:<\/strong><\/p><p>1. Якщо фарби висохли, ви можете \"оживити\" їх, додавши невелику кількість розчинника для чорнил.<\/p><p>2. Працюйте з фарбами на знежирених, сухих поверхнях.<\/p><p>3. Тримайте кришку щільно закрученою, щоб запобігти висиханню продукту.<\/p><p>4. Після висихання покрити зображення спеціальним лаком-патиною або безводним акриловим лаком в аерозолі.<\/p><p>5. Золоту, бронзову, мідну позолоту можна використовувати так само, як і чорнила металіки.<\/p><p><strong>Заходи безпеки: <\/strong>Працювати в провітрюваних приміщеннях, продукти легкозаймисті, зберігати в недоступному для дітей місці та подалі від відкритих джерел вогню. Використовувати строго за призначенням. У разі потрапляння на слизові оболонки ретельно промити водою і при необхідності звернутися до лікаря.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -148,14 +148,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/>Avoid sudden temperature changes and open sunlight.<\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. Уникати різких перепадів температури та відкритих сонячних променів.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "383eeb5b-f920-446c-981a-8c90b9d14096": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -480,7 +481,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -493,10 +494,10 @@
     "5dc9a19f-849d-45dc-8e29-c7b32060256d": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Alcohol Inks Collections",
+        "heading": "Колекції спиртових чорнил",
         "subheading": "",
         "link": "shopify:\/\/collections\/alcohol-inks",
-        "link_text": "View all alcohol inks",
+        "link_text": "Переглянути всі спиртові чорнила",
         "columns": "4",
         "mobile_columns": "2",
         "collection_list": [
