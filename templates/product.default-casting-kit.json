@@ -20,7 +20,7 @@
           "type": "product_callouts_mini",
           "settings": {
             "icon_1": "none",
-            "text_1": "Casting",
+            "text_1": "Художнє лиття",
             "icon_2": "none",
             "text_2": "",
             "icon_3": "chat",
@@ -50,7 +50,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Eco Resin Casting kit with all materials needed to create beautiful decorative elements.<\/p><p>Our kit will help you create unique and stylish decor items. A great gift for yourself and your loved ones. Creativity without leaving home! 30 minutes and done! You can create with children!<\/p>",
+            "text": "<p>Набір для художнього лиття з еко-смоли з усіма матеріалами, необхідними для створення красивих декоративних елементів.<\/p><p>Наш набір допоможе вам створити унікальні та стильні предмети декору. Чудовий подарунок для себе та своїх близьких. Творчість не виходячи з дому! 30 хвилин і готово! Можна творити разом з дітьми!<\/p>",
             "column_placement": "left"
           }
         },
@@ -88,11 +88,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -107,7 +107,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -119,8 +119,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Eco Resin Casting Kit: all materials you need to create beautiful decorative elements. 2 different reusable silicone molds, 2.2 lb of powder with acrylic emulsion, measuring cups, cups and sticks for mixing, special liquid for removing bubbles, 6 colors with imitation of marble, sandpaper for finishing, leaflet with instructions.<\/li><li>Create At Least 15 Decor Items with Marble Effect: This kit contains everything you need to create at least 15 decorative objects, including reusable silicone molds in stylish shape and 6 unique colors with imitation of marble effect that will make your decor objects look like they are made of stone.<\/li><li>Environmentally Friendly and Non-Toxic Material: Two-component material consists of mineral powder and water-based acrylic resin that is eco-friendly and has no toxic substances, making it safe for use with children and adults alike.<\/li><li>Easy-to-Use Acrylic Resin Starter Kit With High Hardness and Durability: With easy-to-follow printed and video instructions, this resin kit is perfect for beginners and includes everything you need to get started with casting. The casting compound in this kit creates objects with high hardness and durability that are perfect for display or use in your home.<\/li><li>Great Gift for Crafty Friends and Families: This eco-friendly and fun casting mold kit makes a great gift for anyone who loves crafting and creating with their hands.<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li><strong>Набір для лиття з еко-смоли:<\/strong> всі матеріали, необхідні для створення красивих декоративних елементів. 2 різні багаторазові силіконові форми, 1.5 кг порошку з акриловою емульсією, мірні чашки, стаканчики та палички для змішування, спеціальна рідина для видалення бульбашок, 6 кольорів з імітацією мармуру, наждачний папір для фінішної обробки, листівка з інструкціями.<\/li><li><strong>Створіть щонайменше 15 предметів декору з ефектом мармуру!<\/strong> Цей набір містить все необхідне для створення щонайменше 15 декоративних об'єктів, включаючи багаторазові силіконові форми стильної форми та 6 унікальних кольорів з ефектом імітації мармуру, які зроблять ваші об'єкти декору схожими на кам'яні.<\/li><li><strong>Екологічно чистий та нетоксичний матеріал<\/strong> - двокомпонентний матеріал складається з мінерального порошку та акрилової смоли на водній основі, яка є екологічно чистою та не містить токсичних речовин, що робить її безпечною для дітей та дорослих.<\/li><li><strong>Простий у використанні стартовий набір з акрилової смоли з високою твердістю та довговічністю -<\/strong> з простими у використанні друкованими та відеоінструкціями, цей набір смоли ідеально підходить для початківців і включає все необхідне для початку роботи з художнім литтям. Заливальна суміш з цього набору створює об'єкти з високою твердістю та міцністю, які ідеально підійдуть для вашого дому.<\/li><li><strong>Чудовий подарунок для творчих друзів та рідних<\/strong> - цей екологічно чистий і цікавий набір - чудовий подарунок для всіх, хто любить майструвати і творити своїми руками.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -130,8 +130,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Recommendations",
-            "content": "<p>The product should be carefully weighed and mixed. Proportions: 2 parts of powder to 1 part of resin. Fill the cup or bucket with the required amount of resin. Use a mixing spatula to create a swirling motion. While stirring, add the required amount of powder. Once you have a homogeneous mass, continue mixing for about 30 seconds more. Make sure nothing sticks to the sides or bottom of the container. Add a few drops of defoamer to get rid of any bubbles. If needed, add a coloring pigment. After mixing, the working time is 20 minutes. Remove the item from the mold after approximately 1 hour.<\/p>",
+            "heading": "Рекомендації",
+            "content": "<p>Продукт слід ретельно зважити і перемішати. Пропорції: 2 частини порошку на 1 частину смоли. Наповніть чашку або іншу ємність необхідною кількістю смоли. За допомогою шпателя для змішування створюйте обертальні рухи. Помішуючи, додайте необхідну кількість порошку. Як тільки ви отримаєте однорідну масу, продовжуйте перемішувати ще близько 30 секунд. Переконайтеся, що нічого не прилипло до стінок і дна ємності. Додайте кілька крапель піногасника, щоб позбутися бульбашок. Якщо потрібно, додайте барвник. Після перемішування час роботи становить 20 хвилин. Приблизно через 1 годину вийміть виріб з форми.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -141,8 +141,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>Keep the packaging tightly closed. Avoid freezing – product stability may be affected.<br\/>Dispose of contents and container in accordance with local, regional, and national regulations.<br\/>Shelf life<strong> <\/strong>- 1 year from the production date (indicated on the packaging).<\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>Зберігати упаковку щільно закритою. Уникайте замерзання - це може вплинути на стабільність продукту.Утилізуйте вміст і тару відповідно до місцевих, регіональних і національних норм.Термін придатності - 1 рік з дати виробництва (вказана на упаковці).<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -473,7 +473,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
