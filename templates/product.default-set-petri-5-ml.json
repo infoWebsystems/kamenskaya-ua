@@ -37,14 +37,14 @@
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Volume: 13 pcs. x 5 ml (0.17 fl oz)"
+            "custom_liquid": "Об'єм: 13 од. по 5 мл"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Petri inks - special inks for petri effects in the resin layer. A wide range of colors from bright to whitened colors, as well as shades of gold and silver, to create incredible effects in your products.<\/p>",
+            "text": "<p>Чорнила для петрі - спеціальні чорнила для створення ефекту петрі в шарі смоли. Широка палітра кольорів від яскравих до вибілених, а також відтінки золота та срібла для створення неймовірних ефектів у ваших виробах.<\/p>",
             "column_placement": "left"
           }
         },
@@ -95,11 +95,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -114,7 +114,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -126,8 +126,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Special Alcohol Inks made for resin - we have developed special pigmeneted inks for resin art based on alcohol and polymer. 13 different shades 5 ml (0.17 fl oz) each to get the effect of different colored fireworks in the resin<\/li><li>Get More Explicit Petri Effect in resin by using white petri alcohol ink (included in the set) with other colors<\/li><li>High Lightfastness - after 1 year test under direct sunlight the colors stay bright<\/li><\/ul><p><\/p>",
+            "heading": "Опис",
+            "content": "<ul><li>Спеціальні пігментні чорнила для роботи зі смолою на основі спирту та полімеру. <\/li><li>15 різних відтінків по 15 мл, щоб отримати ефект різнокольорового феєрверку в смолі, а якщо ви не знаєте, який вибрати - зверніть увагу на наш спеціальний набір спиртових чорнил з 13 міні-фарб для петрі.<\/li><li>Висока світлостійкість - після 1 року тестування під прямими сонячними променями кольори залишаються яскравими.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -137,8 +137,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Recommendations",
-            "content": "<p>- When working with resin do not forget about protection of respiratory tract, skin and clothes!<\/p><p>- Use resin which has polymerization time of not more that 24 hours.<\/p><p>- Stir resin with hardener thoroughly to avoid defects on your product, stir slowly to avoid forming of excess air bubbles inside (if resin gets homogeneous transparent consistency you could pour it into the mold).<\/p><p>- Use only molds which are glossy inside to ensure that your product has a smooth transparent coating in the end.<\/p><p>- Pour the resin with a thin stream so that less air bubbles remain in the thickness of the resin.<\/p><p>- You can use an alcohol spray to remove air bubbles from the resin surface instead of a burner.<\/p><p>- It is required to work on a flat surface and cover it with shield material for keeping it safe.<\/p><p>- You can start working after the bubbles rise on the surface and you remove them!<\/p><p>- Select the required color palette from alcohol inks or special petri paints, shake the contents and turn off the caps for your convenience. Shake the white color well and start creating the patterns.<\/p><p>- After each drop of color use white! The white color drowns the colored paint creating effects in the thickness of the resin.<\/p><p>- Use special white paint for petri only with translucent bright shades! Only this paint has a composition that allows to make petri effects with these inks.<\/p><p>- Shake paint jars regularly before you make each drop to make the composition homogeneous!<\/p><p>- Do not drop the paint close to the silicone shaped sides as it prevents it from falling into the resin thickness.<\/p><p>- At the end you can move a toothpick in the resin to create the patterns.<\/p><p>- If the resin is too liquid wait for 20-30 minutes and then start working with the paint. This will make the viscosity higher and paint won’t fall too much to the bottom. The more liquid the resin is, the more chance that paint will fall to the bottom!<\/p><p>The time to experiment is now! Let's create together!<\/p><p><strong>Tips:<\/strong><\/p><p>1.The inks are ideal for use in resin art techniques as a tint. The liquid consistency makes it quick and easy to mix with the resin.<\/p><p>2.The inks can be used with a toothpick in the resin for a more interesting pattern.<\/p><p>3.Contains alcohol, do not work with a burner.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
+            "heading": "Рекомендації",
+            "content": "<p>- Використовуйте смолу, час полімеризації якої не вище 24 годин<\/p><p>Не забувайте про захист дихальних шляхів, шкіри та одягу під час роботи зі смолою!<\/p><p>— Ретельно розмішуйте смолу з затверджувачем для уникнення дефектів на вашому виробі, перемішуйте повільно, щоб не формувати надлишок бульбашок повітря всередині (якщо смола стала однорідною прозорою консистенції - можна заливати в форму)<\/p><p>— Використовуйте тільки глянцеві всередині форми для того, щоб ваш виріб мав гладке прозоре покриття в результаті<\/p><p>— Наливайте смолу тонкою цівкою для тогo, щоб менше бульбашок повітря залишалося в товщі смоли<\/p><p>— Можете використовувати спрей зі спиртом для видалення бульбашок повітря з поверхні смоли замість пальника<\/p><p>— Працювати потрібно на рівній поверхні, застелити її покривним матеріалом для збереження<\/p><p>— Коли бульбашки піднялися наверх (після того, як ви їх при необхідності прибрали) можна приступати до роботи!<\/p><p>— Виберіть необхідну палітру кольорів зі спиртових чорнил або спеціальної фарби для Петрі, струсіть вміст і відкрутіть ковпачки для зручності. Добре струсніть білий та приступайте до створення візерунків.<\/p><p>—Після кожної краплі кольору Використовуйте білий! Білий колір топить кольорову фарбу, створюючи ефекти в товщі смоли.<\/p><p>— Використовуйте тільки спеціальний білий для Петри! Тільки він має властивості, завдяки яким і виникають ефекти petri.<\/p><p>— Постійно струшуйте білий перед кожною краплею, щоб склад був однорідним!<\/p><p>— Не капайте фарбу близько до бортикам силіконової форми, це перешкоджає її падінню у товщу смоли.<\/p><p><strong>Поради:<\/strong><\/p><p>1. Фарби ідеально підходять для використання в техніці мистецтва на основі смоли як колер. Рідка консистенція дозволяє швидко і легко змішувати їх зі смолою.<\/p><p>2. Фарби можна використовувати за допомогою зубочистки у смолі для отримання більш цікавого візерунку.<\/p><p>3. Містять спирт, не працювати з горілкою.<\/p><p><strong>Заходи безпеки: <\/strong>Працювати в провітрюваних приміщеннях, продукти легкозаймисті, зберігати в недоступному для дітей місці та подалі від відкритих джерел вогню. Використовувати строго за призначенням. У разі потрапляння на слизові оболонки ретельно промити водою і при необхідності звернутися до лікаря.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -148,14 +148,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/>Avoid sudden temperature changes and open sunlight.<\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. Уникати різких перепадів температури та відкритих сонячних променів.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "975b39c9-9de8-4c41-8124-df7907d828ae": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -480,7 +481,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -493,10 +494,10 @@
     "48cd363a-facf-4c01-95ab-49395cd4941d": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Alcohol Inks Collections",
+        "heading": "Колекції спиртових чорнил",
         "subheading": "",
         "link": "shopify:\/\/collections\/alcohol-inks",
-        "link_text": "View all alcohol inks",
+        "link_text": "Переглянути всі спиртові чорнила",
         "columns": "4",
         "mobile_columns": "2",
         "collection_list": [
