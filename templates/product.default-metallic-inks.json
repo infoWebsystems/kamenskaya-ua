@@ -41,6 +41,23 @@
             "column_placement": "left"
           }
         },
+        "fe05f084-3614-441c-9ad7-323f3ab23f32": {
+          "type": "product_callouts_mini",
+          "settings": {
+            "icon_1": "none",
+            "text_1": "Об'єм: 15 мл",
+            "icon_2": "paper-airplane",
+            "text_2": "",
+            "icon_3": "chat",
+            "text_3": "",
+            "icon_4": "none",
+            "text_4": "",
+            "icon_5": "none",
+            "text_5": "",
+            "icon_6": "none",
+            "text_6": ""
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -168,6 +185,7 @@
         "product_header",
         "product_callouts_mini",
         "text",
+        "fe05f084-3614-441c-9ad7-323f3ab23f32",
         "variant_picker",
         "inventory_counter",
         "quantity_selector",
