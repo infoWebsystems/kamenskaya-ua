@@ -37,7 +37,7 @@
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Volume: 100 ml (3.38 fl oz)"
+            "custom_liquid": "Об'єм: 100 мл"
           }
         },
         "variant_picker": {
@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Slows drying time of acrylic paint.<br\/>Increases blending time.<br\/>Maintains paint viscosity and doesn't affect its colour.<\/p>",
+            "text": "<p>Уповільнює час висихання акрилової фарби. Збільшує час змішування. Зберігає в'язкість фарби і не впливає на її колір.<\/p>",
             "column_placement": "left"
           }
         },
@@ -95,11 +95,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -127,8 +127,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Acrylic Paint Retarder - slows down the polymerization of acrylic paints<\/li><li>Makes The Colors Thinner without leaving a greasy film after drying<\/li><li>The Drying Time increases on average by 30-40 minutes<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Сповільнювач висихання акрилових фарб - уповільнює полімеризацію акрилових фарб.<\/li><li>Робить фарби більш тонкими, не залишаючи жирної плівки після висихання.<\/li><li>Час висихання збільшується в середньому на 30-40 хвилин.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -138,8 +138,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Recommendations",
-            "content": "<p>Add a small amount of slow drying medium to the palette and mix with acrylic paint.<\/p>",
+            "heading": "Рекомендації",
+            "content": "<p>Додайте на палітру невелику кількість медіуму для повільного висихання і змішайте з акриловою фарбою.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -149,14 +149,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/><\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. <br\/><\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "88178b1f-d2ad-4cb2-a692-ad7d9ac27a65": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -481,7 +482,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -494,10 +495,10 @@
     "0c035e96-cc58-443b-8f0e-cb211c3495a4": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Acrylic Collections",
+        "heading": "Акрил",
         "subheading": "",
         "link": "shopify:\/\/collections\/acrylic",
-        "link_text": "View all acrylic products",
+        "link_text": "Переглянути всі акрилові товари",
         "columns": "3",
         "mobile_columns": "2",
         "collection_list": [
