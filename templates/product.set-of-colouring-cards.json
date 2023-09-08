@@ -50,7 +50,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Set of 50 coloring cards made of synthetic paper for alcohol ink with split metal ring.<\/p>",
+            "text": "<p>Набір з 50 карток для викрасів із синтетичного паперу для спиртових чорнил з роз'ємним металевим кільцем.<\/p>",
             "column_placement": "left"
           }
         },
@@ -88,11 +88,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -118,6 +118,7 @@
         },
         "34d32eec-44c5-49ca-95e2-d593e71b76f0": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -438,7 +439,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -451,10 +452,10 @@
     "6c34c6f3-cb01-40d8-9bca-dbe649dc0793": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Alcohol Inks Collections",
+        "heading": "Колекції спиртових чорнил",
         "subheading": "",
         "link": "shopify:\/\/collections\/alcohol-inks",
-        "link_text": "View all alcohol inks",
+        "link_text": "Переглянути всі спиртові чорнила",
         "columns": "4",
         "mobile_columns": "2",
         "collection_list": [
