@@ -37,7 +37,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Excellent flowability and transparency after drying. <br\/>Glossy finish.<\/p>",
+            "text": "<p>Відмінна текучість і прозорість після висихання. Глянцеве покриття.<\/p>",
             "column_placement": "left"
           }
         },
@@ -88,11 +88,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -107,7 +107,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -119,8 +119,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Pouring Medium is used in combination with acrylic inks in fluid art techniques<\/li><li>Easy To Use, perfect for beginners and professionals alike<\/li><li>Key Features - excellent flowability transparency after drying and glossy finish<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Використовується в поєднанні з акриловими чорнилами в техніці флюїд арт.<\/li><li>Простий у використанні, ідеально підходить як для початківців, так і для професіоналів<\/li><li>Ключові особливості - відмінна текучість прозорість після висихання та глянцеве покриття.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -130,8 +130,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Recommendations",
-            "content": "<p>1. Dilute the ink to the desired concentration. <br\/>2. Add white medium or white ink to the color to get an opaque shade. <\/p>",
+            "heading": "Рекомендації",
+            "content": "<p>1. Розведіть чорнила до потрібної концентрації. <br\/>2. Додайте білий медіум або біле чорнила до кольору, щоб отримати непрозорий відтінок.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -141,14 +141,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/><\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "3fea5634-d6f0-481a-946c-6da310189cb6": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -472,7 +473,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -485,10 +486,10 @@
     "acb99475-e2a4-4457-9af4-799ade0c2930": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Acrylic Collections",
+        "heading": "Акрил",
         "subheading": "",
         "link": "shopify:\/\/collections\/acrylic",
-        "link_text": "View all acrylic products",
+        "link_text": "Переглянути всі акрилові товари",
         "columns": "3",
         "mobile_columns": "2",
         "collection_list": [
