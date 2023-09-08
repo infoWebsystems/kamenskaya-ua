@@ -33,6 +33,23 @@
             "text_6": ""
           }
         },
+        "258e660a-f085-4e58-a4f6-f788f97263c5": {
+          "type": "product_callouts_mini",
+          "settings": {
+            "icon_1": "none",
+            "text_1": "Об'єм: 250 мл",
+            "icon_2": "paper-airplane",
+            "text_2": "",
+            "icon_3": "chat",
+            "text_3": "",
+            "icon_4": "none",
+            "text_4": "",
+            "icon_5": "none",
+            "text_5": "",
+            "icon_6": "none",
+            "text_6": ""
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -50,7 +67,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Use blending solution with fixing effect to dilute the inks. <br\/>Must have for anyone who works with alcohol inks.<\/p>",
+            "text": "<p>Спеціальний розчинник для розведення чорнил. Must have для всіх, хто працює зі спиртовими чорнилами.<\/p>",
             "column_placement": "left"
           }
         },
@@ -88,11 +105,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -107,7 +124,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -119,8 +136,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Fixing Blending Solution - a special liquid based on alcohols, varnishes and perfumes for painting in alcohol ink technique.<\/li><li>Used To Dilute the ink and work in the Ink Art technique.<\/li><li>The Fixing degree is medium.<\/li><\/ul><p><\/p>",
+            "heading": "Опис",
+            "content": "<ul><li>Фіксуючий розчин для спиртових чорнил - спеціальна рідина на основі спиртів, лаків та віддушок для малювання спиртовими чорнилами.<\/li><li>Використовується для розведення чорнил і роботи в техніці \"спиртові чорнила\".<\/li><li>Ступінь фіксації - середня.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -130,8 +147,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Recommendations",
-            "content": "<p><strong>Tips:<\/strong><\/p><p>1.We recommend that you always dilute the ink with blending solution to maintain its brightness and lightfastness (dilute the ink at a ratio of 1:6, where 6 is the blending solution)<\/p><p>2.To create a smooth transition, first pour the blending solution onto a format, allow it to spread out a little, and then pour the ink into it<\/p><p>3.Use a pipette to measure the volume<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p><p><strong>WARNING! <\/strong>Alcohol molecules may change size with temperature changes, the amount of liquid in the bottle may change (keeping the weight), water condensation may occur if stored incorrectly.<\/p>",
+            "heading": "Рекомендації",
+            "content": "<p>1. Ми рекомендуємо завжди розбавляти чорнило розчинником, щоб зберегти його яскравість і світлостійкість (розбавляйте чорнила у співвідношенні 1:6, де 6 - розчинник).<\/p><p><br\/>2. Для створення плавного переходу спочатку вилийте розчин на формат, дайте йому трохи розтектися, а потім влийте в нього чорнило.<\/p><p><br\/>3. Відміряйте об'єм за допомогою піпетки.<\/p><p><strong>Заходи безпеки: <\/strong>Працювати в провітрюваних приміщеннях, продукти легкозаймисті, зберігати в недоступному для дітей місці та подалі від відкритих джерел вогню. Використовувати строго за призначенням. У разі потрапляння на слизові оболонки ретельно промити водою і при необхідності звернутися до лікаря.<\/p><p>УВАГА! Молекули спирту можуть змінювати розмір при зміні температури, кількість рідини у пляшці може змінюватися (при збереженні ваги), при неправильному зберіганні може відбуватися конденсація води.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -141,14 +158,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/>Avoid sudden temperature changes and open sunlight.<\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття пляшки. Зберігати в закритому вигляді при температурі від 5 до 25 градусів Цельсія. Уникати різких перепадів температури та відкритих сонячних променів.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "ac1f69cf-4225-43ba-bcf9-a1c9371bd4fd": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -166,6 +184,7 @@
       "block_order": [
         "product_header",
         "product_callouts_mini",
+        "258e660a-f085-4e58-a4f6-f788f97263c5",
         "variant_picker",
         "text",
         "inventory_counter",
@@ -472,7 +491,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -485,10 +504,10 @@
     "7639df4f-6218-4116-9bcf-032a66d4d8a6": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Alcohol Inks Collections",
+        "heading": "Колекції спиртових чорнил",
         "subheading": "",
         "link": "shopify:\/\/collections\/alcohol-inks",
-        "link_text": "View all alcohol inks",
+        "link_text": "Переглянути всі спиртові чорнила",
         "columns": "4",
         "mobile_columns": "2",
         "collection_list": [
