@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Modeling gel<strong>. <\/strong>Acrylic medium.<br\/>Semi-opaque matte, creates texture and volume, does not crack.<\/p>",
+            "text": "<p>Моделюючий гель. Акриловий медіум. Напівпрозорий матовий, створює текстуру та об'єм, не розтріскується.<\/p>",
             "column_placement": "left"
           }
         },
@@ -95,11 +95,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -114,7 +114,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -126,8 +126,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Acrylic Resin Gel - provides a maximum thickening of the acrylic inks.<\/li><li>Key Features: the gel holds its shape well, can be easily tinted and becomes completely transparent once it dries.<\/li><li>Achieve Great Result - good adhesive properties, glossy finish, does not crack, does not wash out with water and alcohol.<\/li><li>Application Area - used in painting with palette knife, can be used on its own as an adhesive for details in clay.<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Акриловий гель - забезпечує максимальне загущення акрилових чорнил.<\/li><li>Ключові особливості: гель добре тримає форму, легко колерується, а після висихання стає повністю прозорим.<\/li><li>Отримайте чудовий результат - хороші адгезійні властивості, глянцеве покриття, не розтріскується, не змивається водою та спиртом.<\/li><li>Сфера застосування - використовується в живописі мастихіном, може використовуватися самостійно як клей для деталей з глини.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -149,14 +149,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>Expiration rate:<strong> <\/strong>36 months unopened.<br\/>Store at the temperature 5-25 °C.<\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців в закритому вигляді.<br\/>Зберігати при температурі від 5 до 25 градусів Цельсія<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "51e0f226-b12f-42cd-ba3f-3b1c5c6678cb": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -481,7 +482,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -494,10 +495,10 @@
     "a559a874-19e6-4afa-bb94-d76c42fbed7c": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Acrylic Collections",
+        "heading": "Акрил",
         "subheading": "",
         "link": "shopify:\/\/collections\/acrylic",
-        "link_text": "View all acrylic products",
+        "link_text": "Переглянути всі акрилові товари",
         "columns": "3",
         "mobile_columns": "2",
         "collection_list": [
