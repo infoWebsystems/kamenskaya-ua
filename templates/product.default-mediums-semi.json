@@ -50,7 +50,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Semi-transparent medium for diluting acrylic inks and getting a thicker consistency for painting. <br\/>The inks retain color saturation and a light texture. <br\/>Once dry, gives a lasting glossy finish.<\/p>",
+            "text": "<p>Напівпрозорий медіум для розведення акрилових чорнил та отримання більш густої консистенції для живопису. Чорнила зберігають насиченість кольору та легку текстуру. Після висихання дає стійкий глянцевий вигляд.<\/p>",
             "column_placement": "left"
           }
         },
@@ -88,11 +88,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -107,7 +107,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -119,8 +119,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Acrylic Paint Medium - perfect for diluting inks and creating a thicker consistency for painting. It has a semi-transparent neutral beige shade that can be easily colored with acrylic inks.<\/li><li>Retains Color Saturation - the inks retain color saturation and a light texture, making them perfect for achieving a variety of effects in your artwork.<\/li><li>Satin Finish - provides a smooth and even surface for your artwork.<\/li><li>Acrylic Paint Foundation medium - perfect for creating a foundation for your acrylic paintings.<\/li><li>Large Size - large bottle contains 33.8 fl oz (1000 ml) of liquid medium, providing plenty of product for your painting needs.<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Медіум для акрилових фарб - ідеально підходить для розведення чорнил і створення більш густої консистенції для живопису. Має напівпрозорий нейтральний бежевий відтінок, який легко розфарбовується акриловими чорнилами.<\/li><li>Зберігає насиченість кольору - чорнила зберігають насиченість кольору та легку текстуру, що робить їх ідеальними для досягнення різноманітних ефектів у ваших роботах.<\/li><li>Сатинове покриття - забезпечує гладку та рівну поверхню для ваших робіт.<\/li><li>Великий розмір - велика пляшка містить 1000 мл рідкого медіуму, що забезпечує достатню кількість продукту для ваших потреб у живописі.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -130,8 +130,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Recommendations",
-            "content": "<p>Add some medium to the palette, add a few drops of acrylic ink, and get the desired shade of acrylic paint. <\/p>",
+            "heading": "Рекомендації",
+            "content": "<p>Додайте в палітру трохи медіума, додайте кілька крапель акрилової фарби та отримайте бажаний відтінок акрилової фарби.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -141,14 +141,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/><\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія.<br\/><\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "faf642c7-f995-4291-9baa-3940036e88b8": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -472,7 +473,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -485,10 +486,10 @@
     "3e5c73e6-1c1a-4df9-b137-a757eb4803f6": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Acrylic Collections",
+        "heading": "Акрил",
         "subheading": "",
         "link": "shopify:\/\/collections\/acrylic",
-        "link_text": "View all acrylic products",
+        "link_text": "Переглянути всі акрилові товари",
         "columns": "3",
         "mobile_columns": "2",
         "collection_list": [
