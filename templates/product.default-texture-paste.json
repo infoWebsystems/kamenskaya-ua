@@ -37,7 +37,7 @@
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Volume: 500 ml (16.9 fl oz)"
+            "custom_liquid": "Об'єм: 500 мл"
           }
         },
         "variant_picker": {
@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Texture paste with a high rubber content to create texture.<\/p><p>Available in 2 options:<\/p><ol><li>Dense white.<\/li><li>For mixing with color (light beige shade).<\/li><\/ol>",
+            "text": "<p>Текстурна паста з високим вмістом гуми для створення текстури. Доступна у 2 варіантах:<br\/>- Щільна біла.<br\/>- Для змішування з кольором (світло-бежевий відтінок).<\/p>",
             "column_placement": "left"
           }
         },
@@ -95,11 +95,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -114,7 +114,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -126,8 +126,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>High Rubber Content To Create Texture: great material for creating textured images on canvas, paper, wood and walls.<\/li><li>Thick Pasty Consistency: dense, doesn't crack.<\/li><li>Keeps The Shape Well, moisture resistant.<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Високий вміст гуми для створення текстури: чудовий матеріал для створення фактурних зображень на полотні, папері, дереві та стінах.<\/li><li>Густа пастоподібна консистенція: щільна, не розтріскується.<\/li><li>Добре тримає форму, вологостійка.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -149,14 +149,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months unopened. <br\/>Store at the temperature of 5-25 C.<\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців в закритому вигляді.<br\/>Зберігати при температурі від 5 до 25 градусів Цельсія<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "2a35364e-f4a3-4de0-bb22-ed3e8dec40ef": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -481,7 +482,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -494,10 +495,10 @@
     "4a4656f6-43a9-4509-a118-31980629d118": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Acrylic Collections",
+        "heading": "Акрил",
         "subheading": "",
         "link": "shopify:\/\/collections\/acrylic",
-        "link_text": "View all acrylic products",
+        "link_text": "Переглянути всі акрилові товари",
         "columns": "3",
         "mobile_columns": "2",
         "collection_list": [
