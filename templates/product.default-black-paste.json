@@ -20,11 +20,11 @@
           "type": "product_callouts_mini",
           "settings": {
             "icon_1": "none",
-            "text_1": "Black matte",
+            "text_1": "Чорна матова",
             "icon_2": "none",
-            "text_2": "Textured art",
+            "text_2": "Текстурний живопис",
             "icon_3": "none",
-            "text_3": "Acrylic painting",
+            "text_3": "Акриловий живопис",
             "icon_4": "none",
             "text_4": "",
             "icon_5": "none",
@@ -37,7 +37,7 @@
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "Volume: 500 ml (16.9 fl oz)"
+            "custom_liquid": "Об'єм: 500 мл"
           }
         },
         "variant_picker": {
@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Coarse texture paste. Black matte. Doesn't require tinting, contains sand granules, creates texture and volume, does not crack.<\/p>",
+            "text": "<p>Паста грубої текстури. Чорна матова. Не потребує колерування, містить піщані гранули, створює текстуру та об'єм, не розтріскується.<\/p>",
             "column_placement": "left"
           }
         },
@@ -95,11 +95,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -114,7 +114,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -126,8 +126,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Create Texture Images on canvas, paper, wood and walls.<\/li><li>Holds Its Shape well and resistant to cracking.<\/li><li>Forms A Hard Matte finish after drying.<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Створюйте текстурні зображення на полотні, папері, дереві та стінах.<\/li><li>Добре тримає форму та стійка до розтріскування.<\/li><li>Після висихання утворює тверде матове покриття.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -149,14 +149,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months unopened. <br\/>Store at the temperature of 5-25 C.<\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців в закритому вигляді.<br\/>Зберігати при температурі від 5 до 25 градусів Цельсія<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "dd1aaa27-67cc-4e7d-a1ec-4b922a1f287a": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -481,7 +482,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -494,10 +495,10 @@
     "eb7dd6cc-1703-44c4-83a8-645b08f9eac8": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Acrylic Collections",
+        "heading": "Акрил",
         "subheading": "",
         "link": "shopify:\/\/collections\/acrylic",
-        "link_text": "View all acrylic products",
+        "link_text": "Переглянути всі акрилові товари",
         "columns": "3",
         "mobile_columns": "2",
         "collection_list": [
