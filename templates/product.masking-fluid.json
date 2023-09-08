@@ -50,7 +50,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Masking liquid! Add even more creativity!<br\/><br\/>Masking Fluid is made especially for your creativity! Now you can apply this super-thing on any surface to keep fragments clear of ink or acrylics while you work. Use a brush for easy application.<\/p>",
+            "text": "<p>Маскуюча рідина! Додай ще більше творчості! <\/p><p>Маскуюча рідина створена спеціально для твоєї творчості! Тепер ви можете наносити цю супер-річ на будь-яку поверхню, щоб захистити фрагменти від чорнила або акрилу під час роботи. Використовуйте пензлик для легкого нанесення.<\/p>",
             "column_placement": "left"
           }
         },
@@ -88,11 +88,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -109,8 +109,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Masking Fluid used as a separating or protective layer for fragments of paintings or objects during the painting process to protect the elements that should be left untouched.<\/li><li>Easy To Apply, quick to dry, easy to peel off the surface (like an elastic film).<\/li><li>A White Thick Emulsion that becomes transparent with a yellowish tinge when dry.<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Маскувальна рідина, використовується як розділювальний або захисний шар для фрагментів картин або об'єктів під час процесу малювання, щоб захистити елементи, які потрібно залишити недоторканими.<\/li><li>Легко наноситься, швидко сохне, легко відклеюється від поверхні (як еластична плівка).<\/li><li>Біла густа емульсія, яка після висихання стає прозорою з жовтуватим відтінком.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -120,14 +120,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/>Avoid sudden temperature changes and open sunlight.<\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. <\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "3280a9e2-81da-4ae0-9a0f-16a5f1d7c2b5": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -449,7 +450,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -462,10 +463,10 @@
     "c429ec77-5add-4ac9-a249-8c884544017a": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Alcohol Inks Collections",
+        "heading": "Колекції спиртових чорнил",
         "subheading": "",
         "link": "shopify:\/\/collections\/alcohol-inks",
-        "link_text": "View all alcohol inks",
+        "link_text": "Переглянути всі спиртові чорнила",
         "columns": "4",
         "mobile_columns": "2",
         "collection_list": [
