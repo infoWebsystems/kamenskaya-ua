@@ -33,6 +33,23 @@
             "text_6": ""
           }
         },
+        "ecceed08-ee65-4a3d-917e-8fda0a1e6673": {
+          "type": "product_callouts_mini",
+          "settings": {
+            "icon_1": "none",
+            "text_1": "Об'єм: 40 мл",
+            "icon_2": "paper-airplane",
+            "text_2": "",
+            "icon_3": "chat",
+            "text_3": "",
+            "icon_4": "none",
+            "text_4": "",
+            "icon_5": "none",
+            "text_5": "",
+            "icon_6": "none",
+            "text_6": ""
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -50,7 +67,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Super-concentrated multi functional acrylic inks<\/p>",
+            "text": "<p>Суперконцентровані багатофункціональні акрилові чорнила<\/p>",
             "column_placement": "left"
           }
         },
@@ -88,11 +105,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free standard shipping on orders over $100<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Безпечна оплата<\/p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -107,7 +124,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Відео огляд",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -119,8 +136,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Description",
-            "content": "<ul><li>Super-Concentrated: tint up to 5 litres of medium in saturated shades with just 3.38 fl oz (100 ml) of our acrylic inks.<\/li><li>Multifunctional: paint on canvas, paper, plastic, ceramics, walls, furniture, clothes.<\/li><li>Rich Color Range: our acrylic inks range include 34 shades in 2 different volumes.<\/li><li>Key Features: highly pigmented, lightfast, fast-drying, water-resistant, transparent if diluted and opaque if used on its own.<\/li><\/ul>",
+            "heading": "Опис",
+            "content": "<ul><li>Суперконцентровані: колеруйте до 5 літрів медіуму в насичені відтінки за допомогою лише 100 мл наших акрилових чорнил.<\/li><li>Багатофункціональні: малюйте на полотні, папері, пластику, кераміці, стінах, меблях, одязі.<\/li><li>Багата палітра кольорів: асортимент акрилових фарб включає 34 відтінки у 2 різних об'ємах.<\/li><li>Ключові характеристики: високопігментовані, світлостійкі, швидковисихаючі, водостійкі, прозорі у розведеному вигляді та непрозорі у чистому вигляді.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -130,8 +147,8 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Application",
-            "content": "<p>1. Painting<br\/>2. Graphics and calligraphy<br\/>3. Painting on canvas<br\/>4. Painting on clothes<br\/>5. Airbrushing<br\/>6. Сoloring pastes and primers<br\/>7. Painting walls<br\/>8. Painting furniture<\/p><p><strong>Shake before using!<\/strong><\/p>",
+            "heading": "Застосування",
+            "content": "<p>1. Живопис<br\/>2. Графіка та каліграфія<br\/>3. Розпис на полотні<br\/>4. Розпис на одязі<br\/>5. Аерографія<br\/>6. Колорування паст та ґрунтів<br\/>7. Розпис стін<br\/>8. Фарбування меблів<br\/><br\/><strong>Перед застосуванням збовтати!<\/strong><\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -141,14 +158,15 @@
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/>Avoid sudden temperature changes and open sunlight.<\/p>",
+            "heading": "Умови зберігання та термін придатності",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. Уникати різких перепадів температури та відкритих сонячних променів.<\/p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "8a60a990-c10d-47df-b3e7-b0aa29b11e1e": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
@@ -166,6 +184,7 @@
       "block_order": [
         "product_header",
         "product_callouts_mini",
+        "ecceed08-ee65-4a3d-917e-8fda0a1e6673",
         "variant_picker",
         "text",
         "inventory_counter",
@@ -472,7 +491,7 @@
     "recommendations": {
       "type": "recommended-products",
       "settings": {
-        "title": "Recommended Products",
+        "title": "Рекомендовані товари",
         "subheading": "",
         "maximum_products": 8,
         "columns": "4",
@@ -485,10 +504,10 @@
     "3c4dbe23-4a53-4e8d-bfd1-c69209dd6a5b": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Acrylic collections",
+        "heading": "Акрил",
         "subheading": "",
         "link": "shopify:\/\/collections\/acrylic",
-        "link_text": "View all acrylic products",
+        "link_text": "Переглянути всі акрилові товари",
         "columns": "3",
         "mobile_columns": "2",
         "collection_list": [
