@@ -7,7 +7,7 @@
         "article_per_page": 12,
         "show_tags": true,
         "show_author": false,
-        "show_date": true,
+        "show_date": false,
         "show_excerpt": true,
         "show_featured_image": true,
         "aspect_ratio": "landscape",
