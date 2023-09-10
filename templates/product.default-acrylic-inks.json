@@ -35,7 +35,6 @@
         },
         "ecceed08-ee65-4a3d-917e-8fda0a1e6673": {
           "type": "product_callouts_mini",
-          "disabled": true,
           "settings": {
             "icon_1": "none",
             "text_1": "Об'єм: 40 мл",
