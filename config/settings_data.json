@@ -30,7 +30,7 @@
     "product_listing_title_letter_spacing": 50,
     "capitalize_buttons": true,
     "buttons_letter_spacing": 50,
-    "custom_swatch_colors": "Dense white: #FDFDFD\nWhite matte: #FDFDFD\nFor mixing with color: #E7E7E7",
+    "custom_swatch_colors": "Dense white: #FDFDFD\nWhite matte: #FDFDFD\nFor mixing with color: #E7E7E7\nБіла: #FDFDFD\nДля змішування з кольором: #E7E7E7",
     "sale_badge_format": "sale_text",
     "custom_product_badge_group_1_tag_names": "Responsible",
     "custom_product_badge_group_1_color": "#000000",
@@ -72,16 +72,7 @@
     "checkout_error_color": "#f2cbcb",
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "8776485610325655785": {
-        "type": "shopify:\/\/apps\/hiko-social-login\/blocks\/hiko-auth\/3832d7e1-5bcd-4b72-91da-236b57feef8f",
-        "disabled": false,
-        "settings": {
-          "social_font": "enable"
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Vogue": {
