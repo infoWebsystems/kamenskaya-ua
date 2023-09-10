@@ -30,6 +30,7 @@
     "product_listing_title_letter_spacing": 50,
     "capitalize_buttons": true,
     "buttons_letter_spacing": 50,
+    "swatch_options": "Колір",
     "custom_swatch_colors": "Dense white: #FDFDFD\nWhite matte: #FDFDFD\nFor mixing with color: #E7E7E7\nБіла: #FDFDFD\nДля змішування з кольором: #E7E7E7",
     "sale_badge_format": "sale_text",
     "custom_product_badge_group_1_tag_names": "Responsible",
