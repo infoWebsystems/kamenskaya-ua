@@ -282,6 +282,7 @@
             "height": 500,
             "mobile_height": 360,
             "image": "shopify:\/\/shop_images\/IMG_8572.png",
+            "mobile_image": "shopify:\/\/shop_images\/f794dbc8adba20f12eae94c45e30e328.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -567,7 +568,7 @@
           "gilding",
           "nacre-chameleons"
         ],
-        "collection_listing_aspect_ratio": "portrait",
+        "collection_listing_aspect_ratio": "square",
         "label_style": "overlay",
         "overlay_title_background_style": "gradient",
         "overlay_text_color": "#ffffff",
