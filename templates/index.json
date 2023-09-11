@@ -68,6 +68,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_8572.png",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_8572.png",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
