@@ -28,4 +28,40 @@ window.addEventListener("DOMContentLoaded", (event) => {
         }
     });
 
+    // Translation for dynamic checkout buttons
+    function modifyElementText() {
+        let shopifyPaymentParent = document.querySelector(".shopify-payment-button");
+        if (shopifyPaymentParent) {
+            let paymentButton = shopifyPaymentParent.querySelector(".shopify-payment-button__button");
+            paymentButton.textContent = 'Купити зараз';
+        }
+    }
+
+    let intervalId = setInterval(() => {
+        modifyElementText();
+
+        // Check if the desired condition is met (element text is modified)
+        let shopifyPaymentParent = document.querySelector(".shopify-payment-button");
+        if (shopifyPaymentParent) {
+            let paymentButton = shopifyPaymentParent.querySelector(".shopify-payment-button__button");
+            if (paymentButton.textContent === 'Купити зараз') {
+                clearInterval(intervalId); // Stop the interval once the condition is met
+            }
+        }
+    }, 2000);
+
+
+    /*    function checkForElement() {
+            let shopifyPaymentParent = document.querySelector(".shopify-payment-button");
+            if (shopifyPaymentParent) {
+                let paymentButton = shopifyPaymentParent.querySelector(".shopify-payment-button__button");
+                paymentButton.textContent = 'Купити зараз';
+            } else {
+                // Element not found, recheck after a delay
+                setTimeout(checkForElement, 500);
+            }
+        }
+
+        checkForElement();*/
+
 });
