@@ -74,7 +74,7 @@
 
       ],
       "settings": {
-        "enable_locale_selector": true,
+        "enable_locale_selector": false,
         "enable_country_selector": true,
         "show_payment_icons": true,
         "additional_copyright_text": ""
