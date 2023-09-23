@@ -163,7 +163,7 @@
         "heading": "Вітаємо на новому сайті!",
         "text": "<p>Даруємо знижку 10% на всі товари по промокоду \"START\"<\/p>",
         "link": "shopify:\/\/collections",
-        "link_text": "",
+        "link_text": "У КАТАЛОГ",
         "button_style": "btn--secondary",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
