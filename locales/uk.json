@@ -1093,7 +1093,7 @@
           }
         },
         "one_time_purchase_shipping": "Одноразова доставка",
-        "address2_add_label": "Додайте квартиру, люкс тощо.",
+        "address2_add_label": "Додайте номер відділення Нової Пошти",
         "duties_and_taxes_title": "Мита і податки",
         "shipping_information_required_notice": "Потрібна інформація про доставку. {{link}} .",
         "shipping_information_redirect_link": "Введіть свою інформацію тут",
