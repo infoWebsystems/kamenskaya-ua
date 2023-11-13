@@ -1292,7 +1292,7 @@
         "price_column_header": "Ціна",
         "status_column_header": "Статус",
         "removed_from_cart_notice": "Вилучено з кошика",
-        "sold_out_label": "Скоро буде",
+        "sold_out_label": "Немає в наявності",
         "reduced_label": "Зменшений",
         "reduced_with_quantity_label": "Залишилося лише %{quantity_available}",
         "remove_from_cart_button_label": "Видалити з кошика",
@@ -1387,7 +1387,7 @@
         "cart_summary_heading": "Ваш кошик",
         "merchandise": {
           "available": "в наявності",
-          "sold_out": "Продано"
+          "sold_out": "Немає в наявності"
         },
         "inventory": {
           "partial_inventory_banner": "Частину вашого кошика розпродано та не можна буде придбати під час оплати.",
@@ -3391,7 +3391,7 @@
     "add_to_cart": "Додати в кошик",
     "quick_add": "Швидке додавання",
     "share": "Поділіться",
-    "sold_out": "Продано",
+    "sold_out": "Скоро буде",
     "unavailable": "Недоступний"
   },
   "products": {
@@ -3448,7 +3448,7 @@
       "sale_price": "Ціна продажу",
       "shipping_policy_html": "<a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;\/span&gt;\">Вартість доставки<\/a> розраховується при оформленні замовлення.",
       "sku_with_value": "Артикул: {{ value }}",
-      "sold_out": "Продано",
+      "sold_out": "Скоро буде",
       "swatch_count": {
         "one": "{{count}} колір",
         "other": "{{count}} кольорів",
