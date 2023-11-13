@@ -3437,7 +3437,7 @@
       "on_sale_format_save_percent": "Зекономте {{ value }} %",
       "on_sale_format_save_percent_varied": "Заощаджуйте до {{ value }} %",
       "on_sale_from_html": "від {{ price }}",
-      "on_sale_varied_prefix": "Аж до",
+      "on_sale_varied_prefix": "",
       "preorder": "Попереднє замовлення",
       "quantity": "Кількість",
       "quantity_error": "Вибрана кількість перевищує поточний запас",
