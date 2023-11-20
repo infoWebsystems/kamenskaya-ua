@@ -5,6 +5,7 @@
       "blocks": {
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-0": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/911716fe5ab79be5a5dba72f2ca68cd8.jpg",
             "focal_point": "image_presentation",
@@ -35,6 +36,7 @@
         },
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_7079.jpg",
             "image_mobile": "shopify:\/\/shop_images\/e46e65348848d889cddf1c31b73a2896.jpg",
@@ -66,6 +68,7 @@
         },
         "1b50cc8d-0aca-4ec4-a391-e0e0c9e2e356": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/1de197150e17095d0b91f1b74ba7b03f.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_8572.png",
@@ -97,6 +100,7 @@
         },
         "9b45187d-d8a4-4d23-957e-8554aeaf163f": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_4608.jpg",
             "image_mobile": "shopify:\/\/shop_images\/a6466761db7661cce554593ea5f788c9.jpg",
@@ -125,13 +129,45 @@
             "color_overlay_gradient": "",
             "overlay_opacity": 40
           }
+        },
+        "caed53cc-22f5-4f2d-bde2-94eb59f35c95": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/black_friday_site_3000x2000_____1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/1000_1600.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#FFFFFF",
+            "button_background_color": "#FFFFFF",
+            "button_text_color": "#000000",
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
         }
       },
       "block_order": [
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-0",
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-1",
         "1b50cc8d-0aca-4ec4-a391-e0e0c9e2e356",
-        "9b45187d-d8a4-4d23-957e-8554aeaf163f"
+        "9b45187d-d8a4-4d23-957e-8554aeaf163f",
+        "caed53cc-22f5-4f2d-bde2-94eb59f35c95"
       ],
       "settings": {
         "image_aspect": "custom",
