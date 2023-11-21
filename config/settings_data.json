@@ -46,7 +46,7 @@
     "product_listing_aspect_ratio": "square",
     "product_listing_show_discount": false,
     "product_listing_discount_format": "minus_percent",
-    "product_listing_show_sale_badge": true,
+    "product_listing_show_sale_badge": false,
     "product_listing_show_custom_badges": true,
     "cart_item_aspect_ratio": "natural",
     "enable_free_shipping_bar": false,
