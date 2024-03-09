@@ -7,7 +7,6 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "title": "<p>При замовленні на суму від 1500 гривень доставка за наш рахунок!<\/p>",
             "title_mobile": "",
@@ -16,6 +15,7 @@
         },
         "announcement-bar-1": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "title": "<p>Зі святом весни!<\/p><p>8 березня даруємо знижку 15% на всі товари по промокоду MARCH8<\/p>",
             "title_mobile": "<p>Зі святом весни!<\/p><p>8 березня даруємо знижку 15% на всі товари по промокоду MARCH8<\/p>",

@@ -5,7 +5,6 @@
       "blocks": {
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-0": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/911716fe5ab79be5a5dba72f2ca68cd8.jpg",
             "focal_point": "image_presentation",
@@ -36,7 +35,6 @@
         },
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-1": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/bb2a601946f438ed94348db7673f2de2.jpg",
             "image_mobile": "shopify:\/\/shop_images\/75d1f311f65a91556c626951a8a22b68.jpg",
@@ -68,7 +66,6 @@
         },
         "1b50cc8d-0aca-4ec4-a391-e0e0c9e2e356": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/1de197150e17095d0b91f1b74ba7b03f.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_8572.png",
@@ -100,7 +97,6 @@
         },
         "9b45187d-d8a4-4d23-957e-8554aeaf163f": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_4608.jpg",
             "image_mobile": "shopify:\/\/shop_images\/a6466761db7661cce554593ea5f788c9.jpg",
@@ -132,6 +128,7 @@
         },
         "slide_AMrfUE": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_5841.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_4834.jpg",
@@ -153,10 +150,10 @@
             "link_2": "",
             "link_text_2": "Read more",
             "button_style_2": "btn--primary",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 40
           }
@@ -185,6 +182,7 @@
     },
     "1655855477ee9538e0": {
       "type": "countdown-bar",
+      "disabled": true,
       "settings": {
         "min_height": 60,
         "min_height_mobile": 60,
