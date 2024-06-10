@@ -3446,7 +3446,7 @@
       "regular_price": "Звичайна ціна",
       "reviews": "Відгуки покупців",
       "sale_price": "Ціна продажу",
-      "shipping_policy_html": "<a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;\/span&gt;\">Вартість доставки<\/a> розраховується при оформленні замовлення.",
+      "shipping_policy_html": "",
       "sku_with_value": "Артикул: {{ value }}",
       "sold_out": "Немає в наявності",
       "swatch_count": {
