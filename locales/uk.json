@@ -3446,7 +3446,7 @@
       "regular_price": "Звичайна ціна",
       "reviews": "Відгуки покупців",
       "sale_price": "Ціна продажу",
-      "shipping_policy_html": "",
+      "shipping_policy_html": "<a href=\"https:\/\/ua.kamenskaya.store\/policies\/shipping-policy\">Вартість доставки<\/a> розраховується при оформленні замовлення.",
       "sku_with_value": "Артикул: {{ value }}",
       "sold_out": "Немає в наявності",
       "swatch_count": {
