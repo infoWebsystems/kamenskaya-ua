@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "0160c8e2-10e7-46a9-9903-95e48a4df163": {
@@ -1627,7 +1636,7 @@
         "71c04df1-fdde-4b04-904e-abc1bdacb876"
       ],
       "custom_css": [
-        ".testimonials__item-quote {font-size: 26px;}"
+        ".testimonials__item-quote {font-size: 16px;}"
       ],
       "settings": {
         "image_size": "small",
