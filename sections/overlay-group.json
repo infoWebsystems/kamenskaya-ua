@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "type": "custom.overlay",
   "name": "t:groups.overlay_group.name",
@@ -17,6 +26,51 @@
     },
     "popup": {
       "type": "popup",
+      "blocks": {
+        "popup_signup_9VNzUF": {
+          "type": "popup_signup",
+          "settings": {
+            "delay": "timer_30000",
+            "frequency": "frequency_100000",
+            "show_on_exit_intent": false,
+            "disable_for_account_holders": true,
+            "show_on_specific_page": false,
+            "target_page": "",
+            "accent": "",
+            "heading": "Приєднуйтесь до нас",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "text": "<p>Підпишіться та отримайте знижку 10% на першу покупку<\/p>",
+            "link_text": "Отримати знижку",
+            "dismiss_text": "Ні, дякую",
+            "footer_text": "<p>Заповнюючи цю форму, ви погоджуєтеся на отримання наших інформаційних електронних листів і можете відмовитися від їх отримання в будь-який час<\/p>",
+            "tags": "newsletter",
+            "show_social_icons": true,
+            "popup_size": "medium",
+            "content_alignment": "center",
+            "image_position": "left",
+            "focal_point": "image_presentation",
+            "show_image_on_mobile": true,
+            "background_color": "#fff",
+            "text_color": "#000000",
+            "input_color": "#000000",
+            "input_background": "#fff",
+            "button_background_color": "#000000",
+            "button_text_color": "#FFFFFF",
+            "color_overlay": "#000",
+            "overlay_opacity": 0,
+            "enable_tab": true,
+            "tab_text": "Get 10% Off",
+            "text_font_class": "fs-body-100",
+            "tab_position": "bottom_left_floating",
+            "tab_text_color": "#000000",
+            "tab_background_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "popup_signup_9VNzUF"
+      ],
       "settings": {
       }
     }
