@@ -29,7 +29,6 @@
       "blocks": {
         "popup_signup_9VNzUF": {
           "type": "popup_signup",
-          "disabled": true,
           "settings": {
             "delay": "timer_30000",
             "frequency": "frequency_100000",
@@ -38,11 +37,11 @@
             "show_on_specific_page": false,
             "target_page": "",
             "accent": "",
-            "heading": "Приєднуйтесь до нас",
+            "heading": "Приєднуйтесь до нас!",
             "heading_font_class": "fs-heading-2-base",
             "subheading": "",
-            "text": "<p>Підпишіться та отримайте знижку 10% на першу покупку</p>",
-            "link_text": "Отримати знижку",
+            "text": "<p>Будьте в курсі останніх новин та ексклюзивних пропозицій</p>",
+            "link_text": "підписатися",
             "dismiss_text": "Ні, дякую",
             "footer_text": "<p>Заповнюючи цю форму, ви погоджуєтеся на отримання наших інформаційних електронних листів і можете відмовитися від їх отримання в будь-який час</p>",
             "tags": "newsletter",
@@ -60,7 +59,7 @@
             "button_text_color": "#ffffff",
             "color_overlay": "#000000",
             "overlay_opacity": 0,
-            "enable_tab": true,
+            "enable_tab": false,
             "tab_text": "Отримайте знижку 10%",
             "text_font_class": "fs-body-100",
             "tab_position": "bottom_left_floating",
