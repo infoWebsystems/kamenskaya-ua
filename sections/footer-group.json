@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "t:groups.footer_group.name",
@@ -13,8 +22,8 @@
             "collapse_on_mobile": false,
             "title": "",
             "show_title_on_desktop": true,
-            "text": "<p>Зроблено художником для художника<\/p>",
-            "image": "shopify:\/\/shop_images\/Kamenskaya_logo2.svg",
+            "text": "<p>Зроблено художником для художника</p>",
+            "image": "shopify://shop_images/Kamenskaya_logo2.svg",
             "image_max_width": 200,
             "image_placement": "above_text",
             "show_social_icons": true,
@@ -57,7 +66,7 @@
             "collapse_on_mobile": false,
             "title": "Підписка на новини",
             "show_title_on_desktop": true,
-            "text": "<p>Будьте в курсі останніх новин, ексклюзивних пропозицій, а також отримайте знижку 10% на ваше перше замовлення.<\/p>",
+            "text": "<p>Будьте в курсі останніх новин та ексклюзивних пропозицій</p>",
             "show_social_icons": false,
             "enable_follow_on_shop": true
           }
@@ -70,9 +79,7 @@
         "footer-3",
         "footer-4"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "enable_locale_selector": false,
         "enable_country_selector": true,
