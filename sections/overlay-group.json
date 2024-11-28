@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "custom.overlay",
   "name": "t:groups.overlay_group.name",
@@ -16,7 +16,7 @@
       "settings": {
         "enable_quick_cart": true,
         "show_product_currency": true,
-        "promotion_text": "<p>Не знаєте, з чого почати? Спробуйте ці колекції:<\/p>",
+        "promotion_text": "<p>Не знаєте, з чого почати? Спробуйте ці колекції:</p>",
         "collection_list": [
           "sets",
           "best-sellers"
@@ -29,6 +29,7 @@
       "blocks": {
         "popup_signup_9VNzUF": {
           "type": "popup_signup",
+          "disabled": true,
           "settings": {
             "delay": "timer_30000",
             "frequency": "frequency_100000",
@@ -40,10 +41,10 @@
             "heading": "Приєднуйтесь до нас",
             "heading_font_class": "fs-heading-2-base",
             "subheading": "",
-            "text": "<p>Підпишіться та отримайте знижку 10% на першу покупку<\/p>",
+            "text": "<p>Підпишіться та отримайте знижку 10% на першу покупку</p>",
             "link_text": "Отримати знижку",
             "dismiss_text": "Ні, дякую",
-            "footer_text": "<p>Заповнюючи цю форму, ви погоджуєтеся на отримання наших інформаційних електронних листів і можете відмовитися від їх отримання в будь-який час<\/p>",
+            "footer_text": "<p>Заповнюючи цю форму, ви погоджуєтеся на отримання наших інформаційних електронних листів і можете відмовитися від їх отримання в будь-який час</p>",
             "tags": "newsletter",
             "show_social_icons": true,
             "popup_size": "medium",
@@ -51,13 +52,13 @@
             "image_position": "left",
             "focal_point": "image_presentation",
             "show_image_on_mobile": true,
-            "background_color": "#fff",
+            "background_color": "#ffffff",
             "text_color": "#000000",
             "input_color": "#000000",
-            "input_background": "#fff",
+            "input_background": "#ffffff",
             "button_background_color": "#000000",
-            "button_text_color": "#FFFFFF",
-            "color_overlay": "#000",
+            "button_text_color": "#ffffff",
+            "color_overlay": "#000000",
             "overlay_opacity": 0,
             "enable_tab": true,
             "tab_text": "Отримайте знижку 10%",
@@ -71,8 +72,7 @@
       "block_order": [
         "popup_signup_9VNzUF"
       ],
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
