@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "0160c8e2-10e7-46a9-9903-95e48a4df163": {
@@ -15,7 +15,7 @@
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/911716fe5ab79be5a5dba72f2ca68cd8.jpg",
+            "image": "shopify://shop_images/911716fe5ab79be5a5dba72f2ca68cd8.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
@@ -31,7 +31,7 @@
             "link_1": "",
             "link_text_1": "Читати далі",
             "button_style_1": "btn--primary",
-            "link_2": "shopify:\/\/collections\/alcohol-inks",
+            "link_2": "shopify://collections/alcohol-inks",
             "link_text_2": "детальніше",
             "button_style_2": "btn--primary",
             "text_color": "#ffffff",
@@ -45,8 +45,8 @@
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bb2a601946f438ed94348db7673f2de2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/75d1f311f65a91556c626951a8a22b68.jpg",
+            "image": "shopify://shop_images/bb2a601946f438ed94348db7673f2de2.jpg",
+            "image_mobile": "shopify://shop_images/75d1f311f65a91556c626951a8a22b68.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
@@ -62,7 +62,7 @@
             "link_1": "",
             "link_text_1": "Читати далі",
             "button_style_1": "btn--primary",
-            "link_2": "shopify:\/\/collections\/delaminating-inks",
+            "link_2": "shopify://collections/delaminating-inks",
             "link_text_2": "детальніше",
             "button_style_2": "btn--primary",
             "text_color": "#ffffff",
@@ -76,8 +76,8 @@
         "1b50cc8d-0aca-4ec4-a391-e0e0c9e2e356": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1de197150e17095d0b91f1b74ba7b03f.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_8572.png",
+            "image": "shopify://shop_images/1de197150e17095d0b91f1b74ba7b03f.jpg",
+            "image_mobile": "shopify://shop_images/IMG_8572.png",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
@@ -93,7 +93,7 @@
             "link_1": "",
             "link_text_1": "Читати далі",
             "button_style_1": "btn--primary",
-            "link_2": "shopify:\/\/collections\/acrylic-inks",
+            "link_2": "shopify://collections/acrylic-inks",
             "link_text_2": "детальніше",
             "button_style_2": "btn--primary",
             "text_color": "#ffffff",
@@ -107,8 +107,8 @@
         "9b45187d-d8a4-4d23-957e-8554aeaf163f": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_4608.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/a6466761db7661cce554593ea5f788c9.jpg",
+            "image": "shopify://shop_images/IMG_4608.jpg",
+            "image_mobile": "shopify://shop_images/a6466761db7661cce554593ea5f788c9.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
@@ -121,7 +121,7 @@
             "subheading_font_class": "fs-heading-4-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link_1": "shopify:\/\/collections\/texture",
+            "link_1": "shopify://collections/texture",
             "link_text_1": "детальніше",
             "button_style_1": "btn--primary",
             "link_2": "",
@@ -139,8 +139,8 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_5841.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_4834.jpg",
+            "image": "shopify://shop_images/IMG_5841.jpg",
+            "image_mobile": "shopify://shop_images/IMG_4834.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
@@ -151,7 +151,7 @@
             "heading_font_class": "fs-heading-display-2",
             "subheading": "Тільки 1 день знижка 15% на все!",
             "subheading_font_class": "fs-heading-4-base",
-            "text": "<p>застосуйте код на знижку MARCH8 при оформленні замовлення<\/p>",
+            "text": "<p>застосуйте код на знижку MARCH8 при оформленні замовлення</p>",
             "text_font_class": "fs-body-75",
             "link_1": "",
             "link_text_1": "Read more",
@@ -166,6 +166,36 @@
             "color_overlay_gradient": "",
             "overlay_opacity": 40
           }
+        },
+        "slide_FeYyww": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5268.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "ЗНИЖКА 20% НА ВСЕ!",
+            "heading_font_class": "fs-heading-display-3",
+            "subheading": "акція триває до 2 грудня включно",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#FFFFFF",
+            "button_background_color": "#FFFFFF",
+            "button_text_color": "#000000",
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
         }
       },
       "block_order": [
@@ -173,7 +203,8 @@
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-1",
         "1b50cc8d-0aca-4ec4-a391-e0e0c9e2e356",
         "9b45187d-d8a4-4d23-957e-8554aeaf163f",
-        "slide_AMrfUE"
+        "slide_AMrfUE",
+        "slide_FeYyww"
       ],
       "settings": {
         "image_aspect": "custom",
@@ -204,8 +235,8 @@
         "hide_timer_on_complete": true,
         "timer_complete_message": "",
         "heading": "З теплими побажаннями",
-        "text": "<p>Даруємо знижку 15% на всі товари по промокоду MARCH8<\/p>",
-        "link": "shopify:\/\/collections",
+        "text": "<p>Даруємо знижку 15% на всі товари по промокоду MARCH8</p>",
+        "link": "shopify://collections",
         "link_text": "У КАТАЛОГ",
         "button_style": "btn--secondary",
         "focal_point": "image_presentation",
@@ -236,7 +267,7 @@
         "1654917794cdc0bc3c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>СТВОРЕНО ХУДОЖНИКОМ ДЛЯ ХУДОЖНИКА<\/p>",
+            "text": "<p>СТВОРЕНО ХУДОЖНИКОМ ДЛЯ ХУДОЖНИКА</p>",
             "text_font_class": "fs-body-200"
           }
         }
@@ -263,8 +294,8 @@
             "width": "33",
             "height": 500,
             "mobile_height": 360,
-            "image": "shopify:\/\/shop_images\/891a648af5a203153ee312a9f817fed6.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/891a648af5a203153ee312a9f817fed6.jpg",
+            "image": "shopify://shop_images/891a648af5a203153ee312a9f817fed6.jpg",
+            "mobile_image": "shopify://shop_images/891a648af5a203153ee312a9f817fed6.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -272,11 +303,11 @@
             "accent": "",
             "title": "Спиртові чорнила",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Для легких і невагомих картин<\/p>",
+            "subheading": "<p>Для легких і невагомих картин</p>",
             "subheading_font_class": "fs-heading-6-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link": "shopify:\/\/collections\/alcohol-inks",
+            "link": "shopify://collections/alcohol-inks",
             "link_text": "детальніше",
             "button_style": "btn--callout",
             "background_color": "",
@@ -294,8 +325,8 @@
             "width": "33",
             "height": 500,
             "mobile_height": 360,
-            "image": "shopify:\/\/shop_images\/IMG_6641.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/IMG_6641.jpg",
+            "image": "shopify://shop_images/IMG_6641.jpg",
+            "mobile_image": "shopify://shop_images/IMG_6641.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -303,11 +334,11 @@
             "accent": "",
             "title": "Текстурний живопис",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Для об'ємних картин<\/p>",
+            "subheading": "<p>Для об'ємних картин</p>",
             "subheading_font_class": "fs-heading-6-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link": "shopify:\/\/collections\/modeling",
+            "link": "shopify://collections/modeling",
             "link_text": "детальніше",
             "button_style": "btn--callout",
             "background_color": "",
@@ -325,8 +356,8 @@
             "width": "33",
             "height": 500,
             "mobile_height": 360,
-            "image": "shopify:\/\/shop_images\/IMG_8572.png",
-            "mobile_image": "shopify:\/\/shop_images\/f794dbc8adba20f12eae94c45e30e328.jpg",
+            "image": "shopify://shop_images/IMG_8572.png",
+            "mobile_image": "shopify://shop_images/f794dbc8adba20f12eae94c45e30e328.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -334,11 +365,11 @@
             "accent": "",
             "title": "Акрил",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Для змішаної техніки<\/p>",
+            "subheading": "<p>Для змішаної техніки</p>",
             "subheading_font_class": "fs-heading-6-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link": "shopify:\/\/collections\/acrylic",
+            "link": "shopify://collections/acrylic",
             "link_text": "детальніше",
             "button_style": "btn--callout",
             "background_color": "",
@@ -381,7 +412,7 @@
         "template--19727828091163__d9fa6090-9387-4c14-a533-594633ad9155-168899779145218414-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Ми пропонуємо професійні художні товари для сучасних технік малювання, щоб розкрити ваш творчий потенціал. Доторкнись до мистецтва разом з KAMENSKAYA!<\/p>",
+            "text": "<p>Ми пропонуємо професійні художні товари для сучасних технік малювання, щоб розкрити ваш творчий потенціал. Доторкнись до мистецтва разом з KAMENSKAYA!</p>",
             "text_font_class": "fs-body-200"
           }
         }
@@ -405,11 +436,11 @@
         "template--19727828091163__a949066c-fab3-4ff1-bf88-d4df0f7a4f62-1688977582d5db8e4a-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Acrylic.jpg",
+            "image": "shopify://shop_images/Acrylic.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "title": "Image hero split",
-            "text": "<p>Use this sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use this sections to promote a particular feature with editorial photography.</p>",
             "link": "",
             "link_text": "Read more",
             "button_style": "btn--primary"
@@ -418,11 +449,11 @@
         "template--19727828091163__a949066c-fab3-4ff1-bf88-d4df0f7a4f62-1688977582d5db8e4a-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Alcohol_Inks.jpg",
+            "image": "shopify://shop_images/Alcohol_Inks.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "title": "Image hero split",
-            "text": "<p>Use this sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use this sections to promote a particular feature with editorial photography.</p>",
             "link": "",
             "link_text": "Read more",
             "button_style": "btn--primary"
@@ -465,11 +496,11 @@
         "currency_symbol_position": "before",
         "heading": "Announce your sale",
         "heading_font_class": "fs-heading-3-base",
-        "text": "<p>Highlight sale campaigns, discounts, and promotions.<\/p>",
-        "link": "shopify:\/\/collections",
+        "text": "<p>Highlight sale campaigns, discounts, and promotions.</p>",
+        "link": "shopify://collections",
         "link_text": "Button",
         "button_style": "btn--secondary",
-        "link_2": "shopify:\/\/collections",
+        "link_2": "shopify://collections",
         "link_text_2": "Button",
         "button_style_2": "btn--secondary",
         "focal_point": "image_presentation",
@@ -497,7 +528,7 @@
             "width": "50",
             "height": 600,
             "mobile_height": 460,
-            "image": "shopify:\/\/shop_images\/IMG_1956.jpg",
+            "image": "shopify://shop_images/IMG_1956.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -509,7 +540,7 @@
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link": "shopify:\/\/collections\/delaminating-inks",
+            "link": "shopify://collections/delaminating-inks",
             "link_text": "Переглянути розшаровующі чорнила",
             "button_style": "btn--callout",
             "background_color": "",
@@ -527,7 +558,7 @@
             "width": "50",
             "height": 600,
             "mobile_height": 460,
-            "image": "shopify:\/\/shop_images\/IMG_7248.jpg",
+            "image": "shopify://shop_images/IMG_7248.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -539,7 +570,7 @@
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link": "shopify:\/\/collections\/metallic-inks",
+            "link": "shopify://collections/metallic-inks",
             "link_text": "Додайте акцент у свою роботу",
             "button_style": "btn--callout",
             "background_color": "",
@@ -588,7 +619,7 @@
       "settings": {
         "heading": "Останні надходження",
         "subheading": "",
-        "link": "shopify:\/\/collections\/new",
+        "link": "shopify://collections/new",
         "link_text": "Переглянути всі новинки",
         "maximum_products": 15,
         "columns": "4",
@@ -603,7 +634,7 @@
       "settings": {
         "heading": "Популярні колекції",
         "subheading": "",
-        "link": "shopify:\/\/collections",
+        "link": "shopify://collections",
         "link_text": "Переглянути всі колекції",
         "columns": "3",
         "mobile_columns": "1",
@@ -638,7 +669,7 @@
             "accent": "",
             "title": "Grid item",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading": "<p>Perfect for lookbooks and editorial photography</p>",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -667,7 +698,7 @@
             "accent": "",
             "title": "Grid item",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading": "<p>Perfect for lookbooks and editorial photography</p>",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -696,7 +727,7 @@
             "accent": "",
             "title": "Grid item",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading": "<p>Perfect for lookbooks and editorial photography</p>",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -725,7 +756,7 @@
             "accent": "",
             "title": "Grid item",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading": "<p>Perfect for lookbooks and editorial photography</p>",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -754,7 +785,7 @@
             "accent": "",
             "title": "Grid item",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading": "<p>Perfect for lookbooks and editorial photography</p>",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -783,7 +814,7 @@
             "accent": "",
             "title": "Grid item",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading": "<p>Perfect for lookbooks and editorial photography</p>",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -856,12 +887,12 @@
         "16548834735b1dc2a7-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8581.jpg",
+        "image": "shopify://shop_images/IMG_8581.jpg",
         "image_position": "left",
         "image_size": 50,
         "aspect_ratio": "natural",
         "heading": "Набирає популярність",
-        "subheading": "<p>Створюй оригінальні картини з використанням текстурної пасти з піском<\/p>",
+        "subheading": "<p>Створюй оригінальні картини з використанням текстурної пасти з піском</p>",
         "link": "",
         "link_text": "Купити зараз",
         "button_style": "btn--callout",
@@ -946,8 +977,8 @@
       "disabled": true,
       "settings": {
         "heading": "Best sellers",
-        "subheading": "<p>Shop our favourites, chosen by you.<\/p>",
-        "link": "shopify:\/\/collections",
+        "subheading": "<p>Shop our favourites, chosen by you.</p>",
+        "link": "shopify://collections",
         "link_text": "View all bestsellers",
         "columns": "4",
         "mobile_columns": "2",
@@ -984,8 +1015,8 @@
       ],
       "settings": {
         "heading": "Бестселери",
-        "subheading": "<p>Купуйте улюблені товари, обрані нашими покупцями<\/p>",
-        "link": "shopify:\/\/collections\/best-sellers",
+        "subheading": "<p>Купуйте улюблені товари, обрані нашими покупцями</p>",
+        "link": "shopify://collections/best-sellers",
         "link_text": "Переглянути всі бестселери",
         "maximum_products": 8,
         "columns": "4",
@@ -1010,10 +1041,10 @@
             "accent": "",
             "heading": "A-01 \"White\"",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.<\/p>",
+            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
-            "link": "shopify:\/\/products\/a-01-white",
+            "link": "shopify://products/a-01-white",
             "link_text": "Shop now",
             "button_style": "btn--primary"
           }
@@ -1030,10 +1061,10 @@
             "accent": "",
             "heading": "A-02 \"Yellow\"",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.<\/p>",
+            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
-            "link": "shopify:\/\/products\/a-02-yellow",
+            "link": "shopify://products/a-02-yellow",
             "link_text": "Shop now",
             "button_style": "btn--primary"
           }
@@ -1045,12 +1076,12 @@
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "image_position": "above_text",
-            "image_link": "shopify:\/\/products\/a-04-light-blue",
+            "image_link": "shopify://products/a-04-light-blue",
             "small_caption": "",
             "accent": "",
             "heading": "A-04 \"Light blue\"",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.<\/p>",
+            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
             "link": "",
@@ -1070,10 +1101,10 @@
             "accent": "",
             "heading": "A-06 \"Brown chestnut\"",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.<\/p>",
+            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
-            "link": "shopify:\/\/products\/a-06-brown-chestnut",
+            "link": "shopify://products/a-06-brown-chestnut",
             "link_text": "Shop now",
             "button_style": "btn--primary"
           }
@@ -1088,8 +1119,8 @@
       "disabled": true,
       "settings": {
         "title": "Best sellers",
-        "subheading": "<p>Shop our favourites, chosen by you.<\/p>",
-        "subheading_link": "shopify:\/\/collections\/best-sellers",
+        "subheading": "<p>Shop our favourites, chosen by you.</p>",
+        "subheading_link": "shopify://collections/best-sellers",
         "subheading_link_text": "Shop all best sellers",
         "heading_font_class": "fs-heading-3-base",
         "heading_alignment": "left",
@@ -1139,7 +1170,7 @@
         "63e2f450-ccdf-4ba0-8c95-8e7b01b5c7f5": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo_2023-05-05_22.51.27.jpg",
+            "image": "shopify://shop_images/photo_2023-05-05_22.51.27.jpg",
             "image_size": 250,
             "image_size_mobile": 200
           }
@@ -1147,7 +1178,7 @@
         "7f329234-f652-4947-8f09-cad43d072028": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/products\/casting-compound",
+            "link": "shopify://products/casting-compound",
             "link_text": "Купити",
             "button_style": "btn--secondary"
           }
@@ -1164,7 +1195,7 @@
         "image_position": "right",
         "image_mobile_position": "above-content",
         "image_padding": "none",
-        "image": "shopify:\/\/shop_images\/casting_kit_girls_result-min.jpg",
+        "image": "shopify://shop_images/casting_kit_girls_result-min.jpg",
         "aspect_ratio": "natural",
         "focal_point": "image_presentation",
         "content_alignment": "center",
@@ -1674,7 +1705,7 @@
         "39a1cced-a841-48eb-bf01-2041e2134155": {
           "type": "play-button",
           "settings": {
-            "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/864c3533b17f40c5b664c59f1fd07b0c.mp4",
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/864c3533b17f40c5b664c59f1fd07b0c.mp4",
             "aspect_ratio": "natural",
             "text": "дивитися відео",
             "icon_style": "light"
@@ -1692,7 +1723,7 @@
         "desktop_height": 65,
         "mobile_height": 50,
         "video_url": "",
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-08-15_at_18.33.14.png",
+        "image": "shopify://shop_images/Screenshot_2023-08-15_at_18.33.14.png",
         "media_link": "",
         "focal_point": "image_presentation",
         "text_position": "center_flex-end",
@@ -1740,8 +1771,7 @@
         },
         "a20757dc-e69a-44d7-a715-2a5d06580517": {
           "type": "border",
-          "settings": {
-          }
+          "settings": {}
         },
         "1655748276a16c587f-1": {
           "type": "subheading",
@@ -1753,14 +1783,13 @@
         "2c5ae3e6-0766-4bad-aff5-a724000e1ddd": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-75"
           }
         },
         "6bfc7d96-f5a5-41c5-b66f-6b8eb23d8a52": {
           "type": "border",
-          "settings": {
-          }
+          "settings": {}
         },
         "737ce2a8-7a79-4050-901a-b48412cad79e": {
           "type": "subheading",
@@ -1772,7 +1801,7 @@
         "78b87e77-53f6-4b58-828a-36ba7eeaa4f1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-75"
           }
         },
@@ -1867,7 +1896,7 @@
         "image_position": "right",
         "image_mobile_position": "above-content",
         "image_padding": "none",
-        "image": "shopify:\/\/shop_images\/6.jpg",
+        "image": "shopify://shop_images/6.jpg",
         "aspect_ratio": "landscape",
         "focal_point": "image_presentation",
         "content_alignment": "center",
@@ -1890,7 +1919,7 @@
             "heading_font_class": "fs-heading-4-base",
             "subheading": "",
             "subheading_font_class": "fs-heading-6-base",
-            "text": "<p>Include a short sentence describing what someone can expect from your newsletter.<\/p>",
+            "text": "<p>Include a short sentence describing what someone can expect from your newsletter.</p>",
             "text_font_class": "fs-body-75"
           }
         },
@@ -1898,7 +1927,7 @@
           "type": "newsletter_signup",
           "settings": {
             "signup_link_text": "Sign up",
-            "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time.<\/p>"
+            "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time.</p>"
           }
         }
       },
