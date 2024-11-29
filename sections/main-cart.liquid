@@ -74,15 +74,18 @@
                     {% endif %}
                   </div>
 
-                  <div class="cart__form-item-price-wrapper fs-body-75">
-                    {% if item.original_line_price > item.final_line_price %}
-                      <s class="cart__form-item-price">{{ item.original_price | money }}{% if section.settings.show_product_currency %} {{ cart.currency.iso_code }}{% endif %}</s>
-                    {% endif %}
+                 <div class="cart__form-item-price-wrapper fs-body-75">
+  {% if item.original_line_price > item.final_line_price %}
+    <s class="cart__form-item-price">{{ item.original_price | money }}{% if section.settings.show_product_currency %} {{ cart.currency.iso_code }}{% endif %}</s>
+  {% endif %}
 
-                    <span class="cart__form-item-price{% if item.original_line_price > item.final_line_price %} sale-price{% endif %}">{{ item.final_price | money }}{% if section.settings.show_product_currency %} {{ cart.currency.iso_code }}{% endif %}</span>
+  <span class="cart__form-item-price{% if item.original_line_price > item.final_line_price %} sale-price{% endif %}">
+    {{ item.final_line_price | money }}{% if section.settings.show_product_currency %} {{ cart.currency.iso_code }}{% endif %}
+  </span>
 
-                    {% render 'unit-price', item: item %}
-                  </div>
+  {% render 'unit-price', item: item %}
+</div>
+
                 </div>
 
                 <div class='cart__form-item-quantity-wrapper'>
