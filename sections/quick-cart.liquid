@@ -82,34 +82,26 @@
                       {% endif %}
 
                       <div class="quick-cart__item-price-wrapper fs-body-75">
-  {% if item.compare_at_price > item.final_line_price %}
-    <s class="quick-cart__item-price">
-      {{ item.compare_at_price | money }}
-      {% if section.settings.show_product_currency %} 
-        {{ cart.currency.iso_code }}{% endif %}
-    </s>
-  {% endif %}
+                        {% if item.original_line_price > item.final_line_price %}
+                          <s class="quick-cart__item-price">{{ item.original_price | money }}{% if section.settings.show_product_currency %} {{ cart.currency.iso_code }}{% endif %}</s>
+                        {% endif %}
 
-  <span class="quick-cart__item-price{% if item.compare_at_price > item.final_line_price %} sale-price{% endif %}">
-    {{ item.final_line_price | money }}
-    {% if section.settings.show_product_currency %} 
-      {{ cart.currency.iso_code }}{% endif %}
-  </span>
+                        <span class="quick-cart__item-price{% if item.original_line_price > item.final_line_price %} sale-price{% endif %}">{{ item.final_price | money }}{% if section.settings.show_product_currency %} {{ cart.currency.iso_code }}{% endif %}</span>
 
-  {% render 'unit-price', item: item %}
-</div>
+                        {% render 'unit-price', item: item %}
+                      </div>
 
-{% if item.line_level_discount_allocations.size > 0 %}
-  <ul class="quick-cart__item-discounts">
-    {% for discount_allocation in item.line_level_discount_allocations %}
-      <li class="quick-cart__item-discount fs-body-60">
-        {%- render 'icon', icon: 'discount-badge' -%}
-        {{ discount_allocation.discount_application.title }} (-{{ discount_allocation.amount | money }})
-      </li>
-    {% endfor %}
-  </ul>
-{% endif %}
-
+                      {% if item.line_level_discount_allocations.size > 0 %}
+                        <ul class="quick-cart__item-discounts">
+                        {% for discount_allocation in item.line_level_discount_allocations %}
+                          <li class="quick-cart__item-discount fs-body-60">
+                            {%- render 'icon', icon: 'discount-badge' -%}
+                            {{ discount_allocation.discount_application.title }} (-{{ discount_allocation.amount | money }})
+                          </li>
+                        {% endfor %}
+                        </ul>
+                      {% endif %}
+                    </div>
 
                     <div class='quick-cart__item-bottom'>
                       <p class="quick-cart__item-error fs-body-50 hidden">{{ 'cart.general.error' | t }}</p>
