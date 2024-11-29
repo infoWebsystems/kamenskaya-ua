@@ -80,6 +80,13 @@
                     {% endif %}
 
                     <span class="cart__form-item-price{% if item.original_line_price > item.final_line_price %} sale-price{% endif %}">{{ item.final_price | money }}{% if section.settings.show_product_currency %} {{ cart.currency.iso_code }}{% endif %}</span>
+                    {% for item in cart.items %}
+  {{ item.product.title }} {{ item.quantity }} {{ item.final_line_price | money }}
+  {% if item.total_discount > 0 %}
+    {{ item.original_line_price | money }} ({{ item.message }})
+  {% endif %}
+{% endfor %}
+
 
                     {% render 'unit-price', item: item %}
                   </div>
