@@ -82,9 +82,13 @@
                       {% endif %}
 
                       <div class="quick-cart__item-price-wrapper fs-body-75">
-                        {% if item.original_line_price > item.final_line_price %}
-                          <s class="quick-cart__item-price">{{ item.original_price | money }}{% if section.settings.show_product_currency %} {{ cart.currency.iso_code }}{% endif %}</s>
-                        {% endif %}
+                        {%- if item.original_line_price != item.final_line_price -%}
+  {{ 'products.general.regular_price' | t }} {{ item.original_line_price | money }}
+  {{ 'products.general.sale_price' | t }} {{ item.final_line_price | money }}
+{%- else -%}
+  {{ item.original_line_price | money }}
+{%- endif -%}
+
 
                         <span class="quick-cart__item-price{% if item.original_line_price > item.final_line_price %} sale-price{% endif %}">{{ item.final_price | money }}{% if section.settings.show_product_currency %} {{ cart.currency.iso_code }}{% endif %}</span>
 
