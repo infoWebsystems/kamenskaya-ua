@@ -81,32 +81,15 @@
                           </script>
                       {% endif %}
 
-                     <div class="quick-cart__item-price-wrapper fs-body-75">
-  {%- if item.compare_at_price > item.final_line_price -%}
-    <!-- Show original price (before discount) with strikethrough -->
-    <s class="quick-cart__item-price">
-      {{ item.compare_at_price | money }}
-      {% if section.settings.show_product_currency %} 
-        {{ cart.currency.iso_code }}{% endif %}
-    </s>
-    <!-- Show discounted price -->
-    <span class="quick-cart__item-price sale-price">
-      {{ item.final_line_price | money }}
-      {% if section.settings.show_product_currency %} 
-        {{ cart.currency.iso_code }}{% endif %}
-    </span>
-  {%- else -%}
-    <!-- Show original price if no discount -->
-    <span class="quick-cart__item-price">
-      {{ item.final_line_price | money }}
-      {% if section.settings.show_product_currency %} 
-        {{ cart.currency.iso_code }}{% endif %}
-    </span>
-  {%- endif -%}
+                      <div class="quick-cart__item-price-wrapper fs-body-75">
+                        {% if item.original_line_price > item.final_line_price %}
+                          <s class="quick-cart__item-price">{{ item.original_price | money }}{% if section.settings.show_product_currency %} {{ cart.currency.iso_code }}{% endif %}</s>
+                        {% endif %}
 
-  {% render 'unit-price', item: item %}
-</div>
+                        <span class="quick-cart__item-price{% if item.original_line_price > item.final_line_price %} sale-price{% endif %}">{{ item.final_price | money }}{% if section.settings.show_product_currency %} {{ cart.currency.iso_code }}{% endif %}</span>
 
+                        {% render 'unit-price', item: item %}
+                      </div>
 
                       {% if item.line_level_discount_allocations.size > 0 %}
                         <ul class="quick-cart__item-discounts">
