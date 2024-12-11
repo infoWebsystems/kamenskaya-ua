@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -24,6 +33,8 @@
             "variant_popup_text": "Size guide",
             "variant_popup_page": "",
             "swatch_size": "medium",
+            "siblings_show_product_image": true,
+            "siblings_option_name": "Color",
             "chip_layout": "3col"
           }
         },
@@ -39,7 +50,8 @@
             "label": "Availability",
             "inventory_max": "40",
             "low_inventory_threshold": "5",
-            "show_status_bar": true
+            "show_status_bar": true,
+            "show_untracked_quantity": false
           }
         },
         "buy_buttons": {
@@ -51,6 +63,7 @@
         "description": {
           "type": "description",
           "settings": {
+            "title": "Description",
             "text_font_class": "fs-body-100",
             "column_placement": "right",
             "display_as_collapsible_row": false,
@@ -59,8 +72,7 @@
         },
         "share": {
           "type": "share",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -74,12 +86,16 @@
       ],
       "settings": {
         "enable_sticky_product_details": true,
+        "show_breadcrumbs": false,
+        "show_navigation_buttons": false,
         "gallery_style": "thumbnails",
+        "gallery_style_mobile": "carousel",
         "gallery_size": "large",
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
-        "image_aspect_ratio": "square",
+        "image_aspect_ratio": "natural",
+        "enable_gift_card_recipient": true,
         "enable_animation": true
       }
     }
