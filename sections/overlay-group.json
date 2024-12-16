@@ -29,7 +29,6 @@
       "blocks": {
         "popup_signup_9VNzUF": {
           "type": "popup_signup",
-          "disabled": true,
           "settings": {
             "delay": "timer_30000",
             "frequency": "frequency_100000",
@@ -71,7 +70,7 @@
         "popup_3wqATM": {
           "type": "popup",
           "settings": {
-            "delay": "timer_30000",
+            "delay": "timer_120000",
             "frequency": "frequency_100000",
             "show_on_exit_intent": false,
             "disable_for_account_holders": true,
@@ -93,11 +92,11 @@
             "image_position": "top",
             "focal_point": "image_presentation",
             "show_image_on_mobile": true,
-            "background_color": "#fff",
+            "background_color": "#ffffff",
             "text_color": "#000000",
             "button_background_color": "#000000",
-            "button_text_color": "#FFFFFF",
-            "color_overlay": "#000",
+            "button_text_color": "#ffffff",
+            "color_overlay": "#000000",
             "overlay_opacity": 0
           }
         }
