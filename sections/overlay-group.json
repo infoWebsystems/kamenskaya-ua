@@ -73,7 +73,7 @@
             "delay": "timer_120000",
             "frequency": "frequency_100000",
             "show_on_exit_intent": false,
-            "disable_for_account_holders": true,
+            "disable_for_account_holders": false,
             "show_on_specific_page": false,
             "target_page": "",
             "accent": "",
