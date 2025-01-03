@@ -69,6 +69,7 @@
         },
         "popup_3wqATM": {
           "type": "popup",
+          "disabled": true,
           "settings": {
             "delay": "timer_120000",
             "frequency": "frequency_100000",
