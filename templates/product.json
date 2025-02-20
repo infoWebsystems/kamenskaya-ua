@@ -503,10 +503,10 @@
     "04e104fd-5b51-479c-85e3-7b140cf8b0f5": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Колекції спиртових чорнил",
+        "heading": "Категорії товарів",
         "subheading": "",
-        "link": "shopify://collections/alcohol-inks",
-        "link_text": "Переглянути всі спиртові чорнила",
+        "link": "shopify://collections/all",
+        "link_text": "Переглянути всі товари",
         "columns": "4",
         "mobile_columns": "2",
         "collection_list": [
