@@ -519,15 +519,10 @@
         "columns": "4",
         "mobile_columns": "2",
         "collection_list": [
-          "core-a-line",
-          "nude-inks",
-          "metallic-inks",
-          "nacre-chameleons",
-          "delaminating-inks",
-          "inks-for-petri-art",
-          "sets",
-          "bleinding-solutions",
-          "materials-for-ink-art"
+          "alcohol-inks",
+          "gilding",
+          "acrylic",
+          "modeling"
         ],
         "collection_listing_aspect_ratio": "square",
         "label_style": "overlay",
