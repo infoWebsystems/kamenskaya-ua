@@ -25,6 +25,14 @@
             "show_custom_badges": true
           }
         },
+        "text_W4DAih": {
+          "type": "text",
+          "settings": {
+            "text_font_class": "fs-body-100",
+            "text": "<p>{{ product.metafields.custom.volume | metafield_tag }}</p>",
+            "column_placement": "right"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -182,6 +190,7 @@
       },
       "block_order": [
         "product_header",
+        "text_W4DAih",
         "description",
         "accordion-1",
         "accordion-2",
