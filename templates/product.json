@@ -31,7 +31,7 @@
             "title": "",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
-            "display_as_collapsible_row": true,
+            "display_as_collapsible_row": false,
             "expand_by_default": true
           }
         },
@@ -70,6 +70,7 @@
         },
         "product_callouts_mini": {
           "type": "product_callouts_mini",
+          "disabled": true,
           "settings": {
             "icon_1": "none",
             "text_1": "Ink Art",
@@ -87,6 +88,7 @@
         },
         "6f9723ce-ad6d-4ba7-99e5-75abc25908f3": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "column_placement": "right",
             "custom_liquid": "Об'єм: 15 мл"
