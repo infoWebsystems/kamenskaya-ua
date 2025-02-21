@@ -71,7 +71,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Умови зберігання та термін придатності",
-            "content": "{{ product.metafields.custom.recommendations | metafield_tag }}",
+            "content": "{{ product.metafields.custom.storage_and_shelf_life | metafield_tag }}",
             "page_for_content": "",
             "custom_liquid": ""
           }
