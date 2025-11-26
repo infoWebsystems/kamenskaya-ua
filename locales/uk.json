@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "shopify": {
     "sentence": {
@@ -134,8 +143,8 @@
         "address2_label": "Номер відділення Нової Пошти",
         "optional_address2_label": "Номер відділення Нової Пошти",
         "city_label": "Місто",
-        "country_label": "Країна\/регіон",
-        "country_code": "Код країни\/регіону",
+        "country_label": "Країна/регіон",
+        "country_code": "Код країни/регіону",
         "province_label": "Провінція",
         "province_placeholder": "Провінція",
         "county_label": "графство",
@@ -151,8 +160,8 @@
         "governorate_placeholder": "Губернаторство",
         "emirate_label": "Емірат",
         "emirate_placeholder": "Емірат",
-        "state_and_territory_label": "Держава\/територія",
-        "state_and_territory_placeholder": "Держава\/територія",
+        "state_and_territory_label": "Держава/територія",
+        "state_and_territory_placeholder": "Держава/територія",
         "phone_label": "Телефон",
         "optional_phone_label": "Телефон (необов'язково)",
         "phone_placeholder": "Телефон",
@@ -227,8 +236,8 @@
         "name_on_card_label": "Ім'я на картці",
         "name_on_card_placeholder": "Ім'я на картці",
         "card_expired": "Термін дії минув",
-        "card_expiry_label": "Термін придатності (MM \/ YY)",
-        "card_expiry_placeholder": "Термін придатності (MM \/ YY)",
+        "card_expiry_label": "Термін придатності (MM / YY)",
+        "card_expiry_placeholder": "Термін придатності (MM / YY)",
         "credit_card_start_month": "Почати місяць",
         "credit_card_start_year": "Початковий рік",
         "delete_customer_mandate_modal_title": "Видалити цю платіжну картку?",
@@ -244,8 +253,8 @@
         "card_verification_value_explanation": "3-значний код безпеки зазвичай знаходиться на звороті вашої картки. Картки American Express мають 4-значний код, розташований на лицьовій стороні.",
         "card_verification_value_explanation_amex": "4-значний код безпеки на лицьовій стороні вашої картки",
         "card_verification_value_explanation_other": "3-значний код безпеки на звороті вашої картки",
-        "card_start_label": "Дата видачі (ММ \/ РР)",
-        "card_start_placeholder": "Дата видачі (ММ \/ РР)",
+        "card_start_label": "Дата видачі (ММ / РР)",
+        "card_start_placeholder": "Дата видачі (ММ / РР)",
         "card_issue_number_label": "Номер заявки",
         "card_issue_number_placeholder": "Номер заявки",
         "card_change_label": "Зміна",
@@ -253,8 +262,8 @@
         "ends_with_label": "закінчується на %{last_digits}",
         "payment_method_saved": "Спосіб оплати збережено",
         "card_vaulted_company_location": "Картка збережена для цього місця",
-        "expiry_long": "(Закінчується %{month}\/%{year})",
-        "expiry_short": "(Термін %{місяць}\/%{рік})",
+        "expiry_long": "(Закінчується %{month}/%{year})",
+        "expiry_short": "(Термін %{місяць}/%{рік})",
         "saved_by_payment_method": "Збережено %{payment_method}",
         "pay_with_payment_method": "Оплатіть %{payment_method}",
         "different_credit_card_label": "Використовуйте іншу кредитну картку",
@@ -262,7 +271,7 @@
         "different_billing_address_label": "Використовуйте іншу платіжну адресу",
         "billing_address_associated_with_mandate": "Використовуйте адресу, пов’язану зі способом оплати",
         "billing_address_associated_with_mandate_info": "Якщо ви бажаєте змінити платіжну адресу, видаліть і повторно введіть дані кредитної картки",
-        "free_order_notice_html": "Ваше замовлення <strong>безкоштовне<\/strong> . Оплата не потрібна.",
+        "free_order_notice_html": "Ваше замовлення <strong>безкоштовне</strong> . Оплата не потрібна.",
         "express_checkout_free_order": "З вас не стягуватиметься плата за безкоштовне замовлення",
         "order_covered_by_gift_cards_notice": {
           "one": "Ваше замовлення покривається подарунковою карткою.",
@@ -277,8 +286,8 @@
         "no_js_credit_card_fields_redirect_hint": "Вас буде перенаправлено, щоб додати платіжну інформацію.",
         "card_fields_container_prefix": "Польовий контейнер для:",
         "card_fields_unavailable_html": {
-          "one": "Платежі кредитними та дебетовими картками зараз недоступні.<br> <a href=\"%{current_url}\">Оновіть сторінку<\/a> або повторіть спробу пізніше.",
-          "other": "Платежі кредитними та дебетовими картками зараз недоступні.<br> <a href=\"%{current_url}\">Оновіть цю сторінку<\/a> або спробуйте інший спосіб оплати."
+          "one": "Платежі кредитними та дебетовими картками зараз недоступні.<br> <a href=\"%{current_url}\">Оновіть сторінку</a> або повторіть спробу пізніше.",
+          "other": "Платежі кредитними та дебетовими картками зараз недоступні.<br> <a href=\"%{current_url}\">Оновіть цю сторінку</a> або спробуйте інший спосіб оплати."
         },
         "card_fields_processing_error": "Виникла проблема з обробкою платежу. Спробуйте оновити цю сторінку або перевірте підключення до Інтернету.",
         "technical_error": "Зараз неможливо обробити платежі через технічну проблему. Повторіть спробу через кілька хвилин.",
@@ -299,13 +308,13 @@
         "multibanco_label": "Мультибанко",
         "klarna_slice_it_label": "Фінанси з Klarna",
         "bank_picker_label": "банк",
-        "purchase_options_card_update_agreement_label_html": "Оновлюючи спосіб оплати, ви дозволяєте здійснювати платежі за будь-яку регулярну або відкладену покупку відповідно до <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{cancellation_policy}\" href=\"%{policy_href}\">політики скасування<\/a> цього магазину.",
+        "purchase_options_card_update_agreement_label_html": "Оновлюючи спосіб оплати, ви дозволяєте здійснювати платежі за будь-яку регулярну або відкладену покупку відповідно до <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{cancellation_policy}\" href=\"%{policy_href}\">політики скасування</a> цього магазину.",
         "subscription_card_update_agreement_label": "Зміна способу оплати призведе до оновлення вашої підписки та майбутніх регулярних платежів.",
         "subscription_agreement_label": "Я розумію, що погоджуюся на підписку. Він поновлюватиметься за вказаною ціною та частотою, доки не закінчиться або не буде %{скасовано}.",
         "subscription_agreement_cancelled": "скасовано",
-        "subscription_agreement_label_html": "Я розумію, що погоджуюся на підписку. Він поновлюватиметься за вказаною ціною та частотою, доки не закінчиться або завершиться\n <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">скасовано<\/a> .\n",
+        "subscription_agreement_label_html": "Я розумію, що погоджуюся на підписку. Він поновлюватиметься за вказаною ціною та частотою, доки не закінчиться або завершиться\n <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">скасовано</a> .\n",
         "purchase_options_agreement_label": "Я розумію, що один або кілька товарів у моєму кошику є відкладеною або повторюваною покупкою. Продовжуючи, я погоджуюся з %{cancellation_policy_label} і дозволяю вам стягувати плату за мій спосіб оплати за цінами, частотою та датами, указаними на цій сторінці, доки моє замовлення не буде виконано або я скасую його, якщо це дозволено.",
-        "purchase_options_agreement_label_html": "Я розумію, що один або кілька товарів у моєму кошику є відкладеною або повторюваною покупкою. Продовжуючи, я погоджуюся з\n <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">політика скасування<\/a>\n і дозволяю вам стягувати плату за мій спосіб оплати за цінами, частотою та датами, зазначеними на цій сторінці, до моєї\n замовлення виконано або я скасовую, якщо це дозволено.\n",
+        "purchase_options_agreement_label_html": "Я розумію, що один або кілька товарів у моєму кошику є відкладеною або повторюваною покупкою. Продовжуючи, я погоджуюся з\n <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">політика скасування</a>\n і дозволяю вам стягувати плату за мій спосіб оплати за цінами, частотою та датами, зазначеними на цій сторінці, до моєї\n замовлення виконано або я скасовую, якщо це дозволено.\n",
         "change_currency_section_description": "Виберіть варіант валюти",
         "no_real_orders_dev_store": "Цей магазин не приймає реальні замовлення або реальні платежі.",
         "waiting_on_payment_methods": "Отримання доступних методів оплати...",
@@ -324,7 +333,7 @@
           "error_authorizing": "Помилка авторизації платежу"
         },
         "account_connected": "Обліковий запис підключено.",
-        "mor_disclaimer_html": "Натиснувши нижче та завершивши своє замовлення, ви погоджуєтеся придбати ваші товари в Global-e як офіційний продавець\n для цієї трансакції згідно <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{mor_terms}\" href=\"%{terms_href}\">з Умовами<\/a> Global-e\n і <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{privacy_policy}\" href=\"%{policy_href}\">Політика конфіденційності<\/a> . Global-e є міжнародним\n постачальник послуг доставки для %{shop_name}\n",
+        "mor_disclaimer_html": "Натиснувши нижче та завершивши своє замовлення, ви погоджуєтеся придбати ваші товари в Global-e як офіційний продавець\n для цієї трансакції згідно <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{mor_terms}\" href=\"%{terms_href}\">з Умовами</a> Global-e\n і <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{privacy_policy}\" href=\"%{policy_href}\">Політика конфіденційності</a> . Global-e є міжнародним\n постачальник послуг доставки для %{shop_name}\n",
         "pending_payment": {
           "due_notice": "Ваш платіж у розмірі %{amount_due} має відбутися %{due_date}.",
           "multibanco": {
@@ -439,7 +448,7 @@
       },
       "payment_summary": {
         "gift_card_current_balance_notice": "Поточний баланс %{amount}",
-        "credit_card_expires_on_notice": "Термін дії закінчується %{month}\/%{year}",
+        "credit_card_expires_on_notice": "Термін дії закінчується %{month}/%{year}",
         "express_payment_gateway_label": "Експрес",
         "manual_payment_gateway_label": "Інструкція",
         "billing_address_title": "Платіжна адреса",
@@ -465,7 +474,7 @@
         "address_address1_too_long": "Перший адресний рядок задовгий (максимум 255 символів)",
         "address_address1_contains_emojis": "Адреса 1 не може містити емодзі",
         "address_address1_contains_html_tags": "Адреса 1 не може містити теги HTML.",
-        "address_address2_blank": "Введіть квартиру, люкс тощо.",
+        "address_address2_blank": "Введіть номер відділення Нової Пошти",
         "address_address2_too_long": "Другий рядок адреси задовгий (максимум 255 символів)",
         "address_address2_contains_emojis": "Address2 не може містити емодзі",
         "address_address2_contains_html_tags": "Address2 не може містити теги HTML.",
@@ -473,9 +482,9 @@
         "address_city_too_long": "Місто задовге (максимум 255 символів)",
         "address_city_contains_emojis": "Місто не може містити емодзі",
         "address_city_contains_html_tags": "Місто не може містити теги HTML.",
-        "address_country_blank": "Виберіть країну\/регіон",
+        "address_country_blank": "Виберіть країну/регіон",
         "address_country_not_supported": "Ми не доставляємо в цю країну чи регіон. Введіть нову адресу доставки та повторіть спробу.",
-        "address_province_blank": "Виберіть штат\/провінцію",
+        "address_province_blank": "Виберіть штат/провінцію",
         "address_company_blank": "Введіть назву компанії",
         "address_company_too_long": "Назва компанії задовга (максимум 255 символів)",
         "address_company_contains_emojis": "Компанія не може містити емодзі",
@@ -521,15 +530,15 @@
         "payment_gateway_unsupported_for_subscriptions": "Цей спосіб оплати недоступний для замовлень за підпискою.",
         "payment_gateway_unsupported_for_deferred_purchase_options": "Цей спосіб оплати недоступний для варіантів відкладеної покупки.",
         "payment_gateway_unsupported_for_country": "Цей спосіб оплати недоступний для вашої країни доставки.",
-        "payment_gateway_unsupported_for_development_store_html": "Щоб розмістити тестове замовлення, вам потрібно буде використовувати тестовий платіжний шлюз. Дізнайтеся більше про <a href=\"%{docs_link}\">тестування замовлень у магазинах розробки<\/a> .",
-        "payment_gateway_unsupported_for_order_above_maximum_orders_html": "Ви досягли ліміту замовлень магазину для розробки за допомогою цього платіжного процесора. Щоб розмістити інше замовлення, вам потрібно буде скористатися тестовим платіжним шлюзом. Дізнайтеся більше про <a href=\"%{docs_link}\">тестування замовлень у магазинах розробки<\/a> .",
+        "payment_gateway_unsupported_for_development_store_html": "Щоб розмістити тестове замовлення, вам потрібно буде використовувати тестовий платіжний шлюз. Дізнайтеся більше про <a href=\"%{docs_link}\">тестування замовлень у магазинах розробки</a> .",
+        "payment_gateway_unsupported_for_order_above_maximum_orders_html": "Ви досягли ліміту замовлень магазину для розробки за допомогою цього платіжного процесора. Щоб розмістити інше замовлення, вам потрібно буде скористатися тестовим платіжним шлюзом. Дізнайтеся більше про <a href=\"%{docs_link}\">тестування замовлень у магазинах розробки</a> .",
         "purchase_options_agreement_blank": "Щоб продовжити покупку, погодьтеся з умовами відкладеної або повторної покупки.",
         "physical_gift_card_invalid_quantity": "Кількість позицій із фізичними подарунковими картками має відповідати кількості кодів подарункових карток.",
         "physical_gift_card_duplicate_code": "Позиція фізичної подарункової картки містить повторюваний код.",
         "physical_gift_card_invalid_code": "Код фізичної подарункової картки недійсний.",
         "email_blank": "Введіть адресу електронної пошти",
         "phone_blank": "Введіть номер телефону",
-        "address_country_invalid": "Виберіть країну\/регіон зі списку",
+        "address_country_invalid": "Виберіть країну/регіон зі списку",
         "address_zip_invalid": "Введіть дійсний поштовий індекс",
         "gift_card_invalid": "Подарункова картка «••••%{last_four_characters}» більше не діє",
         "vaulting_agreement_blank": "Щоб продовжити, вам потрібно зберегти нову кредитну картку, оскільки оплата за це замовлення відбудеться пізніше.",
@@ -606,7 +615,7 @@
             "billing_address": "Введіть дійсну платіжну адресу",
             "shipping_option": "Виберіть дійсний варіант доставки",
             "email": "Введіть дійсну електронну адресу",
-            "zone": "Введіть дійсний штат\/провінцію",
+            "zone": "Введіть дійсний штат/провінцію",
             "postal_code": "Введіть дійсний поштовий індекс",
             "reduction_code": "Введіть дійсний код знижки або подарункової картки"
           },
@@ -614,10 +623,10 @@
             "first_name": "Введіть ім'я",
             "last_name": "Введіть прізвище",
             "address1": "Введіть адресу",
-            "address2": "Введіть квартиру, люкс тощо.",
+            "address2": "Введіть номер відділення Нової Пошти",
             "city": "Введіть місто",
-            "province": "Виберіть штат\/провінцію",
-            "country": "Виберіть країну\/регіон",
+            "province": "Виберіть штат/провінцію",
+            "country": "Виберіть країну/регіон",
             "zip": "Введіть поштовий індекс",
             "phone": "Введіть номер телефону"
           },
@@ -873,7 +882,7 @@
         "recurring_total_label": "Повторювана сума",
         "recurring_total_tooltip": "Не включає доставку, податки, мита чи будь-які відповідні знижки.",
         "confirmation_number_label": "Підтвердження #%{confirmation_number}",
-        "higher_value_discount_applied": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> не можна використати з існуючими знижками.",
+        "higher_value_discount_applied": "<strong style=\"text-transform:uppercase\">%{code}</strong> не можна використати з існуючими знижками.",
         "percent_off_shipping": "%{percent}% знижка на доставку",
         "amount_off_shipping": "%{amount} знижки на доставку",
         "deferred_payment_info": {
@@ -890,8 +899,8 @@
           "due_on_receipt": "Загальна сума під час отримання",
           "due_later_checkout_to_draft": "Загальна сума сплачується пізніше"
         },
-        "maximum_discount_code_limit_reached": "Ви досягли максимальної кількості кодів знижки. Видаліть існуючий код, щоб використовувати <strong style=\"text-transform:uppercase\">%{code}<\/strong> .",
-        "discount_code_application_failed": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> зараз не працює. Зверніться до нас за допомогою.",
+        "maximum_discount_code_limit_reached": "Ви досягли максимальної кількості кодів знижки. Видаліть існуючий код, щоб використовувати <strong style=\"text-transform:uppercase\">%{code}</strong> .",
+        "discount_code_application_failed": "<strong style=\"text-transform:uppercase\">%{code}</strong> зараз не працює. Зверніться до нас за допомогою.",
         "due_on_fulfillment": "Підлягає виконанню",
         "subscriptions": "Підписки",
         "duties_label": "Обов'язки",
@@ -953,11 +962,11 @@
         "gift_card_has_been_removed": "Подарункову картку видалено",
         "gift_card_subscriptions_notice": "Подарункові картки застосовуються лише до вашого першого платежу",
         "discount_already_applied": "До цього замовлення застосована знижка. Ви не можете додати іншу знижку.",
-        "cart_does_not_meet_discount_requirements_notice": "Код знижки <strong style=\"text-transform:uppercase\">%{code}<\/strong> недійсний для товарів у вашому кошику",
-        "discount_requires_customer_notice": "Введіть інформацію про доставку, щоб застосувати код знижки <strong style=\"text-transform:uppercase\">%{code}<\/strong>",
-        "customer_does_not_meet_discount_requirements_notice": "Код знижки <strong style=\"text-transform:uppercase\">%{code}<\/strong> вам зараз недоступний",
-        "shipping_information_does_not_meet_discount_requirements_notice": "Код знижки <strong style=\"text-transform:uppercase\">%{code}<\/strong> недоступний для вашої адреси доставки",
-        "customer_already_used_once_per_customer_discount_notice": "Код знижки <strong style=\"text-transform:uppercase\">%{code}<\/strong> уже використано",
+        "cart_does_not_meet_discount_requirements_notice": "Код знижки <strong style=\"text-transform:uppercase\">%{code}</strong> недійсний для товарів у вашому кошику",
+        "discount_requires_customer_notice": "Введіть інформацію про доставку, щоб застосувати код знижки <strong style=\"text-transform:uppercase\">%{code}</strong>",
+        "customer_does_not_meet_discount_requirements_notice": "Код знижки <strong style=\"text-transform:uppercase\">%{code}</strong> вам зараз недоступний",
+        "shipping_information_does_not_meet_discount_requirements_notice": "Код знижки <strong style=\"text-transform:uppercase\">%{code}</strong> недоступний для вашої адреси доставки",
+        "customer_already_used_once_per_customer_discount_notice": "Код знижки <strong style=\"text-transform:uppercase\">%{code}</strong> уже використано",
         "subtotal_label": "Проміжний підсумок",
         "shipping_label": "Доставка",
         "pickup_label": "Пікап",
@@ -1523,12 +1532,12 @@
           "other": "Недоступні продукти"
         },
         "products_not_available": {
-          "one": "Цей продукт буде видалено з вашого кошика, оскільки він недоступний у вашій країні\/регіоні.",
-          "other": "Ці продукти буде видалено з вашого кошика, оскільки вони недоступні у вашій країні\/регіоні."
+          "one": "Цей продукт буде видалено з вашого кошика, оскільки він недоступний у вашій країні/регіоні.",
+          "other": "Ці продукти буде видалено з вашого кошика, оскільки вони недоступні у вашій країні/регіоні."
         },
         "all_products_in_cart_unavailable": {
-          "one": "Цей продукт недоступний у вашій країні\/регіоні.",
-          "other": "Ці продукти недоступні у вашій країні\/регіоні."
+          "one": "Цей продукт недоступний у вашій країні/регіоні.",
+          "other": "Ці продукти недоступні у вашій країні/регіоні."
         },
         "unavailable_label": "Недоступний"
       },
@@ -1682,7 +1691,7 @@
         "cart_and_currency_updated_based_on_country": "Ваш кошик і валюту оновлено відповідно до країни доставки."
       },
       "change_cart_localization": {
-        "verify_shipping_address": "Вашу країну\/регіон оновлено. Введіть свою адресу доставки, щоб продовжити замовлення."
+        "verify_shipping_address": "Вашу країну/регіон оновлено. Введіть свою адресу доставки, щоб продовжити замовлення."
       },
       "tips": {
         "title": "Додайте чайові",
@@ -1731,7 +1740,7 @@
       "prefecture": "Префектура",
       "province": "Провінція",
       "state": "Держава",
-      "state_and_territory": "Держава\/територія",
+      "state_and_territory": "Держава/територія",
       "county": "графство",
       "emirate": "Емірат",
       "governorate": "Губернаторство",
@@ -1789,7 +1798,7 @@
       "expired": "закінчився",
       "invalid_start_date_or_issue_number_for_debit": "потрібна дійсна дата початку або номер випуску",
       "invalid_expiry_year": "не є дійсним роком закінчення",
-      "reset_password_html": "Ця електронна адреса вже пов’язана з обліковим записом. Якщо цей обліковий запис належить вам, ви можете <a href=\"\/account\/login#recover\">скинути пароль<\/a>",
+      "reset_password_html": "Ця електронна адреса вже пов’язана з обліковим записом. Якщо цей обліковий запис належить вам, ви можете <a href=\"/account/login#recover\">скинути пароль</a>",
       "verify_email": "Ми надіслали електронний лист на адресу %{customer_email}, клацніть посилання, щоб підтвердити свою адресу електронної пошти.",
       "product_not_available": "продукт не опубліковано для цього клієнта.",
       "shop_404": {
@@ -1888,7 +1897,7 @@
           "declined": "Платіж відхилено",
           "inventory": "Товари недоступні",
           "fraud": "Шахрайське замовлення",
-          "customer": "Клієнт змінив\/скасував замовлення",
+          "customer": "Клієнт змінив/скасував замовлення",
           "staff": "Помилка персоналу",
           "other": "Інший"
         },
@@ -1908,7 +1917,7 @@
         "too_many_line_items_error": "Ваш кошик не може містити більше %{max} елементів.",
         "link_expired": "Термін дії посилання закінчився",
         "link_no_longer_exists": "Посилання більше не існує.",
-        "stock_problems_html": "Один або кілька елементів більше недоступні. Ми надали <a href=\"%{link}\">оновлений кошик<\/a> .",
+        "stock_problems_html": "Один або кілька елементів більше недоступні. Ми надали <a href=\"%{link}\">оновлений кошик</a> .",
         "changed": "Кошик змінено",
         "items_changed": "Один або кілька елементів змінено.",
         "product_sold_out": "Продукт «%{name}» уже розпродано.",
@@ -1946,29 +1955,29 @@
       },
       "open_tracking": {
         "opt_in": {
-          "opted_in_html": "<b>Ви ввімкнули відкрите відстеження електронною поштою.<\/b>",
+          "opted_in_html": "<b>Ви ввімкнули відкрите відстеження електронною поштою.</b>",
           "visibility": "Про кількість відкритих електронних листів повідомлятиметься анонімно. Ми побачимо лише те, чи відкривали ви електронний лист, як частину сукупного показника відкритості електронних листів.",
-          "opt_out_html": "Ви можете <a style=\"text-decoration:underline;\" href=\"%{link}\">відмовитися<\/a> від відкритого відстеження електронної пошти, якщо не хочете ділитися цією інформацією.",
+          "opt_out_html": "Ви можете <a style=\"text-decoration:underline;\" href=\"%{link}\">відмовитися</a> від відкритого відстеження електронної пошти, якщо не хочете ділитися цією інформацією.",
           "preview_bar": "Ви переглядаєте те, що побачать клієнти, коли ввімкнуть відкрите відстеження електронною поштою."
         },
         "opt_out": {
-          "opted_out_html": "<b>Ви вимкнули відстеження відкритих електронних листів.<\/b>",
+          "opted_out_html": "<b>Ви вимкнули відстеження відкритих електронних листів.</b>",
           "visibility": "Ми не побачимо, чи ви відкривали наші електронні листи.",
-          "opt_in_html": "<a style=\"text-decoration:underline;\" href=\"%{link}\">Увімкніть<\/a> відкрите відстеження електронною поштою.",
+          "opt_in_html": "<a style=\"text-decoration:underline;\" href=\"%{link}\">Увімкніть</a> відкрите відстеження електронною поштою.",
           "preview_bar": "Ви переглядаєте, що клієнти побачать, коли відмовляться від відстеження відкритих електронних листів."
         },
         "no_longer_track": {
-          "status_html": "<b>Ми більше не відстежуємо відкриття електронних листів.<\/b>",
+          "status_html": "<b>Ми більше не відстежуємо відкриття електронних листів.</b>",
           "privacy_policy": "Після надсилання цього електронного листа ми оновили нашу політику конфіденційності та більше не відстежуємо відкриття."
         },
         "track": {
-          "status_html": "<b>Повідомляється про відстеження відкриття електронної пошти.<\/b>",
+          "status_html": "<b>Повідомляється про відстеження відкриття електронної пошти.</b>",
           "visibility": "Ми побачимо лише те, чи відкривали ви електронний лист, як частину загальної кількості відкритих електронних листів."
         },
         "updated_policy": {
-          "status_html": "<b>Повідомляється про відстеження відкриття електронної пошти.<\/b>",
+          "status_html": "<b>Повідомляється про відстеження відкриття електронної пошти.</b>",
           "visibility": "Ми оновили нашу політику, і тепер відстежуємо відкриття електронних листів. Про кількість відкритих електронних листів повідомлятиметься анонімно. Ми побачимо лише те, чи відкривали ви електронний лист, як частину загальної кількості відкритих електронних листів.",
-          "opt_out_html": "Якщо ви не хочете ділитися цією інформацією, ви можете <a style=\"text-decoration:underline;\" href=\"%{link}\">скасувати підписку.<\/a>"
+          "opt_out_html": "Якщо ви не хочете ділитися цією інформацією, ви можете <a style=\"text-decoration:underline;\" href=\"%{link}\">скасувати підписку.</a>"
         }
       }
     },
@@ -2398,7 +2407,7 @@
       "tip": "Порада",
       "title": "Замовити {{name}}",
       "total": "Всього",
-      "unit_price": "{{price}} \/шт",
+      "unit_price": "{{price}} /шт",
       "pagination": {
         "load_more": "Завантажити ще",
         "load_more_accessibility_label": "Завантажити більше елементів",
@@ -2492,12 +2501,12 @@
         "card_number_placeholder": "Номер картки",
         "name_on_card_label": "Ім'я на картці",
         "name_on_card_placeholder": "Ім'я на картці",
-        "card_expiry_label": "Термін придатності (MM \/ YY)",
-        "card_expiry_placeholder": "Термін придатності (MM \/ YY)",
+        "card_expiry_label": "Термін придатності (MM / YY)",
+        "card_expiry_placeholder": "Термін придатності (MM / YY)",
         "card_verification_value_label": "Код безпеки",
         "card_verification_value_placeholder": "Код безпеки",
-        "card_start_label": "Дата видачі (ММ \/ РР)",
-        "card_start_placeholder": "Дата видачі (ММ \/ РР)",
+        "card_start_label": "Дата видачі (ММ / РР)",
+        "card_start_placeholder": "Дата видачі (ММ / РР)",
         "tooltip": {
           "tooltip_accessibility_label": "Більше інформації",
           "card_verification_value_explanation_amex": "4-значний код безпеки на лицьовій стороні вашої картки",
@@ -3007,7 +3016,7 @@
       "cancel": "Скасувати",
       "city": "місто",
       "company": "Компанія",
-      "country": "Країна\/регіон",
+      "country": "Країна/регіон",
       "default": "За замовчуванням",
       "delete": "Видалити",
       "delete_confirm": "Ви впевнені, що бажаєте видалити цю адресу?",
@@ -3187,7 +3196,7 @@
       "viewing": "Ви переглядаєте {{ of }} із {{ total }}"
     },
     "password_page": {
-      "admin_link_html": "Ви власник магазину? <a href=\"\/admin\" class=\"btn btn--text-link\">Увійдіть тут<\/a>",
+      "admin_link_html": "Ви власник магазину? <a href=\"/admin\" class=\"btn btn--text-link\">Увійдіть тут</a>",
       "login_form_heading": "Увійти в магазин за допомогою пароля:",
       "login_form_password_placeholder": "Ваш пароль",
       "login_form_submit": "Введіть",
@@ -3226,7 +3235,7 @@
     "drawer_menu": {
       "account": {
         "logged_in": "Мій рахунок",
-        "logged_out": "Реєстрація \/ Вхід",
+        "logged_out": "Реєстрація / Вхід",
         "logout": "Вийти"
       },
       "currency": "Валюта",
@@ -3261,8 +3270,8 @@
     "sales_banner": {
       "sale_units": {
         "off": "вимкнено",
-        "per_month": "\/ міс",
-        "per_year": "\/рік",
+        "per_month": "/ міс",
+        "per_year": "/рік",
         "percent": ""
       }
     },
@@ -3344,8 +3353,8 @@
       "remove": "видалити",
       "subtotal": "Проміжний підсумок",
       "taxes_and_shipping_at_checkout": "Податки та вартість доставки розраховуються під час оформлення замовлення",
-      "taxes_and_shipping_policy_at_checkout_html": "Податки та вартість <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;\/span&gt;\">доставки<\/a> розраховуються під час оформлення замовлення",
-      "taxes_included_and_shipping_policy_html": "З податком. <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;\/span&gt;\">Вартість доставки<\/a> розраховується при оформленні замовлення.",
+      "taxes_and_shipping_policy_at_checkout_html": "Податки та вартість <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">доставки</a> розраховуються під час оформлення замовлення",
+      "taxes_included_and_shipping_policy_html": "З податком. <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">Вартість доставки</a> розраховується при оформленні замовлення.",
       "taxes_included_but_shipping_at_checkout": "Податок включено, вартість доставки розраховується під час оформлення замовлення",
       "title": "Ваш кошик",
       "update": "оновлення",
@@ -3418,7 +3427,7 @@
     "product": {
       "add_to_cart": "Додати в кошик",
       "buy_now": "Купити зараз",
-      "country_placeholder": "Країна\/регіон",
+      "country_placeholder": "Країна/регіон",
       "description": "опис",
       "estimate_shipping": "Оцініть доставку",
       "from_lowest_price_html": "від {{ lowest_price }}",
@@ -3446,7 +3455,7 @@
       "regular_price": "Звичайна ціна",
       "reviews": "Відгуки покупців",
       "sale_price": "Ціна продажу",
-      "shipping_policy_html": "<a href=\"https:\/\/ua.kamenskaya.store\/policies\/shipping-policy\">Вартість доставки<\/a> розраховується при оформленні замовлення.",
+      "shipping_policy_html": "<a href=\"https://ua.kamenskaya.store/policies/shipping-policy\">Вартість доставки</a> розраховується при оформленні замовлення.",
       "sku_with_value": "Артикул: {{ value }}",
       "sold_out": "Немає в наявності",
       "swatch_count": {
@@ -3479,7 +3488,7 @@
       "name": "Ім'я",
       "phone": "Телефон",
       "post_success": "Дякуємо, що звернулися до нас. Ми зв’яжемося з вами якомога швидше.",
-      "recaptcha_terms_html": "Цей сайт захищено технологією reCAPTCHA, до нього застосовуються <a href=\"https:\/\/policies.google.com\/privacy\">Політика конфіденційності<\/a> й <a href=\"https:\/\/policies.google.com\/terms\">Умови використання<\/a> Google.",
+      "recaptcha_terms_html": "Цей сайт захищено технологією reCAPTCHA, до нього застосовуються <a href=\"https://policies.google.com/privacy\">Політика конфіденційності</a> й <a href=\"https://policies.google.com/terms\">Умови використання</a> Google.",
       "submit": "Надіслати"
     }
   },
