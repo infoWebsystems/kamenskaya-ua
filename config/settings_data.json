@@ -60,6 +60,7 @@
     "cart_item_aspect_ratio": "natural",
     "enable_free_shipping_bar": true,
     "free_shipping_threshold": "1500",
+    "enable_cross_sells": false,
     "quick_search_product_style": "list",
     "quick_search_show_vendor": false,
     "quick_search_suggested_heading": "Popular collections",

@@ -1,12 +1,60 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-cart",
       "settings": {
+        "show_product_currency": true,
+        "cross_sells_position": "below-line-items"
+      }
+    },
+    "176416081725689e49": {
+      "type": "apps",
+      "blocks": {
+        "nova_post_division_selector_section_XG4CUn": {
+          "type": "shopify://apps/nova-post/blocks/division_selector_section/6de48d1f-208f-475d-8920-f0a2565ac8b6",
+          "settings": {
+            "country_UA": true,
+            "country_AT": false,
+            "country_CZ": false,
+            "country_EE": false,
+            "country_FR": false,
+            "country_DE": false,
+            "country_HU": false,
+            "country_IT": false,
+            "country_LV": false,
+            "country_LT": false,
+            "country_MD": false,
+            "country_NL": false,
+            "country_PL": false,
+            "country_RO": false,
+            "country_SK": false,
+            "country_ES": false,
+            "country_GB": false
+          }
+        }
+      },
+      "block_order": [
+        "nova_post_division_selector_section_XG4CUn"
+      ],
+      "settings": {
+        "heading": "App section",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "176416081725689e49"
   ]
 }
