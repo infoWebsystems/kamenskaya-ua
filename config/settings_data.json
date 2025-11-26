@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "color_background_body": "#ffffff",
@@ -46,24 +55,24 @@
     "product_listing_aspect_ratio": "square",
     "product_listing_show_discount": false,
     "product_listing_discount_format": "minus_percent",
-    "product_listing_show_sale_badge": false,
+    "product_listing_show_sale_badge": true,
     "product_listing_show_custom_badges": true,
     "cart_item_aspect_ratio": "natural",
-    "enable_free_shipping_bar": false,
-    "free_shipping_threshold": "250",
+    "enable_free_shipping_bar": true,
+    "free_shipping_threshold": "1500",
     "quick_search_product_style": "list",
     "quick_search_show_vendor": false,
     "quick_search_suggested_heading": "Popular collections",
-    "social_facebook_link": "https:\/\/www.facebook.com\/KamenskayaInk\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/kamenskaya_ink\/",
+    "social_facebook_link": "https://www.facebook.com/KamenskayaInk/",
+    "social_instagram_link": "https://www.instagram.com/kamenskaya_ink/",
     "social_linkedin_link": "",
     "social_snapchat_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
     "social_vimeo_link": "",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UClaod7Z83DRCuXWH7h9IatQ",
-    "favicon": "shopify:\/\/shop_images\/Ellipse_117.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Kamenskaya_logo.svg",
+    "social_youtube_link": "https://www.youtube.com/channel/UClaod7Z83DRCuXWH7h9IatQ",
+    "favicon": "shopify://shop_images/Ellipse_117.png",
+    "checkout_logo_image": "shopify://shop_images/Kamenskaya_logo.svg",
     "checkout_logo_size": "large",
     "checkout_input_background_color_mode": "white",
     "checkout_sidebar_background_color": "#ffffff",
@@ -71,9 +80,20 @@
     "checkout_accent_color": "#504848",
     "checkout_button_color": "#f2cbcb",
     "checkout_error_color": "#f2cbcb",
-    "content_for_index": [
-
-    ]
+    "sections": {
+      "password-header": {
+        "type": "password-header",
+        "settings": {
+          "layout": "logo-center",
+          "divider_width": "0px",
+          "logo_width": 200,
+          "mobile_logo_width": 200,
+          "enable_transparent": true,
+          "color_text_transparent": "#ffffff"
+        }
+      }
+    },
+    "content_for_index": []
   },
   "presets": {
     "Vogue": {
