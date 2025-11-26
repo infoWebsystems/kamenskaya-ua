@@ -491,7 +491,7 @@
         "address_company_contains_html_tags": "Компанія не може містити теги HTML.",
         "address_phone_blank": "Введіть дійсний номер телефону",
         "address_phone_contains_emojis": "Номер телефону не може містити емодзі",
-        "address_zip_blank": "Введіть поштовий індекс",
+        "address_zip_blank": "Якщо ви не знаєте свій поштовий індекс - просто введіть умовний індекс 00000",
         "address_zip_not_supported": "Це місце не підтримується.",
         "address_zip_invalid_for_country": "Введіть дійсний поштовий індекс для %{country}",
         "address_zip_invalid_for_province": "Введіть дійсний поштовий індекс для %{province}",
