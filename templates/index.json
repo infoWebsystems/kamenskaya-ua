@@ -1229,6 +1229,7 @@
         "63e2f450-ccdf-4ba0-8c95-8e7b01b5c7f5",
         "7f329234-f652-4947-8f09-cad43d072028"
       ],
+      "disabled": true,
       "settings": {
         "image_position": "right",
         "image_mobile_position": "above-content",
