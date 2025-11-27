@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -44,7 +53,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Чорнила лінії \"Nude\" - це ніжні пастельні відтінки. Ефектно виглядають на темних поверхнях. Насичені чи легкі - вирішувати вам!<\/p>",
+            "text": "<p>Чорнила лінії \"Nude\" - це ніжні пастельні відтінки. Ефектно виглядають на темних поверхнях. Насичені чи легкі - вирішувати вам!</p>",
             "column_placement": "left"
           }
         },
@@ -95,11 +104,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"/pages/contact\" title=\"Contact\">Зв'яжіться з нами</a></p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!</p>",
             "icon_5": "padlock",
-            "text_5": "<p>Безпечна оплата<\/p>",
+            "text_5": "<p>Безпечна оплата</p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -108,8 +117,7 @@
         },
         "share": {
           "type": "share",
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
@@ -127,7 +135,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Опис",
-            "content": "<ul><li>Пастельні чорнила - ніжна палітра з 16 спиртових чорнил з бархатистим покриттям, на основі барвника та пігменту, призначена для роботи спиртовими чорнилами та з епоксидною смолою. Пігмент забезпечує щільний і непрозорий тон, а барвник відповідає за колір.<\/li><li>Висока світлостійкість: наші фарби мають рівень світлостійкості 7-10, що означає, що кольори залишаються яскравими протягом тривалого часу.<\/li><li>Економічність у використанні: однієї пляшки фарби вистачає щонайменше на 2 картини формату 100:70 см, що є ознакою високої економічності у використанні.<\/li><li>Фарби легко змішуються між собою, а також розбавляються до потрібної концентрації спеціальним розчинником для чорнил KAMENSKAYA.<\/li><\/ul>",
+            "content": "<ul><li>Пастельні чорнила - ніжна палітра з 16 спиртових чорнил з бархатистим покриттям, на основі барвника та пігменту, призначена для роботи спиртовими чорнилами та з епоксидною смолою. Пігмент забезпечує щільний і непрозорий тон, а барвник відповідає за колір.</li><li>Висока світлостійкість: наші фарби мають рівень світлостійкості 7-10, що означає, що кольори залишаються яскравими протягом тривалого часу.</li><li>Економічність у використанні: однієї пляшки фарби вистачає щонайменше на 2 картини формату 100:70 см, що є ознакою високої економічності у використанні.</li><li>Фарби легко змішуються між собою, а також розбавляються до потрібної концентрації спеціальним розчинником для чорнил KAMENSKAYA.</li></ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -138,7 +146,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Рекомендації",
-            "content": "<p>- Використовуйте захисні матеріали та рукавички під час роботи з чорнилами<\/p><p>- Нанесіть чорнила на гладку невбираючу поверхню. Перед використанням флакон треба струсити<\/p><p>- Розведіть чорнила розчином для чорнил або спиртом до необхідної консистенції (насиченості) при роботі в техніці \"спиртові чорнила\"<\/p><p>- Налийте розведену фарбу на поверхню і малюйте під струменем фена. Робіть кругові рухи навколо краплі, щоб сформувати красиві краї<\/p><p>- Додайте до фарби кілька крапель чорнила \"металік\", щоб створити невагоме золоте павутиння<\/p><p>- На завершення покрийте малюнок акриловим лаком-спреєм, щоб збільшити довговічність вашого зображення.<\/p><p>Час для експериментів настав! Давайте творити разом!<\/p><p><strong>Поради:<\/strong><br\/>1. Під час роботи з пастельними чорнилами використовуйте розчинник для чорнил, щоб закріпити чорнила на поверхні. Ми рекомендуємо збільшити ступінь фіксації розчиннику шляхом додавання спиртового лаку від нашого бренду.<br\/>2. Для досягнення бажаних результатів працюйте з чорнилами на гладких поверхнях, що не вбирають вологу.<br\/>3. Після висихання нанесіть на малюнок кілька шарів акрилового лаку.<br\/>4. \"Нюдові\" чорнила також підходять для роботи в техніці \"Петрі\", для створення ніжних, схожих на квіти ефектів.<br\/>5. Ідеальне співвідношення для розведення чорнила і розчиннику для чорнил - 1:6-1:7, де 1 - чорнило.<br\/><br\/><strong>Заходи безпеки:<\/strong> Працювати в провітрюваних приміщеннях, продукти легкозаймисті, зберігати в недоступному для дітей місці та подалі від відкритих джерел вогню. Використовувати строго за призначенням. У разі потрапляння на слизові оболонки ретельно промити водою і при необхідності звернутися до лікаря.<\/p>",
+            "content": "<p>- Використовуйте захисні матеріали та рукавички під час роботи з чорнилами</p><p>- Нанесіть чорнила на гладку невбираючу поверхню. Перед використанням флакон треба струсити</p><p>- Розведіть чорнила розчином для чорнил або спиртом до необхідної консистенції (насиченості) при роботі в техніці \"спиртові чорнила\"</p><p>- Налийте розведену фарбу на поверхню і малюйте під струменем фена. Робіть кругові рухи навколо краплі, щоб сформувати красиві краї</p><p>- Додайте до фарби кілька крапель чорнила \"металік\", щоб створити невагоме золоте павутиння</p><p>- На завершення покрийте малюнок акриловим лаком-спреєм, щоб збільшити довговічність вашого зображення.</p><p>Час для експериментів настав! Давайте творити разом!</p><p><strong>Поради:</strong><br/>1. Під час роботи з пастельними чорнилами використовуйте розчинник для чорнил, щоб закріпити чорнила на поверхні. Ми рекомендуємо збільшити ступінь фіксації розчиннику шляхом додавання спиртового лаку від нашого бренду.<br/>2. Для досягнення бажаних результатів працюйте з чорнилами на гладких поверхнях, що не вбирають вологу.<br/>3. Після висихання нанесіть на малюнок кілька шарів акрилового лаку.<br/>4. \"Нюдові\" чорнила також підходять для роботи в техніці \"Петрі\", для створення ніжних, схожих на квіти ефектів.<br/>5. Ідеальне співвідношення для розведення чорнила і розчиннику для чорнил - 1:6-1:7, де 1 - чорнило.<br/><br/><strong>Заходи безпеки:</strong> Працювати в провітрюваних приміщеннях, продукти легкозаймисті, зберігати в недоступному для дітей місці та подалі від відкритих джерел вогню. Використовувати строго за призначенням. У разі потрапляння на слизові оболонки ретельно промити водою і при необхідності звернутися до лікаря.</p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -149,7 +157,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Умови зберігання та термін придатності",
-            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. Уникати різких перепадів температури та відкритих сонячних променів.<\/p>",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. Уникати різких перепадів температури та відкритих сонячних променів.</p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -162,9 +170,7 @@
             "column_placement": "left",
             "max_products": 10,
             "product_source": "app-recommendations",
-            "product_list": [
-
-            ],
+            "product_list": [],
             "enable_swiper_mobile": true,
             "display_as_collapsible_row": true,
             "expand_by_default": false
@@ -194,11 +200,11 @@
         "show_navigation_buttons": true,
         "gallery_style": "thumbnails",
         "gallery_style_mobile": "carousel",
-        "gallery_size": "small",
+        "gallery_size": "medium",
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
-        "image_aspect_ratio": "portrait",
+        "image_aspect_ratio": "square",
         "enable_gift_card_recipient": true,
         "enable_animation": true
       }
@@ -213,7 +219,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -228,7 +234,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -243,7 +249,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -260,7 +266,7 @@
       "disabled": true,
       "settings": {
         "title": "",
-        "subheading": "<p>Use a multi-column section to organize detailed information about your products:<\/p>",
+        "subheading": "<p>Use a multi-column section to organize detailed information about your products:</p>",
         "subheading_link": "",
         "subheading_link_text": "Your link here",
         "heading_font_class": "fs-heading-3-base",
@@ -304,7 +310,7 @@
         "block-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -347,7 +353,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -388,7 +394,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -491,7 +497,7 @@
         "template--20429241319707__baeb688a-7aa3-4334-bb1f-cda69a5d8a4e-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this section to promote a particular feature with editorial video.<\/p>",
+            "text": "<p>Use this section to promote a particular feature with editorial video.</p>",
             "text_font_class": "fs-body-100"
           }
         },
@@ -512,7 +518,7 @@
       "disabled": true,
       "settings": {
         "video_source": "external",
-        "video_url": "https:\/\/youtu.be\/xgD3Rs5Qhzw",
+        "video_url": "https://youtu.be/xgD3Rs5Qhzw",
         "loop": false,
         "media_aspect_ratio": "landscape_wide_alt",
         "focal_point": "image_presentation",
@@ -546,7 +552,7 @@
       "settings": {
         "heading": "Other Alcohol Ink Collections",
         "subheading": "",
-        "link": "shopify:\/\/collections\/alcohol-inks",
+        "link": "shopify://collections/alcohol-inks",
         "link_text": "View all alcohol inks",
         "columns": "4",
         "mobile_columns": "2",
@@ -575,7 +581,7 @@
       "settings": {
         "heading": "Колекції спиртових чорнил",
         "subheading": "",
-        "link": "shopify:\/\/collections\/alcohol-inks",
+        "link": "shopify://collections/alcohol-inks",
         "link_text": "Переглянути всі спиртові чорнила",
         "columns": "4",
         "mobile_columns": "2",
