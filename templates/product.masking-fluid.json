@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -50,7 +59,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Маскуюча рідина! Додай ще більше творчості! <\/p><p>Маскуюча рідина створена спеціально для твоєї творчості! Тепер ви можете наносити цю супер-річ на будь-яку поверхню, щоб захистити фрагменти від чорнила або акрилу під час роботи. Використовуйте пензлик для легкого нанесення.<\/p>",
+            "text": "<p>Маскуюча рідина! Додай ще більше творчості! </p><p>Маскуюча рідина створена спеціально для твоєї творчості! Тепер ви можете наносити цю супер-річ на будь-яку поверхню, щоб захистити фрагменти від чорнила або акрилу під час роботи. Використовуйте пензлик для легкого нанесення.</p>",
             "column_placement": "left"
           }
         },
@@ -88,11 +97,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"/pages/contact\" title=\"Contact\">Зв'яжіться з нами</a></p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!</p>",
             "icon_5": "padlock",
-            "text_5": "<p>Безпечна оплата<\/p>",
+            "text_5": "<p>Безпечна оплата</p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -101,8 +110,7 @@
         },
         "share": {
           "type": "share",
-          "settings": {
-          }
+          "settings": {}
         },
         "accordion-1": {
           "type": "accordion",
@@ -110,7 +118,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Опис",
-            "content": "<ul><li>Маскувальна рідина, використовується як розділювальний або захисний шар для фрагментів картин або об'єктів під час процесу малювання, щоб захистити елементи, які потрібно залишити недоторканими.<\/li><li>Легко наноситься, швидко сохне, легко відклеюється від поверхні (як еластична плівка).<\/li><li>Біла густа емульсія, яка після висихання стає прозорою з жовтуватим відтінком.<\/li><\/ul>",
+            "content": "<ul><li>Маскувальна рідина, використовується як розділювальний або захисний шар для фрагментів картин або об'єктів під час процесу малювання, щоб захистити елементи, які потрібно залишити недоторканими.</li><li>Легко наноситься, швидко сохне, легко відклеюється від поверхні (як еластична плівка).</li><li>Біла густа емульсія, яка після висихання стає прозорою з жовтуватим відтінком.</li></ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -121,7 +129,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Умови зберігання та термін придатності",
-            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. <\/p>",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. </p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -134,9 +142,7 @@
             "column_placement": "left",
             "max_products": 10,
             "product_source": "app-recommendations",
-            "product_list": [
-
-            ],
+            "product_list": [],
             "enable_swiper_mobile": true,
             "display_as_collapsible_row": true,
             "expand_by_default": false
@@ -163,11 +169,11 @@
         "show_navigation_buttons": true,
         "gallery_style": "thumbnails",
         "gallery_style_mobile": "carousel",
-        "gallery_size": "small",
+        "gallery_size": "medium",
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
-        "image_aspect_ratio": "portrait",
+        "image_aspect_ratio": "square",
         "enable_gift_card_recipient": true,
         "enable_animation": true
       }
@@ -182,7 +188,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -197,7 +203,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -212,7 +218,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -229,7 +235,7 @@
       "disabled": true,
       "settings": {
         "title": "",
-        "subheading": "<p>Use a multi-column section to organize detailed information about your products:<\/p>",
+        "subheading": "<p>Use a multi-column section to organize detailed information about your products:</p>",
         "subheading_link": "",
         "subheading_link_text": "Your link here",
         "heading_font_class": "fs-heading-3-base",
@@ -273,7 +279,7 @@
         "block-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -316,7 +322,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -357,7 +363,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -465,7 +471,7 @@
       "settings": {
         "heading": "Колекції спиртових чорнил",
         "subheading": "",
-        "link": "shopify:\/\/collections\/alcohol-inks",
+        "link": "shopify://collections/alcohol-inks",
         "link_text": "Переглянути всі спиртові чорнила",
         "columns": "4",
         "mobile_columns": "2",
