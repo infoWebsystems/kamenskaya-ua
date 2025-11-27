@@ -16,7 +16,6 @@
       "blocks": {
         "announcement_WApycr": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "title": "<p>BLACK FRIDAY ЗНИЖКА 20% НА ВСІ ТОВАРИ!</p>",
             "title_mobile": "<p>BLACK FRIDAY - ЗНИЖКА 20% НА ВСІ ТОВАРИ!</p>",
