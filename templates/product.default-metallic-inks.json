@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -37,7 +46,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Чорнила лінії \"M\" - це мерехтлива серія металізованих чорнил для створення золотих граней та легкого павутиння. Ідеально поєднуються з чорнилами всіх лінійок для створення чарівного тандему. Хочете додати правильний акцент до своєї роботи? Тоді вам точно потрібні чорнила металік!<\/p>",
+            "text": "<p>Чорнила лінії \"M\" - це мерехтлива серія металізованих чорнил для створення золотих граней та легкого павутиння. Ідеально поєднуються з чорнилами всіх лінійок для створення чарівного тандему. Хочете додати правильний акцент до своєї роботи? Тоді вам точно потрібні чорнила металік!</p>",
             "column_placement": "left"
           }
         },
@@ -105,11 +114,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Є питання? <a href=\"\/pages\/contact\" title=\"Contact\">Зв'яжіться з нами<\/a><\/p>",
+            "text_3": "<p>Є питання? <a href=\"/pages/contact\" title=\"Contact\">Зв'яжіться з нами</a></p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!<\/p>",
+            "text_4": "<p>При замовленні на суму від 1500 грн. доставка за наш рахунок!</p>",
             "icon_5": "padlock",
-            "text_5": "<p>Безпечна оплата<\/p>",
+            "text_5": "<p>Безпечна оплата</p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -118,8 +127,7 @@
         },
         "share": {
           "type": "share",
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
@@ -137,7 +145,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Опис",
-            "content": "<ul><li>Чорнила з натуральним металізованим пігментом - це мерехтлива серія спиртових чорнил для створення золотих граней та легкого павутиння у ваших роботах спиртовими чорнилами. Можна використовувати також як спиртові чорнила для епоксидної смоли.<\/li><li>Додайте потрібний акцент до своєї роботи, обравши золоті, срібні або бронзові металізовані чорнила на свій смак<\/li><li>Створіть чарівний тандем із чорнилом будь-якої іншої лінійки спиртових чорнил KAMENSKAYA та створюйте легкі напівсферичні краї або мерехтливі пластівці.<\/li><li>Легко змішуйте кольори між собою та розбавляйте до потрібної концентрації спеціальним розчинником для чорнил KAMENSKAYA.<\/li><\/ul>",
+            "content": "<ul><li>Чорнила з натуральним металізованим пігментом - це мерехтлива серія спиртових чорнил для створення золотих граней та легкого павутиння у ваших роботах спиртовими чорнилами. Можна використовувати також як спиртові чорнила для епоксидної смоли.</li><li>Додайте потрібний акцент до своєї роботи, обравши золоті, срібні або бронзові металізовані чорнила на свій смак</li><li>Створіть чарівний тандем із чорнилом будь-якої іншої лінійки спиртових чорнил KAMENSKAYA та створюйте легкі напівсферичні краї або мерехтливі пластівці.</li><li>Легко змішуйте кольори між собою та розбавляйте до потрібної концентрації спеціальним розчинником для чорнил KAMENSKAYA.</li></ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -148,7 +156,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Рекомендації",
-            "content": "<p>- Використовуйте захисні матеріали та рукавички під час роботи з чорнилами<\/p><p>- Нанесіть чорнила на гладку невбираючу поверхню. Перед використанням флакон треба струсити<\/p><p>- Розведіть чорнила розчином для чорнил або спиртом до необхідної консистенції (насиченості) при роботі в техніці \"спиртові чорнила\"<\/p><p>- Налийте розведену фарбу на поверхню і малюйте під струменем фена. Робіть кругові рухи навколо краплі, щоб сформувати красиві краї<\/p><p>- Додайте до фарби кілька крапель чорнила \"металік\", щоб створити невагоме золоте павутиння<\/p><p>- На завершення покрийте малюнок акриловим лаком-спреєм, щоб збільшити довговічність вашого зображення.<\/p><p>Час для експериментів настав! Давайте творити разом!<\/p><p><strong>Поради:<\/strong><br\/>1. Перед використанням ретельно збовтайте та розбавте чорнило.<br\/>2. Наносьте чорнила на гладку поверхню, що не поглинає вологу, для отримання бажаного результату.<br\/>3. Після висихання покрийте зображення аерозольним акриловим лаком у кілька шарів. Металеві чорнила на 100% складаються з натурального металу і схильні до окислення, лак допоможе зберегти зовнішній вигляд вашої роботи.<br\/>4. Ви можете додати кілька крапель мерехтливого чорнила до розведеного чорнила іншої лінії для отримання ефектного завершення.<\/p><p><strong>Заходи безпеки: <\/strong>Працювати в провітрюваних приміщеннях, продукти легкозаймисті, зберігати в недоступному для дітей місці та подалі від відкритих джерел вогню. Використовувати строго за призначенням. У разі потрапляння на слизові оболонки ретельно промити водою і при необхідності звернутися до лікаря.<\/p>",
+            "content": "<p>- Використовуйте захисні матеріали та рукавички під час роботи з чорнилами</p><p>- Нанесіть чорнила на гладку невбираючу поверхню. Перед використанням флакон треба струсити</p><p>- Розведіть чорнила розчином для чорнил або спиртом до необхідної консистенції (насиченості) при роботі в техніці \"спиртові чорнила\"</p><p>- Налийте розведену фарбу на поверхню і малюйте під струменем фена. Робіть кругові рухи навколо краплі, щоб сформувати красиві краї</p><p>- Додайте до фарби кілька крапель чорнила \"металік\", щоб створити невагоме золоте павутиння</p><p>- На завершення покрийте малюнок акриловим лаком-спреєм, щоб збільшити довговічність вашого зображення.</p><p>Час для експериментів настав! Давайте творити разом!</p><p><strong>Поради:</strong><br/>1. Перед використанням ретельно збовтайте та розбавте чорнило.<br/>2. Наносьте чорнила на гладку поверхню, що не поглинає вологу, для отримання бажаного результату.<br/>3. Після висихання покрийте зображення аерозольним акриловим лаком у кілька шарів. Металеві чорнила на 100% складаються з натурального металу і схильні до окислення, лак допоможе зберегти зовнішній вигляд вашої роботи.<br/>4. Ви можете додати кілька крапель мерехтливого чорнила до розведеного чорнила іншої лінії для отримання ефектного завершення.</p><p><strong>Заходи безпеки: </strong>Працювати в провітрюваних приміщеннях, продукти легкозаймисті, зберігати в недоступному для дітей місці та подалі від відкритих джерел вогню. Використовувати строго за призначенням. У разі потрапляння на слизові оболонки ретельно промити водою і при необхідності звернутися до лікаря.</p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -159,7 +167,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Умови зберігання та термін придатності",
-            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. Уникати різких перепадів температури та відкритих сонячних променів.<\/p>",
+            "content": "<p>36 місяців до відкриття, 6 місяців після відкриття флакона. Зберігати в закритому флаконі при температурі від 5 до 25 градусів Цельсія. Уникати різких перепадів температури та відкритих сонячних променів.</p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -172,9 +180,7 @@
             "column_placement": "left",
             "max_products": 10,
             "product_source": "app-recommendations",
-            "product_list": [
-
-            ],
+            "product_list": [],
             "enable_swiper_mobile": true,
             "display_as_collapsible_row": true,
             "expand_by_default": false
@@ -204,11 +210,11 @@
         "show_navigation_buttons": true,
         "gallery_style": "thumbnails",
         "gallery_style_mobile": "carousel",
-        "gallery_size": "small",
+        "gallery_size": "medium",
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
-        "image_aspect_ratio": "portrait",
+        "image_aspect_ratio": "square",
         "enable_gift_card_recipient": true,
         "enable_animation": true
       }
@@ -223,7 +229,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -238,7 +244,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -253,7 +259,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -270,7 +276,7 @@
       "disabled": true,
       "settings": {
         "title": "",
-        "subheading": "<p>Use a multi-column section to organize detailed information about your products:<\/p>",
+        "subheading": "<p>Use a multi-column section to organize detailed information about your products:</p>",
         "subheading_link": "",
         "subheading_link_text": "Your link here",
         "heading_font_class": "fs-heading-3-base",
@@ -314,7 +320,7 @@
         "block-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -357,7 +363,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -398,7 +404,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -506,7 +512,7 @@
       "settings": {
         "heading": "Колекції спиртових чорнил",
         "subheading": "",
-        "link": "shopify:\/\/collections\/alcohol-inks",
+        "link": "shopify://collections/alcohol-inks",
         "link_text": "Переглянути всі спиртові чорнила",
         "columns": "4",
         "mobile_columns": "2",
