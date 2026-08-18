@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -183,6 +183,23 @@
             "button_style": "btn--callout"
           }
         },
+        "c5b344bf-3181-4ad4-8b4e-4210f2222783": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 100,
+            "icon_width_mobile": 100,
+            "accent": "Epoxy Space Kyiv",
+            "heading": "Матеріали для resin art та епоксидна смола в Києві",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "https://epoxyspace.kyiv.ua/catalog/sppyrtovi-chornyla/",
+            "link_text": "ВІДВІДАТИ ВЕБ-САЙТ",
+            "button_style": "btn--callout"
+          }
+        },
         "e0762fe7-7429-4ea7-b1ec-0ac585c961be": {
           "type": "icon_column",
           "settings": {
@@ -198,24 +215,6 @@
             "link": "https://tvorcha.com/ua/mixed_media/alcohol_pigments/alcohol_chernila/kamenskaya/",
             "link_text": "ВІДВІДАТИ ВЕБ-САЙТ",
             "button_style": "btn--callout"
-          }
-        },
-        "c5b344bf-3181-4ad4-8b4e-4210f2222783": {
-          "type": "icon_column",
-          "disabled": true,
-          "settings": {
-            "icon": "none",
-            "icon_width": 100,
-            "icon_width_mobile": 100,
-            "accent": "RESIN 4 ART",
-            "heading": "Нова Зеландія",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "https://resin4art.nz/product-category/kamenskaya-alcohol-inks/",
-            "link_text": "ВІДВІДАТИ ВЕБ-САЙТ",
-            "button_style": "btn--primary"
           }
         },
         "c938c507-0659-4cee-8a14-f166b778a069": {
@@ -263,8 +262,8 @@
         "4a8bab27-cbc1-4a6a-8139-35dbd7eac2de",
         "52bfd621-3ff0-44cf-a053-9bd10774b9c3",
         "icon_column_zgqakT",
-        "e0762fe7-7429-4ea7-b1ec-0ac585c961be",
         "c5b344bf-3181-4ad4-8b4e-4210f2222783",
+        "e0762fe7-7429-4ea7-b1ec-0ac585c961be",
         "c938c507-0659-4cee-8a14-f166b778a069",
         "668e5ccd-ba6a-4a86-a215-7e7b23c8b75a"
       ],
