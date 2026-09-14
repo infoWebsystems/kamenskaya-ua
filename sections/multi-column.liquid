@@ -32,7 +32,7 @@
     --grid-gap-column-mobile: {{ section.settings.column_spacing_mobile }}px;
     --grid-gap-row-desktop: {{ section.settings.row_spacing }}px;
     --grid-gap-row-mobile: {{ section.settings.row_spacing_mobile }}px;
-    {% render 'overlay-button-vars' with color_button_text: section.settings.button_text_color, color_button_background: section.settings.button_background_color %}
+    {% render 'overlay-button-vars' with color_button_text, color_button_text: section.settings.button_text_color, color_button_background: section.settings.button_background_color %}
   "
 >
   <div
@@ -63,12 +63,7 @@
     </div>
     <div class="multi-column__grid">
       {%- for block in section.blocks -%}
-        {%-
-          render 'multi-column-item' with
-          block: block,
-          columns: section.settings.columns,
-          heading_link: block.settings.heading_link
-        -%}
+        {%- render 'multi-column-item' with block, block: block, columns: section.settings.columns, heading_link: block.settings.heading_link -%}
       {%- endfor -%}
     </div>
   </div>
@@ -876,3 +871,26 @@
   ]
 }
 {% endschema %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% render 'overlay-button-vars' with color_button_text: section.settings.button_text_color,
+    color_button_background: section.settings.button_background_color %}"
+  to: "{% render 'overlay-button-vars' with color_button_text, color_button_text:
+    section.settings.button_text_color, color_button_background: section.settings.button_background_color
+    %}"
+  position: 1604..1783
+- from: |-
+    {%-
+              render 'multi-column-item' with
+              block: block,
+              columns: section.settings.columns,
+              heading_link: block.settings.heading_link
+            -%}
+  to: "{%- render 'multi-column-item' with block, block: block, columns: section.settings.columns,
+    heading_link: block.settings.heading_link -%}"
+  position: 2888..3025
+{% endcomment %}
